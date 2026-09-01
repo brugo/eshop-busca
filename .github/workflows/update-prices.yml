@@ -1,0 +1,53 @@
+name: Atualiza precos da eShop
+
+on:
+  schedule:
+    # De 6 em 6 horas. Horario UTC; 17:00 UTC = 14:00 em Brasilia.
+    - cron: '0 5,11,17,23 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: precos
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Consultar a API da Nintendo
+        id: precos
+        run: |
+          python update-prices.py | tee resultado.txt
+          echo "mudou=$(grep -oP 'MUDOU=\K\d' resultado.txt)" >> "$GITHUB_OUTPUT"
+          {
+            echo '```'
+            cat resultado.txt
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+          rm resultado.txt
+
+      - name: Publicar
+        run: |
+          if git diff --quiet; then
+            echo "nada a commitar"
+            exit 0
+          fi
+          if [ "${{ steps.precos.outputs.mudou }}" = "1" ]; then
+            msg="Precos da eShop: mudanca detectada"
+          else
+            msg="Precos da eShop: conferido, sem mudanca"
+          fi
+          git config user.name "radar-eshop bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data.json index.html
+          git commit -m "$msg ($(date -u '+%d/%m %H:%M') UTC)"
+          git push
