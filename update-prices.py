@@ -20,7 +20,8 @@ from datetime import datetime, timedelta, timezone
 API = 'https://api.ec.nintendo.com/v1/price?country=BR&lang=pt&ids='
 LOTE = 5
 BRASILIA = timezone(timedelta(hours=-3))
-ORDEM = ['n', 'id', 'p', 's', 'reg', 'cur', 'pct', 'ends', 'low', 'phys', 'note', 'hist', 'img']
+ORDEM = ['n', 'id', 'p', 's', 'reg', 'cur', 'pct', 'ends', 'low', 'phys', 'physSrc',
+         'note', 'hist', 'img']
 
 
 def consulta(ids):

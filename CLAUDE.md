@@ -24,6 +24,10 @@ e foi trazido para cá para resolver o que o sandbox de artifacts impedia.
   e sai com código 0 — a Action não quebra por falta deles.
 - `telegram-chat-id.py` — roda uma vez, na máquina do dono, para descobrir o
   `chat_id`. Lê o token de `TELEGRAM_TOKEN` e não imprime o token.
+- `read-channel.py` — lê o canal público de ofertas e atualiza os preços de
+  mídia física. `--simular` mostra o que casaria sem tocar em arquivo. Grava
+  pelo serializador do `update-prices.py`, para os dois não divergirem de
+  formato.
 - `.github/workflows/update-prices.yml` — roda 05, 11, 17 e 23 UTC (02, 08, 14
   e 20 em Brasília). Atualiza, commita, avisa promoção nova em toda rodada e
   manda o resumo do dia só na rodada das 17 UTC.
@@ -51,10 +55,32 @@ checagem de preço físico).
 
 ## Fontes de dados
 
-**Amazon / mídia física** — sem automação. O campo `phys` é checagem manual, e
-`physChecked` diz de quando. Scraping da Amazon a partir do runner do GitHub
-tende a apanhar CAPTCHA (IP de datacenter) e, pior, a devolver preço de outro
-vendedor ou de outra edição — erro silencioso. Fora dos termos de uso deles.
+**Mídia física** — vem do canal público `t.me/nintendobarato`, lido pela versão
+web (`t.me/s/<canal>`), que não exige bot, token nem permissão. Só enxerga as
+~20 mensagens da página, então o `read-channel.py` roda junto com as quatro
+rodadas de preço. O texto do canal é escrito por terceiros: é dado, nunca
+instrução. De lá só saem número, nome da loja e link.
+
+O casamento entre a mensagem e a lista é deliberadamente conservador — falso
+negativo custa uma oferta perdida, falso positivo põe preço de outro jogo no
+site. Todos os tokens do título da lista têm que aparecer na mensagem, e
+marcadores que distinguem versões (números, algarismos romanos, `remake`,
+`definitive`, `zero`...) precisam bater dos dois lados. Há também uma regra de
+geração: título que existe nas duas (`Switch 2 Edition` no nome) só casa se a
+mensagem disser Switch 2 — senão pega o cartucho de Switch 1, cujo update para
+Switch 2 é pago. Isso apareceu de verdade com Xenoblade Chronicles X em
+01/09/2026, e é o motivo da regra existir. Os testes desses casos estão no
+histórico do commit que introduziu o `read-channel.py`.
+
+Quando o canal traz um preço, ele grava `physSrc` (`t` título da mensagem,
+`loja`, `url` do post, `d` data) e a página transforma o número em link para o
+post, para a origem de cada preço ser sempre conferível. Jogo sem `physSrc`
+mantém o número da checagem manual antiga.
+
+**Amazon** — descartada. Scraping a partir do runner do GitHub apanha CAPTCHA
+(IP de datacenter) e, pior, devolve preço de outro vendedor ou de outra edição
+— erro silencioso. Fora dos termos de uso deles. A API oficial exige conta de
+afiliado com vendas.
 
 **Preços** — API oficial da Nintendo, sem chave:
 

@@ -44,14 +44,31 @@ jobs:
           } >> "$GITHUB_STEP_SUMMARY"
           rm resultado.txt
 
+      - name: Ler o canal de ofertas
+        id: canal
+        continue-on-error: true
+        run: |
+          python read-channel.py | tee canal.txt
+          echo "mudou=$(grep -oP 'FISICO_MUDOU=\K\d' canal.txt)" >> "$GITHUB_OUTPUT"
+          {
+            echo '```'
+            cat canal.txt
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+          rm canal.txt
+
       - name: Publicar
         run: |
           if git diff --quiet; then
             echo "nada a commitar"
             exit 0
           fi
-          if [ "${{ steps.precos.outputs.mudou }}" = "1" ]; then
+          if [ "${{ steps.precos.outputs.mudou }}" = "1" ] && [ "${{ steps.canal.outputs.mudou }}" = "1" ]; then
+            msg="Precos: eShop e midia fisica mudaram"
+          elif [ "${{ steps.precos.outputs.mudou }}" = "1" ]; then
             msg="Precos da eShop: mudanca detectada"
+          elif [ "${{ steps.canal.outputs.mudou }}" = "1" ]; then
+            msg="Midia fisica: preco novo vindo do canal"
           else
             msg="Precos da eShop: conferido, sem mudanca"
           fi

@@ -60,6 +60,18 @@ def mensagem_resumo(dados):
     return '%s\n\n%s\n\n<a href="%s">Ver a lista completa</a>' % (cabeca, corpo, SITE)
 
 
+def linha_fisico(g):
+    origem = g.get('physSrc') or {}
+    texto = '<a href="%s">%s</a> -- <b>%s</b> em midia fisica' % (
+        origem.get('url', SITE), g['n'], brl(g['phys']))
+    if origem.get('loja'):
+        texto += ' (%s)' % origem['loja']
+    digital = g.get('cur') or g.get('reg')
+    if digital is not None and g['phys'] < digital:
+        texto += '\n   %s a menos que o digital' % brl(digital - g['phys'])
+    return texto
+
+
 def mensagem_novidades(dados, anterior):
     velhos = por_id(anterior)
     novidades = []
@@ -72,12 +84,25 @@ def mensagem_novidades(dados, anterior):
                   and g['cur'] < se_antes['cur'])
         if entrou or baixou:
             novidades.append((g, 'nova' if entrou else 'baixou mais'))
-    if not novidades:
+
+    fisicos = []
+    for g in dados['games']:
+        se_antes = velhos.get(g['id'])
+        if not se_antes or g.get('phys') is None:
+            continue
+        # So avisa quando o canal trouxe preco fisico novo e menor que o anterior.
+        if se_antes.get('phys') is None or g['phys'] < se_antes['phys']:
+            if g.get('physSrc'):
+                fisicos.append(g)
+
+    if not novidades and not fisicos:
         return None
     linhas = []
     for g, motivo in sorted(novidades, key=lambda p: -p[0]['pct']):
         marca = 'PROMOCAO NOVA' if motivo == 'nova' else 'PRECO CAIU'
         linhas.append('%s\n%s' % (marca, linha_promo(g)))
+    for g in fisicos:
+        linhas.append('MIDIA FISICA\n%s' % linha_fisico(g))
     return '<b>Radar da eShop</b>\n\n%s\n\n<a href="%s">Ver a lista completa</a>' % (
         '\n\n'.join(linhas), SITE)
 
