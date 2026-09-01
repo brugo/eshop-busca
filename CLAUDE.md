@@ -15,6 +15,18 @@ e foi trazido para cá para resolver o que o sandbox de artifacts impedia.
   cada `<img>`, usado só se o arquivo local faltar.
 - `fetch-covers.py` — rebaixa as capas a partir do `data.json`. Sem argumentos
   pula o que já existe; com `--force` refaz tudo. Rodar quando entrar jogo novo.
+- `update-prices.py` — consulta a API da Nintendo em lotes de 5 e reescreve o
+  `data.json` e o bloco JSON do `index.html`. Imprime `MUDOU=1` ou `MUDOU=0`
+  na última linha; a Action lê isso para escolher a mensagem do commit.
+- `notify-telegram.py` — manda o alerta pelo bot. `--resumo` para o panorama do
+  dia, `--novidades anterior.json` para avisar só quando entra promoção ou o
+  preço cai, `--simular` para ver a mensagem sem enviar. Sem os secrets, avisa
+  e sai com código 0 — a Action não quebra por falta deles.
+- `telegram-chat-id.py` — roda uma vez, na máquina do dono, para descobrir o
+  `chat_id`. Lê o token de `TELEGRAM_TOKEN` e não imprime o token.
+- `.github/workflows/update-prices.yml` — roda 05, 11, 17 e 23 UTC (02, 08, 14
+  e 20 em Brasília). Atualiza, commita, avisa promoção nova em toda rodada e
+  manda o resumo do dia só na rodada das 17 UTC.
 
 ### Formato de cada jogo
 
@@ -38,6 +50,11 @@ No topo do JSON: `updated` (timestamp -03:00) e `physChecked` (data da última
 checagem de preço físico).
 
 ## Fontes de dados
+
+**Amazon / mídia física** — sem automação. O campo `phys` é checagem manual, e
+`physChecked` diz de quando. Scraping da Amazon a partir do runner do GitHub
+tende a apanhar CAPTCHA (IP de datacenter) e, pior, a devolver preço de outro
+vendedor ou de outra edição — erro silencioso. Fora dos termos de uso deles.
 
 **Preços** — API oficial da Nintendo, sem chave:
 
@@ -79,16 +96,19 @@ desenhada continua como rede de segurança.
 
 1. ~~Baixar as 24 capas para `assets/` e referenciá-las localmente.~~ Feito em
    01/09/2026, junto com o `fetch-covers.py`.
-2. Publicar como site estático (GitHub Pages, Vercel ou Netlify).
-3. Automatizar a atualização diária — provavelmente uma GitHub Action que roda
-   o fetch da API, reescreve o bloco JSON, faz commit e dispara o e-mail.
-   Hoje isso é uma tarefa agendada na conta Claude do Humberto, que roda 17:00 UTC
-   (14:00 em Brasília) e não tem acesso à máquina dele.
-4. O e-mail diário vai para o endereço do dono, guardado no secret `ALERT_EMAIL`
-   do repositório — o repositório é público, então o endereço não entra em arquivo
-   nenhum. Atenção: no Gmail dele as imagens
-   externas aparentemente estão bloqueadas por configuração ("perguntar antes de
-   exibir imagens externas") — vale conferir antes de culpar o HTML.
+2. ~~Publicar como site estático.~~ Feito em 01/09/2026: repositório público
+   `brugo/eshop-busca`, no ar em https://brugo.github.io/eshop-busca/.
+3. ~~Automatizar a atualização.~~ Feito em 01/09/2026 pela Action. A tarefa
+   agendada antiga na conta Claude do dono ficou redundante — desligar.
+4. O alerta diário virou Telegram, não e-mail: dispensa SMTP e senha de app, e
+   contorna o bloqueio de imagens externas do Gmail dele. Falta o dono criar o
+   bot no `@BotFather` e gravar `TELEGRAM_TOKEN` e `TELEGRAM_CHAT_ID` como
+   secrets — credencial não passa por sessão de assistente.
+5. Próxima ideia: ler o grupo de ofertas de Nintendo do Telegram para alimentar
+   os preços de mídia física, que hoje são checagem manual. O bot precisa estar
+   no grupo com o privacy mode desligado; `getUpdates` só guarda ~24h e não lê
+   histórico anterior à entrada dele. Começar casando o texto com os títulos da
+   lista por código puro, sem modelo.
 
 ## Preferências
 

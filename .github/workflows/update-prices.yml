@@ -2,9 +2,15 @@ name: Atualiza precos da eShop
 
 on:
   schedule:
-    # De 6 em 6 horas. Horario UTC; 17:00 UTC = 14:00 em Brasilia.
+    # De 6 em 6 horas. Horario UTC; 17:00 UTC = 14:00 em Brasilia, quando sai
+    # o resumo do dia.
     - cron: '0 5,11,17,23 * * *'
   workflow_dispatch:
+    inputs:
+      resumo:
+        description: 'Mandar o resumo do dia no Telegram, mesmo fora do horario'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -22,6 +28,9 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+
+      - name: Guardar o estado anterior
+        run: cp data.json "$RUNNER_TEMP/anterior.json"
 
       - name: Consultar a API da Nintendo
         id: precos
@@ -51,3 +60,22 @@ jobs:
           git add data.json index.html
           git commit -m "$msg ($(date -u '+%d/%m %H:%M') UTC)"
           git push
+
+      - name: Avisar promocao nova no Telegram
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python notify-telegram.py --novidades "$RUNNER_TEMP/anterior.json"
+
+      - name: Resumo do dia no Telegram
+        if: github.event.inputs.resumo == 'true' || github.event_name == 'schedule'
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          # No agendamento, so na rodada das 17:00 UTC (14:00 em Brasilia).
+          if [ "${{ github.event_name }}" = "schedule" ] && [ "$(date -u +%H)" != "17" ]; then
+            echo "fora do horario do resumo"
+            exit 0
+          fi
+          python notify-telegram.py --resumo
