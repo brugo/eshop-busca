@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T17:30:54-03:00",
+  "updated": "2026-09-01T17:59:24-03:00",
   "physChecked": "2026-09-01",
   "games": [
     {"n": "The Wild at Heart", "id": "70010000041059", "p": "SW", "s": "the-wild-at-heart-switch", "reg": 103.9, "cur": 31.17, "pct": 70, "ends": "2026-09-10T06:59:59Z", "low": 31.17, "phys": null, "hist": [["2026-09-01", 31.17]], "img": "switch/70010000041059/478e6899ae5971efcc772bccd452ac332d4c39c61f1193f362346f92b61b3c3e"},
