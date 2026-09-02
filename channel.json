@@ -1,13 +1,7 @@
 {
-  "updated": "2026-09-02T11:47:52-03:00",
+  "updated": "2026-09-02T16:33:00-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "Super Mario Odyssey", "preco": 265.0, "loja": "Shopee", "d": "2026-09-01", "url": "https://t.me/nintendobarato/13223"},
-    {"t": "The Disney Afternoon Collection", "preco": 188.0, "d": "2026-09-01", "url": "https://t.me/nintendobarato/13226"},
-    {"t": "Porta Alianças Pokébola", "preco": 35.0, "loja": "Shopee", "d": "2026-09-01", "url": "https://t.me/nintendobarato/13228"},
-    {"t": "Xenoblade Chronicles X Definitive Edition", "preco": 265.0, "loja": "Shopee", "d": "2026-09-01", "url": "https://t.me/nintendobarato/13230"},
-    {"t": "Super Mario Party Jamboree", "preco": 265.0, "loja": "Shopee", "d": "2026-09-01", "url": "https://t.me/nintendobarato/13231"},
-    {"t": "Donkey Kong Country Returns HD", "preco": 265.0, "loja": "Shopee", "d": "2026-09-01", "url": "https://t.me/nintendobarato/13232"},
     {"t": "Nintendo Switch Sports", "preco": 274.0, "loja": "Shopee", "d": "2026-09-01", "url": "https://t.me/nintendobarato/13233"},
     {"t": "Xenoblade Chronicles 2 - Nintendo Switch 2 Edition", "preco": 389.0, "loja": "Shopee", "d": "2026-09-01", "url": "https://t.me/nintendobarato/13234"},
     {"t": "LEGO Eevee", "preco": 272.0, "loja": "Amazon", "d": "2026-09-01", "url": "https://t.me/nintendobarato/13235"},
@@ -16,6 +10,10 @@
     {"t": "Tomodachi Life: Living the Dream", "preco": 276.0, "loja": "Mercado Livre", "d": "2026-09-02", "url": "https://t.me/nintendobarato/13238"},
     {"t": "Orbitals", "preco": 279.0, "loja": "Mercado Livre", "d": "2026-09-02", "url": "https://t.me/nintendobarato/13239"},
     {"t": "Resident Evil Generation Pack", "preco": 431.0, "loja": "Amazon", "d": "2026-09-02", "url": "https://t.me/nintendobarato/13241"},
-    {"t": "LEGO Game Boy", "preco": 407.0, "loja": "Amazon", "d": "2026-09-02", "url": "https://t.me/nintendobarato/13242"}
+    {"t": "LEGO Game Boy", "preco": 407.0, "loja": "Amazon", "d": "2026-09-02", "url": "https://t.me/nintendobarato/13242"},
+    {"t": "Assassin’s Creed Shadows", "preco": 251.0, "loja": "Amazon", "d": "2026-09-02", "url": "https://t.me/nintendobarato/13244"},
+    {"t": "Fire Emblem Fortune's Weave", "preco": 444.0, "loja": "Amazon", "d": "2026-09-02", "url": "https://t.me/nintendobarato/13246"},
+    {"t": "Pac-Man World Re-PAC 2", "preco": 138.0, "d": "2026-09-02", "url": "https://t.me/nintendobarato/13249"},
+    {"t": "Kit 2 Mini Bolsinhas Reutilizável Super Mario", "preco": 38.0, "loja": "Amazon", "d": "2026-09-02", "url": "https://t.me/nintendobarato/13250"}
   ]
 }
