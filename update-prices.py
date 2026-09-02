@@ -64,25 +64,26 @@ def aplica(jogo, preco, hoje):
     return json.dumps(jogo, sort_keys=True, ensure_ascii=False) != antes
 
 
-def serializa(dados):
-    """Mesmo formato do arquivo original: um jogo por linha, chaves na ordem."""
+def serializa(dados, ordem=None, cabecalhos=('updated', 'physChecked'), lista='games'):
+    """Mesmo formato do arquivo original: um item por linha, chaves na ordem.
+
+    Os outros scripts (fetch-deals.py, read-channel.py) chamam esta funcao para
+    os blocos deles, para os tres JSON do projeto nao divergirem de formato.
+    """
+    ordem = ordem or ORDEM
     linhas = []
-    for jogo in dados['games']:
-        campos = [(k, jogo[k]) for k in ORDEM if k in jogo]
+    for item in dados[lista]:
+        campos = [(k, item[k]) for k in ordem if k in item]
         corpo = ', '.join('%s: %s' % (json.dumps(k), json.dumps(v, ensure_ascii=False))
                           for k, v in campos)
         linhas.append('    {' + corpo + '}')
-    return ('{\n'
-            '  "updated": %s,\n'
-            '  "physChecked": %s,\n'
-            '  "games": [\n%s\n  ]\n}\n') % (
-        json.dumps(dados['updated']),
-        json.dumps(dados['physChecked']),
-        ',\n'.join(linhas))
+    topo = ''.join('  %s: %s,\n' % (json.dumps(c), json.dumps(dados[c], ensure_ascii=False))
+                   for c in cabecalhos if c in dados)
+    return '{\n%s  %s: [\n%s\n  ]\n}\n' % (topo, json.dumps(lista), ',\n'.join(linhas))
 
 
-def escreve_html(bloco):
-    abre = '<script type="application/json" id="tracker-data">'
+def escreve_html(bloco, ident='tracker-data'):
+    abre = '<script type="application/json" id="%s">' % ident
     with io.open('index.html', encoding='utf-8') as f:
         html = f.read()
     i = html.index(abre) + len(abre)

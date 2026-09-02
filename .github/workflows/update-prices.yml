@@ -44,6 +44,17 @@ jobs:
           } >> "$GITHUB_STEP_SUMMARY"
           rm resultado.txt
 
+      - name: Coletar as promocoes da eShop inteira
+        continue-on-error: true
+        run: |
+          python fetch-deals.py | tee ofertas.txt
+          {
+            echo '```'
+            cat ofertas.txt
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+          rm ofertas.txt
+
       - name: Ler o canal de ofertas
         id: canal
         continue-on-error: true
@@ -74,7 +85,7 @@ jobs:
           fi
           git config user.name "radar-eshop bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data.json index.html
+          git add data.json deals.json channel.json index.html
           git commit -m "$msg ($(date -u '+%d/%m %H:%M') UTC)"
           git push
 

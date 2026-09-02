@@ -117,12 +117,22 @@ def busca_mensagens():
     return mensagens
 
 
+def limpa_titulo(titulo):
+    """Tira emoji e simbolos decorativos que o canal usa no comeco da linha."""
+    limpo = ''.join(c for c in titulo if unicodedata.category(c) not in ('So', 'Cf'))
+    return limpo.strip(' -–—:•|').strip()
+
+
 def interpreta(msg):
     """Devolve (titulo, preco, loja) ou None."""
     linhas = [l.strip() for l in msg['texto'].split('\n') if l.strip()]
     if not linhas:
         return None
-    titulo = linhas[0]
+    titulo = limpa_titulo(linhas[0])
+    # Quando a primeira linha e frase e nao nome de jogo, a mensagem e comentario
+    # do canal, nao oferta. Nome de jogo nao costuma passar de dez palavras.
+    if not titulo or len(titulo.split()) > 10:
+        return None
     preco = re.search(r'Pre[cç]o:\s*R\$\s*([\d.]+(?:,\d{2})?)', msg['texto'], re.I)
     if not preco:
         return None
@@ -134,7 +144,7 @@ def interpreta(msg):
     if not 20 <= valor <= 3000:   # fora disso e erro de leitura, nao oferta
         return None
     loja = re.search(r'Loja:\s*([^\n(]+)', msg['texto'], re.I)
-    return titulo, valor, (loja.group(1).strip() if loja else '?')
+    return titulo, valor, (loja.group(1).strip() if loja else None)
 
 
 def main():
@@ -142,15 +152,27 @@ def main():
     with io.open('data.json', encoding='utf-8') as f:
         dados = json.load(f)
 
+    mensagens = busca_mensagens()
     achados = []
-    for msg in busca_mensagens():
+    posts = []
+    for msg in mensagens:
         lido = interpreta(msg)
         if not lido:
             continue
         titulo, valor, loja = lido
+        da_lista = None
         for jogo in dados['games']:
             if casa(jogo['n'], titulo):
                 achados.append((jogo, titulo, valor, loja, msg))
+                da_lista = jogo['n']
+        # A aba do canal mostra tudo o que foi postado, casando com a lista ou
+        # nao -- e justamente para ver a coisa boa que esta fora da lista.
+        post = {'t': titulo, 'preco': valor, 'url': msg['url'], 'd': msg['data']}
+        if loja:
+            post['loja'] = loja
+        if da_lista:
+            post['meu'] = da_lista
+        posts.append(post)
 
     mudou = False
     for jogo, titulo, valor, loja, msg in achados:
@@ -167,21 +189,34 @@ def main():
     def fala(texto):
         sys.stdout.write(texto.encode(enc, 'replace').decode(enc) + '\n')
 
-    fala('%d ofertas lidas do canal, %d casaram com a lista' % (
-        len(busca_mensagens()), len(achados)))
+    fala('%d mensagens lidas, %d com preco, %d casaram com a lista' % (
+        len(mensagens), len(posts), len(achados)))
     for jogo, titulo, valor, loja, msg in achados:
         fala('  %s -> R$ %.2f (%s, %s)' % (jogo['n'], valor, loja, msg['data']))
 
     if simular:
-        fala('modo simulacao: data.json nao foi tocado')
+        fala('modo simulacao: nenhum arquivo foi tocado')
         return
+
+    precos = modulo_precos()
     if mudou:
         dados['physChecked'] = datetime.now(BRASILIA).strftime('%Y-%m-%d')
-        precos = modulo_precos()
         bloco = precos.serializa(dados)
         with io.open('data.json', 'w', encoding='utf-8', newline='') as f:
             f.write(bloco)
         precos.escreve_html(bloco)
+
+    canal = {
+        'updated': datetime.now(BRASILIA).strftime('%Y-%m-%dT%H:%M:%S-03:00'),
+        'canal': CANAL,
+        'posts': posts,
+    }
+    bloco_canal = precos.serializa(
+        canal, ['t', 'preco', 'loja', 'meu', 'd', 'url'], ('updated', 'canal'), 'posts')
+    with io.open('channel.json', 'w', encoding='utf-8', newline='') as f:
+        f.write(bloco_canal)
+    precos.escreve_html(bloco_canal, 'channel-data')
+
     fala('FISICO_MUDOU=%d' % (1 if mudou else 0))
 
 

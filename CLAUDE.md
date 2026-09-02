@@ -24,10 +24,36 @@ e foi trazido para cá para resolver o que o sandbox de artifacts impedia.
   e sai com código 0 — a Action não quebra por falta deles.
 - `telegram-chat-id.py` — roda uma vez, na máquina do dono, para descobrir o
   `chat_id`. Lê o token de `TELEGRAM_TOKEN` e não imprime o token.
-- `read-channel.py` — lê o canal público de ofertas e atualiza os preços de
-  mídia física. `--simular` mostra o que casaria sem tocar em arquivo. Grava
-  pelo serializador do `update-prices.py`, para os dois não divergirem de
-  formato.
+- `read-channel.py` — lê o canal público de ofertas, atualiza os preços de
+  mídia física e grava `channel.json` com tudo que foi postado. `--simular`
+  mostra o que casaria sem tocar em arquivo.
+- `fetch-deals.py` — coleta as promoções da eShop BR inteira e grava
+  `deals.json`. Fonte: o índice Algolia `store_game_pt_br`, o mesmo que a loja
+  da Nintendo usa no navegador, com a chave pública de leitura que ela entrega
+  a qualquer visitante. Filtro `topLevelFilters:"Promoções"`; a ordem final é a
+  de `popularityRank`, **não** a de desconto — ordenar por desconto joga
+  shovelware de -80% para cima e enterra o jogo bom com -35%.
+
+### As três abas
+
+A página tem três blocos JSON no `<head>`, um por aba, todos escritos pelo
+mesmo serializador (`serializa` do `update-prices.py`, que aceita a ordem de
+chaves e o nome da lista):
+
+| bloco | arquivo solto | quem escreve | aba |
+|-------|---------------|--------------|-----|
+| `tracker-data` | `data.json` | `update-prices.py`, `read-channel.py` | Lista de desejos |
+| `deals-data` | `deals.json` | `fetch-deals.py` | Ofertas da eShop |
+| `channel-data` | `channel.json` | `read-channel.py` | Do Telegram |
+
+Capa da lista de desejos vem de `assets/`; capa das ofertas gerais vem do CDN
+(são 60, mudam toda semana, não vale versionar). O `remoto: true` no item é o
+que decide.
+
+Cuidado ao mexer no CSS das abas: `.painel{display:flex}` empata em
+especificidade com o `[hidden]` do navegador e ganha por vir depois, então
+existe um `.painel[hidden]{display:none}` explícito. Sem ele, painel escondido
+continua na tela.
 - `.github/workflows/update-prices.yml` — roda 05, 11, 17 e 23 UTC (02, 08, 14
   e 20 em Brasília). Atualiza, commita, avisa promoção nova em toda rodada e
   manda o resumo do dia só na rodada das 17 UTC.
