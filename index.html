@@ -576,7 +576,8 @@
       '</a>' +
       '<div>' +
         '<a class="name" href="' + url + '" target="_blank" rel="noopener">' + esc(g.n) + '</a>' +
-        '<div class="plat">' + (g.p==='SW2' ? 'Switch 2' : 'Switch') + '</div>' +
+        '<div class="plat">' + (g.p==='SW2' ? 'Switch 2' : 'Switch') +
+          (g.meu ? ' · <span class="marca">na sua lista</span>' : '') + '</div>' +
       '</div>' +
       priceRow +
       (lines.length ? '<div class="lines">' + lines.join('') + '</div>' : '') +
