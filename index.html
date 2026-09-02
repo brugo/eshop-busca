@@ -1,6 +1,14 @@
 <!doctype html>
-<html lang="pt-BR">
+<html lang="pt-BR" data-theme="dark">
 <head>
+<script>
+  // O escuro e o tema da casa; o claro fica disponivel pelo botao no topo.
+  // Aplicado antes de pintar a pagina, senao pisca branco no carregamento.
+  try{
+    var salvo = localStorage.getItem('radar-tema');
+    if(salvo === 'light' || salvo === 'dark') document.documentElement.setAttribute('data-theme', salvo);
+  }catch(e){}
+</script>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Radar da eShop</title>
@@ -314,6 +322,16 @@
   }
   footer.note strong{color:var(--ink-2)}
   :focus-visible{outline:2px solid var(--accent); outline-offset:2px; border-radius:3px}
+  header.top .linha{display:flex; align-items:center; justify-content:space-between; gap:12px}
+  .tema{
+    appearance:none; background:none; cursor:pointer; flex:none;
+    border:1px solid var(--line); border-radius:999px; padding:3px 11px;
+    font-family:"IBM Plex Mono",monospace; font-size:10.5px; letter-spacing:.09em;
+    text-transform:uppercase; color:var(--muted);
+  }
+  .tema:hover{color:var(--ink-2); border-color:var(--muted)}
+  .tema:focus-visible{outline:2px solid var(--accent); outline-offset:2px}
+
   /* ---------- abas ---------- */
   .abas{
     display:flex; gap:4px; border-bottom:1px solid var(--line);
@@ -383,7 +401,10 @@
 
 <div class="wrap">
   <header class="top">
-    <div class="eyebrow" id="stamp">—</div>
+    <div class="linha">
+      <div class="eyebrow" id="stamp">—</div>
+      <button class="tema" id="tema" type="button">tema claro</button>
+    </div>
     <h1>Radar da eShop</h1>
     <p class="sub">Sua lista de desejos na <b>eShop Brasil</b>, conferida todo dia e comparada com o melhor preço de <b>mídia física</b>. O menor preço registrado é o que separa promoção de verdade de desconto de fachada.</p>
   </header>
@@ -463,7 +484,9 @@
   // Capas locais em assets/<NSUID>.jpg. O CDN da Nintendo fica so como reserva,
   // caso um arquivo local falte.
   var IMG_LOCAL = 'assets/';
-  var IMG_CDN = 'https://assets.nintendo.com/image/upload/c_fill,w_320,h_518/q_auto/f_auto/store/software/';
+  // Sem c_fill: a arte e 16:9 e qualquer corte para formato mais alto come os
+  // logos pelas laterais. Mesmo transform usado pelo fetch-covers.py.
+  var IMG_CDN = 'https://assets.nintendo.com/image/upload/w_640/q_auto:best/f_jpg/store/software/';
   var brl = function(v){ return v==null ? '—' : 'R$ ' + v.toFixed(2).replace('.', ','); };
 
   function esc(s){
@@ -663,6 +686,19 @@
     document.getElementById('posts').outerHTML =
       '<div class="vazio">Nada lido do canal ainda.</div>';
   }
+
+  // ---------- tema ----------
+  var raiz = document.documentElement;
+  var botaoTema = document.getElementById('tema');
+  function aplicaTema(t){
+    raiz.setAttribute('data-theme', t);
+    botaoTema.textContent = t === 'dark' ? 'tema claro' : 'tema escuro';
+    try{ localStorage.setItem('radar-tema', t); }catch(e){}
+  }
+  botaoTema.addEventListener('click', function(){
+    aplicaTema(raiz.getAttribute('data-theme') === 'dark' ? 'light' : 'dark');
+  });
+  botaoTema.textContent = raiz.getAttribute('data-theme') === 'dark' ? 'tema claro' : 'tema escuro';
 
   // ---------- troca de abas ----------
   document.getElementById('pill-lista').textContent = games.length;

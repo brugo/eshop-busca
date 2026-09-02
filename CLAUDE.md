@@ -121,7 +121,10 @@ Na sessão da nuvem a API recusava lotes grandes; em grupos de 5 ou 6 funcionava
 
     https://assets.nintendo.com/image/upload/<transform>/store/software/<img>
 
-O `img` de cada jogo já está no JSON. O transform em uso é `w_640/q_auto:best/f_jpg`.
+O `img` de cada jogo já está no JSON. O transform em uso é `w_640/q_auto:best/f_jpg`,
+tanto no `fetch-covers.py` quanto na constante `IMG_CDN` da página — as duas
+precisam bater, senão a aba de ofertas mostra capa cortada enquanto a lista de
+desejos mostra inteira (aconteceu).
 
 A arte de origem é **16:9** (o CDN entrega no máximo 800x450 de útil), não é
 quadrada nem tem a forma da caixa do jogo físico. Qualquer `c_fill` para um
@@ -161,6 +164,13 @@ desenhada continua como rede de segurança.
    no grupo com o privacy mode desligado; `getUpdates` só guarda ~24h e não lê
    histórico anterior à entrada dele. Começar casando o texto com os títulos da
    lista por código puro, sem modelo.
+
+## Tema
+
+O escuro é o tema da casa: `data-theme="dark"` fica no `<html>` e um script no
+`<head>` restaura a escolha guardada antes de pintar, para não piscar branco.
+O botão no topo alterna e grava em `localStorage`. Sem isso a página seguia o
+tema do sistema, e no navegador do dono isso dava fundo branco.
 
 ## Preferências
 
