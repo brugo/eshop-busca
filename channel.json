@@ -1,8 +1,7 @@
 {
-  "updated": "2026-09-02T21:49:29-03:00",
+  "updated": "2026-09-03T06:17:20-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "Orbitals", "preco": 279.0, "loja": "Mercado Livre", "d": "2026-09-02", "url": "https://t.me/nintendobarato/13239"},
     {"t": "Resident Evil Generation Pack", "preco": 431.0, "loja": "Amazon", "d": "2026-09-02", "url": "https://t.me/nintendobarato/13241"},
     {"t": "LEGO Game Boy", "preco": 407.0, "loja": "Amazon", "d": "2026-09-02", "url": "https://t.me/nintendobarato/13242"},
     {"t": "Assassin’s Creed Shadows", "preco": 251.0, "loja": "Amazon", "d": "2026-09-02", "url": "https://t.me/nintendobarato/13244"},
@@ -13,6 +12,8 @@
     {"t": "Luminária Question Block", "preco": 35.0, "loja": "Amazon", "d": "2026-09-02", "url": "https://t.me/nintendobarato/13255"},
     {"t": "Sword Art Online Fractured Daydream", "preco": 149.0, "loja": "Mercado Livre", "d": "2026-09-02", "url": "https://t.me/nintendobarato/13256"},
     {"t": "Porta Cartuchos Minimalista de Switch - 12 Espaços", "preco": 39.0, "loja": "Shopee", "d": "2026-09-02", "url": "https://t.me/nintendobarato/13257"},
-    {"t": "Mega Man Star Force Legacy Collection", "preco": 171.0, "loja": "Amazon", "d": "2026-09-02", "url": "https://t.me/nintendobarato/13259"}
+    {"t": "Mega Man Star Force Legacy Collection", "preco": 171.0, "loja": "Amazon", "d": "2026-09-02", "url": "https://t.me/nintendobarato/13259"},
+    {"t": "Star Fox", "preco": 269.0, "loja": "Mercado Livre", "meu": "Star Fox", "d": "2026-09-03", "url": "https://t.me/nintendobarato/13260"},
+    {"t": "Orbitals", "preco": 269.0, "loja": "Mercado Livre", "d": "2026-09-03", "url": "https://t.me/nintendobarato/13261"}
   ]
 }
