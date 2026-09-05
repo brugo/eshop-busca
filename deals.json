@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-04T21:27:56-03:00",
-  "total": 4532,
+  "updated": "2026-09-05T05:41:46-03:00",
+  "total": 4479,
   "games": [
     {"n": "Split Fiction", "id": "70010000097434", "p": "SW2", "s": "split-fiction-switch-2", "reg": 249.0, "cur": 161.85, "pct": 35, "ends": "2026-09-10T06:59:59Z", "rank": 46, "meu": false, "img": "switch2/70010000097434/6de085f1efb6c90b754e383fe810f3cb0e847105bb584c706f4cd3b5c66491f4"},
     {"n": "The Jackbox Party Pack 3", "id": "70010000000166", "p": "SW", "s": "the-jackbox-party-pack-3-switch", "reg": 134.99, "cur": 74.24, "pct": 45, "ends": "2026-09-10T06:59:59Z", "rank": 63, "meu": false, "img": "switch/70010000000166/e2a2fbd908e1d5f21de9c673211deeb8ab78d82f01df82c6b8e9e98048e7f12e"},
@@ -34,6 +34,7 @@
     {"n": "Mortal Kombat: Legacy Kollection", "id": "70010000098412", "p": "SW2", "s": "mortal-kombat-legacy-kollection-switch-2", "reg": 134.99, "cur": 74.24, "pct": 45, "ends": "2026-09-10T06:59:59Z", "rank": 250, "meu": false, "img": "switch2/70010000098412/011a211e39bfff50da66868770df08f4d0b603a7fdb3bcdc6e0811806a667dae"},
     {"n": "DAVE THE DIVER Nintendo Switch 2 Edition", "id": "70010000111452", "p": "SW2", "s": "dave-the-diver-nintendo-switch-2-edition-switch-2", "reg": 99.99, "cur": 54.99, "pct": 45, "ends": "2026-09-10T06:59:59Z", "rank": 268, "meu": false, "img": "switch2/70010000111452/e9f85d4cd497fb6a93f9ae2a27e239299fa1e751e53a3357bf35c13fa8d0812c"},
     {"n": "Persona 4 Golden", "id": "70010000060320", "p": "SW", "s": "persona-4-golden-switch", "reg": 95.0, "cur": 47.5, "pct": 50, "ends": "2026-09-10T06:59:59Z", "rank": 269, "meu": false, "img": "switch/70010000060320/c0a375d02bff3def365bd98f274fd248c3d313c5f4fdd62590fed270185a9b69"},
+    {"n": "Slime Rancher: Plortable Edition", "id": "70010000040144", "p": "SW", "s": "slime-rancher-plortable-edition-switch", "reg": 127.45, "cur": 31.86, "pct": 75, "ends": "2026-09-27T06:59:59Z", "rank": 270, "meu": false, "img": "switch/70010000040144/074b0dc22cc86206b5acc9af9e6ed506e32b595dbd5cf33ce0b7da5725931c2c"},
     {"n": "Escape the Backrooms", "id": "70010000116714", "p": "SW2", "s": "escape-the-backrooms-switch-2", "reg": 37.99, "cur": 30.39, "pct": 20, "ends": "2026-09-08T06:59:59Z", "rank": 275, "meu": false, "img": "switch2/70010000116714/8e07d92a312aa7e51af23e6ba578f0e5c0176ff632161637251c73b8cce6e762"},
     {"n": "Scott Pilgrim EX", "id": "70010000110271", "p": "SW2", "s": "scott-pilgrim-ex-switch-2", "reg": 88.99, "cur": 71.19, "pct": 20, "ends": "2026-09-10T14:59:59Z", "rank": 277, "meu": false, "img": "switch2/70010000110271/c0f038eaffe8a7de8b674013fde787a8f4b030093d8cc152a176cd932466f1fc"},
     {"n": "Wheel of Fortune®", "id": "70010000010066", "p": "SW", "s": "wheel-of-fortune-switch", "reg": 38.95, "cur": 31.16, "pct": 20, "ends": "2026-09-10T06:59:59Z", "rank": 281, "meu": false, "img": "switch/70010000010066/529133f9f52ff1874e16c0dbe0ef5ce377d6114cad7ac2e876ff6ac28040b508"},
@@ -60,7 +61,6 @@
     {"n": "Pikuniku", "id": "70010000002362", "p": "SW", "s": "pikuniku-switch", "reg": 66.25, "cur": 11.99, "pct": 82, "ends": "2026-09-10T06:59:59Z", "rank": 407, "meu": false, "img": "switch/70010000002362/2402b54c5eb8da2a1445184509957ae5b6b6bfedd2ba26fe309dd222df91f5ef"},
     {"n": "The Jackbox Party Pack 8", "id": "70010000041635", "p": "SW", "s": "the-jackbox-party-pack-8-switch", "reg": 152.99, "cur": 84.14, "pct": 45, "ends": "2026-09-10T06:59:59Z", "rank": 410, "meu": false, "img": "switch/70010000041635/9dba039087e728d79edd30024054aea899f0fbc82b9db824e3a21d0914e731a4"},
     {"n": "South Park™: The Stick of Truth™", "id": "70010000011252", "p": "SW", "s": "south-park-the-stick-of-truth-switch", "reg": 79.0, "cur": 63.2, "pct": 20, "ends": "2026-09-10T06:59:59Z", "rank": 414, "meu": false, "img": "switch/70010000011252/b03b0320d1e0da275830fd8be40e69aab9b56086943805eb3af82606dbc34ebb"},
-    {"n": "Danganronpa 2: Goodbye Despair Anniversary Edition", "id": "70010000037982", "p": "SW", "s": "danganronpa-2-goodbye-despair-anniversary-edition-switch", "reg": 76.45, "cur": 38.22, "pct": 50, "ends": "2026-09-10T06:59:59Z", "rank": 418, "meu": false, "img": "switch/70010000037982/9021d37ddbe9c7fb17d0136dc7a7c5baff5fd62f6e9ba6687f3c6f4c148a8524"},
-    {"n": "Cast n Chill", "id": "70010000105385", "p": "SW", "s": "cast-n-chill-switch", "reg": 46.99, "cur": 32.89, "pct": 30, "ends": "2026-09-10T06:59:59Z", "rank": 421, "meu": false, "img": "switch/70010000105385/f23cf240576eea81f9026f2fe4c84b683edc0627f3706d7be83401f18d0d8596"}
+    {"n": "Danganronpa 2: Goodbye Despair Anniversary Edition", "id": "70010000037982", "p": "SW", "s": "danganronpa-2-goodbye-despair-anniversary-edition-switch", "reg": 76.45, "cur": 38.22, "pct": 50, "ends": "2026-09-10T06:59:59Z", "rank": 418, "meu": false, "img": "switch/70010000037982/9021d37ddbe9c7fb17d0136dc7a7c5baff5fd62f6e9ba6687f3c6f4c148a8524"}
   ]
 }
