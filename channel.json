@@ -1,10 +1,7 @@
 {
-  "updated": "2026-09-07T13:11:02-03:00",
+  "updated": "2026-09-07T17:15:44-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "Monster Hunter Stories 3 Twisted Reflection", "preco": 260.0, "loja": "Amazon", "meu": "Monster Hunter Stories 3: Twisted Reflection", "d": "2026-09-05", "url": "https://t.me/nintendobarato/13300"},
-    {"t": "Star Fox", "preco": 275.0, "loja": "Mercado Livre", "meu": "Star Fox", "d": "2026-09-07", "url": "https://t.me/nintendobarato/13303"},
-    {"t": "Elden Ring: Tarnished Edition", "preco": 449.0, "loja": "Mercado Livre", "d": "2026-09-07", "url": "https://t.me/nintendobarato/13304"},
     {"t": "Bravely Default II", "preco": 267.0, "loja": "Mercado Livre", "d": "2026-09-07", "url": "https://t.me/nintendobarato/13305"},
     {"t": "The Adventures Of Elliot The Millennium Tales", "preco": 284.0, "loja": "Mercado Livre", "meu": "The Adventures of Elliot: The Millennium Tales", "d": "2026-09-07", "url": "https://t.me/nintendobarato/13306"},
     {"t": "Final Fantasy I-VI Pixel Remaster Collection", "preco": 234.0, "loja": "Mercado Livre", "d": "2026-09-07", "url": "https://t.me/nintendobarato/13307"},
@@ -17,6 +14,10 @@
     {"t": "Micro SD Express 256GB (ideal ao Switch 2)", "preco": 312.0, "loja": "Mercado Livre", "d": "2026-09-07", "url": "https://t.me/nintendobarato/13315"},
     {"t": "Dragon Quest VII Reimagined", "preco": 241.0, "loja": "Amazon", "meu": "DRAGON QUEST VII Reimagined", "d": "2026-09-07", "url": "https://t.me/nintendobarato/13316"},
     {"t": "Fichário para cards - 360 Espaços", "preco": 37.0, "loja": "Mercado Livre", "d": "2026-09-07", "url": "https://t.me/nintendobarato/13317"},
-    {"t": "Romancing SaGa 2: Revenge of the Seven", "preco": 213.0, "loja": "Amazon", "d": "2026-09-07", "url": "https://t.me/nintendobarato/13319"}
+    {"t": "Romancing SaGa 2: Revenge of the Seven", "preco": 213.0, "loja": "Amazon", "d": "2026-09-07", "url": "https://t.me/nintendobarato/13319"},
+    {"t": "Resident Evil Requiem", "preco": 306.0, "loja": "Amazon", "d": "2026-09-07", "url": "https://t.me/nintendobarato/13320"},
+    {"t": "Bitmap Bureau Collection", "preco": 132.0, "loja": "Shopee", "d": "2026-09-07", "url": "https://t.me/nintendobarato/13321"},
+    {"t": "Barbie Rewind Deluxe Edition", "preco": 455.0, "loja": "Shopee", "d": "2026-09-07", "url": "https://t.me/nintendobarato/13322"},
+    {"t": "Pepper Grinder", "preco": 129.0, "loja": "Mercado Livre", "d": "2026-09-07", "url": "https://t.me/nintendobarato/13323"}
   ]
 }
