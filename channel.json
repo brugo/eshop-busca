@@ -1,21 +1,22 @@
 {
-  "updated": "2026-09-07T06:49:11-03:00",
+  "updated": "2026-09-07T13:11:02-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "Micro SD Express 256GB (ideal ao Switch 2)", "preco": 312.0, "loja": "Mercado Livre", "d": "2026-09-03", "url": "https://t.me/nintendobarato/13282"},
-    {"t": "Rayman Legends Retold", "preco": 199.0, "loja": "Shopee", "d": "2026-09-03", "url": "https://t.me/nintendobarato/13283"},
-    {"t": "Controle Pro Nintendo Switch 2", "preco": 460.0, "loja": "Amazon", "d": "2026-09-03", "url": "https://t.me/nintendobarato/13284"},
-    {"t": "Donkey Kong Country Returns HD", "preco": 239.0, "loja": "Amazon", "d": "2026-09-03", "url": "https://t.me/nintendobarato/13286"},
-    {"t": "Super Smash Bros. Ultimate", "preco": 239.0, "loja": "Amazon", "d": "2026-09-03", "url": "https://t.me/nintendobarato/13287"},
-    {"t": "Star Fox", "preco": 255.0, "loja": "Amazon", "meu": "Star Fox", "d": "2026-09-03", "url": "https://t.me/nintendobarato/13288"},
-    {"t": "Romancing SaGa 2: Revenge of the Seven", "preco": 213.0, "loja": "Amazon", "d": "2026-09-03", "url": "https://t.me/nintendobarato/13290"},
-    {"t": "Dragon Quest VII Reimagined", "preco": 241.0, "loja": "Amazon", "meu": "DRAGON QUEST VII Reimagined", "d": "2026-09-03", "url": "https://t.me/nintendobarato/13291"},
-    {"t": "Monster Hunter Stories 3 Twisted Reflection", "preco": 260.0, "loja": "Amazon", "meu": "Monster Hunter Stories 3: Twisted Reflection", "d": "2026-09-03", "url": "https://t.me/nintendobarato/13292"},
-    {"t": "Capcom Fighting Collection", "preco": 162.0, "loja": "Amazon", "d": "2026-09-03", "url": "https://t.me/nintendobarato/13293"},
-    {"t": "Dragon Quest VII Reimagined", "preco": 241.0, "loja": "Amazon", "meu": "DRAGON QUEST VII Reimagined", "d": "2026-09-03", "url": "https://t.me/nintendobarato/13294"},
-    {"t": "LEGO Eevee", "preco": 315.0, "loja": "Amazon", "d": "2026-09-04", "url": "https://t.me/nintendobarato/13296"},
-    {"t": "Metal Gear Solid Master Collection Vol. 1", "preco": 179.0, "loja": "Mercado Livre", "d": "2026-09-04", "url": "https://t.me/nintendobarato/13297"},
-    {"t": "Controle Pro Nintendo Switch 2", "preco": 436.0, "loja": "Mercado Livre", "d": "2026-09-04", "url": "https://t.me/nintendobarato/13298"},
-    {"t": "Monster Hunter Stories 3 Twisted Reflection", "preco": 260.0, "loja": "Amazon", "meu": "Monster Hunter Stories 3: Twisted Reflection", "d": "2026-09-05", "url": "https://t.me/nintendobarato/13300"}
+    {"t": "Monster Hunter Stories 3 Twisted Reflection", "preco": 260.0, "loja": "Amazon", "meu": "Monster Hunter Stories 3: Twisted Reflection", "d": "2026-09-05", "url": "https://t.me/nintendobarato/13300"},
+    {"t": "Star Fox", "preco": 275.0, "loja": "Mercado Livre", "meu": "Star Fox", "d": "2026-09-07", "url": "https://t.me/nintendobarato/13303"},
+    {"t": "Elden Ring: Tarnished Edition", "preco": 449.0, "loja": "Mercado Livre", "d": "2026-09-07", "url": "https://t.me/nintendobarato/13304"},
+    {"t": "Bravely Default II", "preco": 267.0, "loja": "Mercado Livre", "d": "2026-09-07", "url": "https://t.me/nintendobarato/13305"},
+    {"t": "The Adventures Of Elliot The Millennium Tales", "preco": 284.0, "loja": "Mercado Livre", "meu": "The Adventures of Elliot: The Millennium Tales", "d": "2026-09-07", "url": "https://t.me/nintendobarato/13306"},
+    {"t": "Final Fantasy I-VI Pixel Remaster Collection", "preco": 234.0, "loja": "Mercado Livre", "d": "2026-09-07", "url": "https://t.me/nintendobarato/13307"},
+    {"t": "The Legend of Zelda: Tears of the Kingdom", "preco": 281.0, "loja": "Mercado Livre", "d": "2026-09-07", "url": "https://t.me/nintendobarato/13308"},
+    {"t": "Super Mario Odyssey", "preco": 263.0, "loja": "Mercado Livre", "d": "2026-09-07", "url": "https://t.me/nintendobarato/13309"},
+    {"t": "Astral Chain", "preco": 283.0, "loja": "Mercado Livre", "d": "2026-09-07", "url": "https://t.me/nintendobarato/13310"},
+    {"t": "Super Mario Galaxy + Super Mario Galaxy 2", "preco": 279.0, "loja": "Mercado Livre", "d": "2026-09-07", "url": "https://t.me/nintendobarato/13311"},
+    {"t": "Towa And The Guardians Of The Sacred Tree", "preco": 121.0, "loja": "Mercado Livre", "d": "2026-09-07", "url": "https://t.me/nintendobarato/13312"},
+    {"t": "Pokémon TCG Megaevolução #5 - Escuridão Absoluta - 18 Boosters", "preco": 179.0, "loja": "Mercado Livre", "d": "2026-09-07", "url": "https://t.me/nintendobarato/13314"},
+    {"t": "Micro SD Express 256GB (ideal ao Switch 2)", "preco": 312.0, "loja": "Mercado Livre", "d": "2026-09-07", "url": "https://t.me/nintendobarato/13315"},
+    {"t": "Dragon Quest VII Reimagined", "preco": 241.0, "loja": "Amazon", "meu": "DRAGON QUEST VII Reimagined", "d": "2026-09-07", "url": "https://t.me/nintendobarato/13316"},
+    {"t": "Fichário para cards - 360 Espaços", "preco": 37.0, "loja": "Mercado Livre", "d": "2026-09-07", "url": "https://t.me/nintendobarato/13317"},
+    {"t": "Romancing SaGa 2: Revenge of the Seven", "preco": 213.0, "loja": "Amazon", "d": "2026-09-07", "url": "https://t.me/nintendobarato/13319"}
   ]
 }
