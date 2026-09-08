@@ -1,8 +1,7 @@
 {
-  "updated": "2026-09-07T17:15:44-03:00",
+  "updated": "2026-09-07T21:47:18-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "Bravely Default II", "preco": 267.0, "loja": "Mercado Livre", "d": "2026-09-07", "url": "https://t.me/nintendobarato/13305"},
     {"t": "The Adventures Of Elliot The Millennium Tales", "preco": 284.0, "loja": "Mercado Livre", "meu": "The Adventures of Elliot: The Millennium Tales", "d": "2026-09-07", "url": "https://t.me/nintendobarato/13306"},
     {"t": "Final Fantasy I-VI Pixel Remaster Collection", "preco": 234.0, "loja": "Mercado Livre", "d": "2026-09-07", "url": "https://t.me/nintendobarato/13307"},
     {"t": "The Legend of Zelda: Tears of the Kingdom", "preco": 281.0, "loja": "Mercado Livre", "d": "2026-09-07", "url": "https://t.me/nintendobarato/13308"},
@@ -18,6 +17,7 @@
     {"t": "Resident Evil Requiem", "preco": 306.0, "loja": "Amazon", "d": "2026-09-07", "url": "https://t.me/nintendobarato/13320"},
     {"t": "Bitmap Bureau Collection", "preco": 132.0, "loja": "Shopee", "d": "2026-09-07", "url": "https://t.me/nintendobarato/13321"},
     {"t": "Barbie Rewind Deluxe Edition", "preco": 455.0, "loja": "Shopee", "d": "2026-09-07", "url": "https://t.me/nintendobarato/13322"},
-    {"t": "Pepper Grinder", "preco": 129.0, "loja": "Mercado Livre", "d": "2026-09-07", "url": "https://t.me/nintendobarato/13323"}
+    {"t": "Pepper Grinder", "preco": 129.0, "loja": "Mercado Livre", "d": "2026-09-07", "url": "https://t.me/nintendobarato/13323"},
+    {"t": "Monster Hunter Stories 3: Twisted Reflection", "preco": 285.0, "loja": "Mercado Livre", "meu": "Monster Hunter Stories 3: Twisted Reflection", "d": "2026-09-07", "url": "https://t.me/nintendobarato/13325"}
   ]
 }
