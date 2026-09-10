@@ -1,8 +1,7 @@
 {
-  "updated": "2026-09-10T06:15:56-03:00",
+  "updated": "2026-09-10T11:41:42-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "PuyoPuyo Tetris", "preco": 75.0, "loja": "Mercado Livre", "d": "2026-09-09", "url": "https://t.me/nintendobarato/13449"},
     {"t": "Chocobo GP", "preco": 83.0, "loja": "Mercado Livre", "d": "2026-09-09", "url": "https://t.me/nintendobarato/13450"},
     {"t": "The Diofield Chronicle", "preco": 104.0, "loja": "Mercado Livre", "d": "2026-09-09", "url": "https://t.me/nintendobarato/13451"},
     {"t": "Super Bomberman R", "preco": 119.0, "loja": "Mercado Livre", "d": "2026-09-09", "url": "https://t.me/nintendobarato/13452"},
@@ -11,6 +10,9 @@
     {"t": "LEGO Game Boy", "preco": 358.0, "loja": "Mercado Livre", "d": "2026-09-09", "url": "https://t.me/nintendobarato/13456"},
     {"t": "Story of Seasons: Pioneers of Olive Town", "preco": 134.0, "loja": "Mercado Livre", "d": "2026-09-10", "url": "https://t.me/nintendobarato/13461"},
     {"t": "LEGO Game Boy", "preco": 328.0, "loja": "Amazon", "d": "2026-09-10", "url": "https://t.me/nintendobarato/13463"},
-    {"t": "Livro Pokécology an Illustrated Guide", "preco": 101.0, "loja": "Amazon", "d": "2026-09-10", "url": "https://t.me/nintendobarato/13464"}
+    {"t": "Livro Pokécology an Illustrated Guide", "preco": 101.0, "loja": "Amazon", "d": "2026-09-10", "url": "https://t.me/nintendobarato/13464"},
+    {"t": "Digimon Story Time Stranger (Switch 2)", "preco": 262.0, "loja": "Magazine Luiza", "meu": "Digimon Story Time Stranger", "d": "2026-09-10", "url": "https://t.me/nintendobarato/13466"},
+    {"t": "Pikmin 4", "preco": 262.0, "loja": "Magazine Luiza", "d": "2026-09-10", "url": "https://t.me/nintendobarato/13467"},
+    {"t": "The Legend of Zelda: Ocarina of Time 3D", "preco": 187.0, "loja": "Magazine Luiza", "meu": "The Legend of Zelda: Ocarina of Time", "d": "2026-09-10", "url": "https://t.me/nintendobarato/13468"}
   ]
 }
