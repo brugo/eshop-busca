@@ -1,11 +1,7 @@
 {
-  "updated": "2026-09-11T06:14:58-03:00",
+  "updated": "2026-09-11T11:40:28-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "Livro Pokécology an Illustrated Guide", "preco": 101.0, "loja": "Amazon", "d": "2026-09-10", "url": "https://t.me/nintendobarato/13464"},
-    {"t": "Digimon Story Time Stranger (Switch 2)", "preco": 262.0, "loja": "Magazine Luiza", "meu": "Digimon Story Time Stranger", "d": "2026-09-10", "url": "https://t.me/nintendobarato/13466"},
-    {"t": "Pikmin 4", "preco": 262.0, "loja": "Magazine Luiza", "d": "2026-09-10", "url": "https://t.me/nintendobarato/13467"},
-    {"t": "The Legend of Zelda: Ocarina of Time 3D", "preco": 187.0, "loja": "Magazine Luiza", "meu": "The Legend of Zelda: Ocarina of Time", "d": "2026-09-10", "url": "https://t.me/nintendobarato/13468"},
     {"t": "The Legend of Zelda: A Link Between Worlds", "preco": 199.0, "loja": "Shopee", "d": "2026-09-10", "url": "https://t.me/nintendobarato/13470"},
     {"t": "Nintendo Switch Sports Resort", "preco": 294.0, "loja": "Shopee", "d": "2026-09-10", "url": "https://t.me/nintendobarato/13474"},
     {"t": "Trails in the Sky 2nd Chapter", "preco": 284.0, "loja": "Shopee", "d": "2026-09-10", "url": "https://t.me/nintendobarato/13475"},
@@ -14,6 +10,11 @@
     {"t": "Camiseta Haunter - Lavender Town", "preco": 25.0, "loja": "Shopee", "d": "2026-09-10", "url": "https://t.me/nintendobarato/13480"},
     {"t": "Super Mario 3D Land", "preco": 199.0, "loja": "Shopee", "d": "2026-09-10", "url": "https://t.me/nintendobarato/13481"},
     {"t": "Donkey Kong Country Returns 3D", "preco": 199.0, "loja": "Shopee", "d": "2026-09-10", "url": "https://t.me/nintendobarato/13482"},
-    {"t": "Hot Wheels Infinite Rush", "preco": 349.0, "loja": "Mercado Livre", "d": "2026-09-11", "url": "https://t.me/nintendobarato/13483"}
+    {"t": "Hot Wheels Infinite Rush", "preco": 349.0, "loja": "Mercado Livre", "d": "2026-09-11", "url": "https://t.me/nintendobarato/13483"},
+    {"t": "Okami HD", "preco": 249.0, "loja": "Mercado Livre", "d": "2026-09-11", "url": "https://t.me/nintendobarato/13484"},
+    {"t": "Fire Emblem Fortune's Weave", "preco": 439.0, "loja": "Mercado Livre", "d": "2026-09-11", "url": "https://t.me/nintendobarato/13485"},
+    {"t": "LEGO Horizon Adventures", "preco": 123.0, "loja": "Shopee", "d": "2026-09-11", "url": "https://t.me/nintendobarato/13486"},
+    {"t": "NEO: The World Ends with You", "preco": 189.0, "loja": "Shopee", "d": "2026-09-11", "url": "https://t.me/nintendobarato/13487"},
+    {"t": "Scott Pilgrim EX", "preco": 218.0, "loja": "Shopee", "d": "2026-09-11", "url": "https://t.me/nintendobarato/13488"}
   ]
 }
