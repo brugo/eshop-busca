@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-12T10:47:58-03:00",
-  "total": 3630,
+  "updated": "2026-09-12T15:50:47-03:00",
+  "total": 3690,
   "games": [
     {"n": "Untitled Goose Game", "id": "70010000014141", "p": "SW", "s": "untitled-goose-game-switch", "reg": 73.99, "cur": 29.59, "pct": 60, "ends": "2026-10-03T15:59:59Z", "rank": 136, "meu": false, "img": "switch/70010000014141/e3549b645ea3dc77411280ba4a83f018235bbdb6f0b32039a5519cee985f0f4f"},
     {"n": "The Binding of Isaac: Afterbirth+", "id": "70010000000076", "p": "SW", "s": "the-binding-of-isaac-afterbirth-plus-switch", "reg": 204.0, "cur": 163.2, "pct": 20, "ends": "2026-09-15T06:59:59Z", "rank": 148, "meu": false, "img": "switch/70010000000076/d78049b5e6bfc2b0a92237a5463910856bdb5a549773a68f60ea21c632ae7c63"},
