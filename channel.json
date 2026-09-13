@@ -1,9 +1,7 @@
 {
-  "updated": "2026-09-12T15:50:47-03:00",
+  "updated": "2026-09-12T21:29:21-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "Camiseta Haunter - Lavender Town", "preco": 25.0, "loja": "Shopee", "d": "2026-09-10", "url": "https://t.me/nintendobarato/13480"},
-    {"t": "Super Mario 3D Land", "preco": 199.0, "loja": "Shopee", "d": "2026-09-10", "url": "https://t.me/nintendobarato/13481"},
     {"t": "Donkey Kong Country Returns 3D", "preco": 199.0, "loja": "Shopee", "d": "2026-09-10", "url": "https://t.me/nintendobarato/13482"},
     {"t": "Hot Wheels Infinite Rush", "preco": 349.0, "loja": "Mercado Livre", "d": "2026-09-11", "url": "https://t.me/nintendobarato/13483"},
     {"t": "Okami HD", "preco": 249.0, "loja": "Mercado Livre", "d": "2026-09-11", "url": "https://t.me/nintendobarato/13484"},
@@ -17,6 +15,8 @@
     {"t": "Neon White", "preco": 99.0, "loja": "Mercado Livre", "d": "2026-09-11", "url": "https://t.me/nintendobarato/13494"},
     {"t": "Pokémon TCG - Parceiro Inicial Série 3", "preco": 131.0, "loja": "Amazon", "d": "2026-09-11", "url": "https://t.me/nintendobarato/13495"},
     {"t": "Octopath Traveler 0", "preco": 269.0, "loja": "Mercado Livre", "meu": "OCTOPATH TRAVELER 0", "d": "2026-09-11", "url": "https://t.me/nintendobarato/13496"},
-    {"t": "Super Meat Boy 3D", "preco": 239.0, "loja": "Mercado Livre", "d": "2026-09-12", "url": "https://t.me/nintendobarato/13498"}
+    {"t": "Super Meat Boy 3D", "preco": 239.0, "loja": "Mercado Livre", "d": "2026-09-12", "url": "https://t.me/nintendobarato/13498"},
+    {"t": "Tokyo Mirage Sessions #FE", "preco": 206.0, "loja": "Amazon", "d": "2026-09-12", "url": "https://t.me/nintendobarato/13500"},
+    {"t": "Emio The Smiling Man - Famicon Detective Club", "preco": 269.0, "loja": "Amazon", "d": "2026-09-12", "url": "https://t.me/nintendobarato/13501"}
   ]
 }
