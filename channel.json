@@ -1,12 +1,7 @@
 {
-  "updated": "2026-09-14T13:40:50-03:00",
+  "updated": "2026-09-14T17:40:35-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "Scott Pilgrim EX", "preco": 218.0, "loja": "Shopee", "d": "2026-09-11", "url": "https://t.me/nintendobarato/13488"},
-    {"t": "Fire Emblem Fortune's Weave", "preco": 434.0, "loja": "Mercado Livre", "d": "2026-09-11", "url": "https://t.me/nintendobarato/13489"},
-    {"t": "Fire Emblem Fortune's Weave (opção Shopee)", "preco": 451.0, "loja": "Mercado Livre", "d": "2026-09-11", "url": "https://t.me/nintendobarato/13491"},
-    {"t": "Kit 6 Rupees + Stand de The Legend of Zelda", "preco": 29.0, "loja": "Shopee", "d": "2026-09-11", "url": "https://t.me/nintendobarato/13493"},
-    {"t": "Neon White", "preco": 99.0, "loja": "Mercado Livre", "d": "2026-09-11", "url": "https://t.me/nintendobarato/13494"},
     {"t": "Pokémon TCG - Parceiro Inicial Série 3", "preco": 131.0, "loja": "Amazon", "d": "2026-09-11", "url": "https://t.me/nintendobarato/13495"},
     {"t": "Octopath Traveler 0", "preco": 269.0, "loja": "Mercado Livre", "meu": "OCTOPATH TRAVELER 0", "d": "2026-09-11", "url": "https://t.me/nintendobarato/13496"},
     {"t": "Super Meat Boy 3D", "preco": 239.0, "loja": "Mercado Livre", "d": "2026-09-12", "url": "https://t.me/nintendobarato/13498"},
@@ -14,6 +9,11 @@
     {"t": "Emio The Smiling Man - Famicon Detective Club", "preco": 269.0, "loja": "Amazon", "d": "2026-09-12", "url": "https://t.me/nintendobarato/13501"},
     {"t": "Front Mission 1st Limited Edition", "preco": 156.0, "loja": "Shopee", "d": "2026-09-14", "url": "https://t.me/nintendobarato/13502"},
     {"t": "Livro Pokécology an Illustrated Guide", "preco": 100.0, "loja": "Amazon", "d": "2026-09-14", "url": "https://t.me/nintendobarato/13506"},
-    {"t": "Pokémon Deluxe Character Guide", "preco": 242.0, "loja": "Amazon", "d": "2026-09-14", "url": "https://t.me/nintendobarato/13507"}
+    {"t": "Pokémon Deluxe Character Guide", "preco": 242.0, "loja": "Amazon", "d": "2026-09-14", "url": "https://t.me/nintendobarato/13507"},
+    {"t": "Case slim licenciada Mario Kart World", "preco": 159.0, "loja": "Amazon", "d": "2026-09-14", "url": "https://t.me/nintendobarato/13508"},
+    {"t": "Towa And The Guardians Of The Sacred Tree", "preco": 139.0, "loja": "Mercado Livre", "d": "2026-09-14", "url": "https://t.me/nintendobarato/13511"},
+    {"t": "Tales Of Vesperia Definitive Edition", "preco": 149.0, "loja": "Mercado Livre", "d": "2026-09-14", "url": "https://t.me/nintendobarato/13512"},
+    {"t": "Case maleta Nintendo Switch 2", "preco": 189.0, "loja": "Mercado Livre", "d": "2026-09-14", "url": "https://t.me/nintendobarato/13513"},
+    {"t": "The Pathless", "preco": 129.0, "loja": "Mercado Livre", "d": "2026-09-14", "url": "https://t.me/nintendobarato/13514"}
   ]
 }
