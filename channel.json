@@ -1,9 +1,7 @@
 {
-  "updated": "2026-09-14T22:03:14-03:00",
+  "updated": "2026-09-15T06:40:59-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "Octopath Traveler 0", "preco": 269.0, "loja": "Mercado Livre", "meu": "OCTOPATH TRAVELER 0", "d": "2026-09-11", "url": "https://t.me/nintendobarato/13496"},
-    {"t": "Super Meat Boy 3D", "preco": 239.0, "loja": "Mercado Livre", "d": "2026-09-12", "url": "https://t.me/nintendobarato/13498"},
     {"t": "Tokyo Mirage Sessions #FE", "preco": 206.0, "loja": "Amazon", "d": "2026-09-12", "url": "https://t.me/nintendobarato/13500"},
     {"t": "Emio The Smiling Man - Famicon Detective Club", "preco": 269.0, "loja": "Amazon", "d": "2026-09-12", "url": "https://t.me/nintendobarato/13501"},
     {"t": "Front Mission 1st Limited Edition", "preco": 156.0, "loja": "Shopee", "d": "2026-09-14", "url": "https://t.me/nintendobarato/13502"},
@@ -13,6 +11,8 @@
     {"t": "Towa And The Guardians Of The Sacred Tree", "preco": 139.0, "loja": "Mercado Livre", "d": "2026-09-14", "url": "https://t.me/nintendobarato/13511"},
     {"t": "Tales Of Vesperia Definitive Edition", "preco": 149.0, "loja": "Mercado Livre", "d": "2026-09-14", "url": "https://t.me/nintendobarato/13512"},
     {"t": "Case maleta Nintendo Switch 2", "preco": 189.0, "loja": "Mercado Livre", "d": "2026-09-14", "url": "https://t.me/nintendobarato/13513"},
-    {"t": "The Pathless", "preco": 129.0, "loja": "Mercado Livre", "d": "2026-09-14", "url": "https://t.me/nintendobarato/13514"}
+    {"t": "The Pathless", "preco": 129.0, "loja": "Mercado Livre", "d": "2026-09-14", "url": "https://t.me/nintendobarato/13514"},
+    {"t": "Fire Emblem Fortune's Weave", "preco": 427.0, "loja": "Shopee", "d": "2026-09-15", "url": "https://t.me/nintendobarato/13516"},
+    {"t": "Nintendo Switch Sports Resort", "preco": 322.0, "loja": "Shopee", "d": "2026-09-15", "url": "https://t.me/nintendobarato/13518"}
   ]
 }
