@@ -1,11 +1,7 @@
 {
-  "updated": "2026-09-15T06:40:59-03:00",
+  "updated": "2026-09-15T12:19:54-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "Tokyo Mirage Sessions #FE", "preco": 206.0, "loja": "Amazon", "d": "2026-09-12", "url": "https://t.me/nintendobarato/13500"},
-    {"t": "Emio The Smiling Man - Famicon Detective Club", "preco": 269.0, "loja": "Amazon", "d": "2026-09-12", "url": "https://t.me/nintendobarato/13501"},
-    {"t": "Front Mission 1st Limited Edition", "preco": 156.0, "loja": "Shopee", "d": "2026-09-14", "url": "https://t.me/nintendobarato/13502"},
-    {"t": "Livro Pokécology an Illustrated Guide", "preco": 100.0, "loja": "Amazon", "d": "2026-09-14", "url": "https://t.me/nintendobarato/13506"},
     {"t": "Pokémon Deluxe Character Guide", "preco": 242.0, "loja": "Amazon", "d": "2026-09-14", "url": "https://t.me/nintendobarato/13507"},
     {"t": "Case slim licenciada Mario Kart World", "preco": 159.0, "loja": "Amazon", "d": "2026-09-14", "url": "https://t.me/nintendobarato/13508"},
     {"t": "Towa And The Guardians Of The Sacred Tree", "preco": 139.0, "loja": "Mercado Livre", "d": "2026-09-14", "url": "https://t.me/nintendobarato/13511"},
@@ -13,6 +9,13 @@
     {"t": "Case maleta Nintendo Switch 2", "preco": 189.0, "loja": "Mercado Livre", "d": "2026-09-14", "url": "https://t.me/nintendobarato/13513"},
     {"t": "The Pathless", "preco": 129.0, "loja": "Mercado Livre", "d": "2026-09-14", "url": "https://t.me/nintendobarato/13514"},
     {"t": "Fire Emblem Fortune's Weave", "preco": 427.0, "loja": "Shopee", "d": "2026-09-15", "url": "https://t.me/nintendobarato/13516"},
-    {"t": "Nintendo Switch Sports Resort", "preco": 322.0, "loja": "Shopee", "d": "2026-09-15", "url": "https://t.me/nintendobarato/13518"}
+    {"t": "Nintendo Switch Sports Resort", "preco": 322.0, "loja": "Shopee", "d": "2026-09-15", "url": "https://t.me/nintendobarato/13518"},
+    {"t": "Final Fantasy VII Rebirth", "preco": 256.0, "loja": "Shopee", "meu": "FINAL FANTASY VII REBIRTH", "d": "2026-09-15", "url": "https://t.me/nintendobarato/13520"},
+    {"t": "Ball x Pit", "preco": 161.0, "loja": "Shopee", "d": "2026-09-15", "url": "https://t.me/nintendobarato/13521"},
+    {"t": "Daemon X Machina Titanic Scion", "preco": 284.0, "loja": "Amazon", "d": "2026-09-15", "url": "https://t.me/nintendobarato/13522"},
+    {"t": "WarioWare: Get It Together!", "preco": 211.0, "loja": "Amazon", "d": "2026-09-15", "url": "https://t.me/nintendobarato/13523"},
+    {"t": "Hot Wheels Infinite Rush", "preco": 349.0, "loja": "Amazon", "d": "2026-09-15", "url": "https://t.me/nintendobarato/13524"},
+    {"t": "Pokémon Deluxe Character Guide", "preco": 278.0, "loja": "Amazon", "d": "2026-09-15", "url": "https://t.me/nintendobarato/13525"},
+    {"t": "Rune Factory 3 Special", "preco": 99.0, "loja": "Mercado Livre", "d": "2026-09-15", "url": "https://t.me/nintendobarato/13526"}
   ]
 }
