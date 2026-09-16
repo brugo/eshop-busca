@@ -1,11 +1,7 @@
 {
-  "updated": "2026-09-15T16:54:25-03:00",
+  "updated": "2026-09-15T21:52:57-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "Towa And The Guardians Of The Sacred Tree", "preco": 139.0, "loja": "Mercado Livre", "d": "2026-09-14", "url": "https://t.me/nintendobarato/13511"},
-    {"t": "Tales Of Vesperia Definitive Edition", "preco": 149.0, "loja": "Mercado Livre", "d": "2026-09-14", "url": "https://t.me/nintendobarato/13512"},
-    {"t": "Case maleta Nintendo Switch 2", "preco": 189.0, "loja": "Mercado Livre", "d": "2026-09-14", "url": "https://t.me/nintendobarato/13513"},
-    {"t": "The Pathless", "preco": 129.0, "loja": "Mercado Livre", "d": "2026-09-14", "url": "https://t.me/nintendobarato/13514"},
     {"t": "Fire Emblem Fortune's Weave", "preco": 427.0, "loja": "Shopee", "d": "2026-09-15", "url": "https://t.me/nintendobarato/13516"},
     {"t": "Nintendo Switch Sports Resort", "preco": 322.0, "loja": "Shopee", "d": "2026-09-15", "url": "https://t.me/nintendobarato/13518"},
     {"t": "Final Fantasy VII Rebirth", "preco": 256.0, "loja": "Shopee", "meu": "FINAL FANTASY VII REBIRTH", "d": "2026-09-15", "url": "https://t.me/nintendobarato/13520"},
@@ -17,6 +13,8 @@
     {"t": "Rune Factory 3 Special", "preco": 99.0, "loja": "Mercado Livre", "d": "2026-09-15", "url": "https://t.me/nintendobarato/13526"},
     {"t": "Digimon Survive", "preco": 99.0, "loja": "Mercado Livre", "d": "2026-09-15", "url": "https://t.me/nintendobarato/13527"},
     {"t": "Camiseta Kirby Star", "preco": 39.0, "loja": "Shopee", "d": "2026-09-15", "url": "https://t.me/nintendobarato/13528"},
-    {"t": "Pokémon TCG Celebração 30 anos - Blister Duplo", "preco": 114.0, "loja": "Mercado Livre", "d": "2026-09-15", "url": "https://t.me/nintendobarato/13529"}
+    {"t": "Pokémon TCG Celebração 30 anos - Blister Duplo", "preco": 114.0, "loja": "Mercado Livre", "d": "2026-09-15", "url": "https://t.me/nintendobarato/13529"},
+    {"t": "Classic / Modern Sonic Collection", "preco": 256.0, "d": "2026-09-15", "url": "https://t.me/nintendobarato/13531"},
+    {"t": "Stellar Blade Complete / Stellar Blade Complete Steelbook Edition", "preco": 341.0, "d": "2026-09-15", "url": "https://t.me/nintendobarato/13533"}
   ]
 }
