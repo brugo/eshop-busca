@@ -1,10 +1,13 @@
 {
-  "updated": "2026-09-16T16:47:53-03:00",
+  "updated": "2026-09-16T21:57:06-03:00",
   "canal": "nintendobarato",
   "posts": [
     {"t": "Minecraft", "preco": 185.0, "loja": "Amazon", "d": "2026-09-16", "url": "https://t.me/nintendobarato/13559"},
     {"t": "Kingdom Hearts: Collection", "preco": 409.0, "loja": "Amazon", "d": "2026-09-16", "url": "https://t.me/nintendobarato/13560"},
     {"t": "Kirby Air Riders", "preco": 304.0, "loja": "Amazon", "d": "2026-09-16", "url": "https://t.me/nintendobarato/13563"},
-    {"t": "Super Smash Bros. Ultimate", "preco": 269.0, "loja": "Amazon", "d": "2026-09-16", "url": "https://t.me/nintendobarato/13564"}
+    {"t": "Super Smash Bros. Ultimate", "preco": 269.0, "loja": "Amazon", "d": "2026-09-16", "url": "https://t.me/nintendobarato/13564"},
+    {"t": "Prince of Persia The Lost Crown", "preco": 137.0, "loja": "Shopee", "d": "2026-09-16", "url": "https://t.me/nintendobarato/13565"},
+    {"t": "Pokémon Legends Z-A", "preco": 266.0, "loja": "Mercado Livre", "d": "2026-09-16", "url": "https://t.me/nintendobarato/13567"},
+    {"t": "Pokémon TCG Celebração 30 anos - Blister Duplo", "preco": 110.0, "loja": "Mercado Livre", "d": "2026-09-16", "url": "https://t.me/nintendobarato/13568"}
   ]
 }
