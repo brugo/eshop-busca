@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-19T11:02:27-03:00",
-  "total": 4043,
+  "updated": "2026-09-19T16:03:00-03:00",
+  "total": 4060,
   "games": [
     {"n": "Resident Evil Requiem", "id": "70010000101675", "p": "SW2", "s": "resident-evil-requiem-switch-2", "reg": 339.0, "cur": 237.3, "pct": 30, "ends": "2026-10-09T06:59:59Z", "rank": 79, "meu": false, "img": "switch2/70010000101675/b7c59ded4fdfce429349bbc9eaf83beb37fb3363c178091cf44c7df2e7e6d985"},
     {"n": "FINAL FANTASY TACTICS - The Ivalice Chronicles Nintendo Switch™ 2 Edition", "id": "70010000100754", "p": "SW2", "s": "final-fantasy-tactics-the-ivalice-chronicles-nintendo-switch-2-edition-switch-2", "reg": 249.5, "cur": 149.7, "pct": 40, "ends": "2026-10-01T06:59:59Z", "rank": 82, "meu": true, "img": "switch2/70010000100754/a79ce10127b30deb1b647f11aa85333fee47cb1237bc1b23c8a3a4ef3b1aef1a"},
@@ -61,6 +61,6 @@
     {"n": "inKONBINI: One Store. Many Stories", "id": "70010000113080", "p": "SW", "s": "inkonbini-one-store-many-stories-switch", "reg": 77.0, "cur": 61.6, "pct": 20, "ends": "2026-10-01T06:59:59Z", "rank": 589, "meu": false, "img": "switch/70010000113080/5760d68948dc277517fd315fd5b152fc148af9737699b6105ffc548527d962aa"},
     {"n": "Go-Go Town! – Nintendo Switch 2 Edition", "id": "70010000128076", "p": "SW2", "s": "go-go-town-nintendo-switch-2-edition-switch-2", "reg": 101.99, "cur": 91.79, "pct": 10, "ends": "2026-09-29T06:59:59Z", "rank": 590, "meu": false, "img": "switch2/70010000128076/6f049023ace03909d42fbba9684616c5f1ed56aea1d8dcdeb1e46fcc1e88ec3d"},
     {"n": "Potion Craft: Alchemist Simulator", "id": "70010000054960", "p": "SW", "s": "potion-craft-alchemist-simulator-switch", "reg": 96.99, "cur": 33.94, "pct": 65, "ends": "2026-10-01T06:59:59Z", "rank": 594, "meu": false, "img": "switch/70010000054960/72d903cda7d38d9eceb980cd9ea3fa5bc6f9733fc872501795ddd8c142b34d72"},
-    {"n": "Slay the Princess - The Pristine Cut", "id": "70010000078781", "p": "SW", "s": "slay-the-princess-the-pristine-cut-switch", "reg": 62.99, "cur": 37.79, "pct": 40, "ends": "2026-10-01T06:59:59Z", "rank": 609, "meu": false, "img": "switch/70010000078781/e001305486bc26974681721dd68012f8618a9bbd711d67ba8390733433f2cce0"}
+    {"n": "High On Life 2", "id": "70010000103446", "p": "SW2", "s": "high-on-life-2-switch-2", "reg": 149.99, "cur": 127.49, "pct": 15, "ends": "2026-10-04T15:59:59Z", "rank": 599, "meu": false, "img": "switch2/70010000103446/908451d7ff0c9577d354a08c048286f1779a6bd8b974a8dc84a47f8ce69ba912"}
   ]
 }
