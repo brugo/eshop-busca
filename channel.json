@@ -1,11 +1,7 @@
 {
-  "updated": "2026-09-23T06:37:42-03:00",
+  "updated": "2026-09-23T12:13:21-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "Final Fantasy VII Rebirth", "preco": 256.0, "loja": "Shopee", "meu": "FINAL FANTASY VII REBIRTH", "d": "2026-09-22", "url": "https://t.me/nintendobarato/13661"},
-    {"t": "Persona 3 Reload", "preco": 269.0, "loja": "Mercado Livre", "d": "2026-09-22", "url": "https://t.me/nintendobarato/13662"},
-    {"t": "Eiyuden Chronicle: Hundred Heroes", "preco": 199.0, "loja": "Mercado Livre", "d": "2026-09-22", "url": "https://t.me/nintendobarato/13663"},
-    {"t": "Ace Attorney Investigations Collection", "preco": 199.0, "loja": "Mercado Livre", "d": "2026-09-22", "url": "https://t.me/nintendobarato/13664"},
     {"t": "Yakuza Kiwami 3 & Dark Ties", "preco": 204.0, "loja": "Amazon", "d": "2026-09-22", "url": "https://t.me/nintendobarato/13665"},
     {"t": "Sushi Striker: The Way of the Sushido", "preco": 106.0, "loja": "Amazon", "d": "2026-09-22", "url": "https://t.me/nintendobarato/13666"},
     {"t": "Orbitals", "preco": 275.0, "loja": "Shopee", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13668"},
@@ -16,6 +12,13 @@
     {"t": "Super Mario Galaxy + Super Mario Galaxy 2", "preco": 277.0, "loja": "Shopee", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13674"},
     {"t": "Star Fox", "preco": 286.0, "loja": "Shopee", "meu": "Star Fox", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13675"},
     {"t": "Castlevania Belmont's Curse Midnight Edition", "preco": 184.0, "loja": "Shopee", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13676"},
-    {"t": "Resident Evil Generation Pack", "preco": 454.0, "loja": "Shopee", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13677"}
+    {"t": "Resident Evil Generation Pack", "preco": 454.0, "loja": "Shopee", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13677"},
+    {"t": "Final Fantasy X / X-2 HD Remaster", "preco": 179.0, "loja": "Mercado Livre", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13678"},
+    {"t": "Dragon Quest Monsters The Dark Prince", "preco": 179.0, "loja": "Mercado Livre", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13679"},
+    {"t": "Princess Peach Showtime!", "preco": 269.0, "loja": "Mercado Livre", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13680"},
+    {"t": "Yu-Gi-Oh Early Days Collection", "preco": 179.0, "loja": "Mercado Livre", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13681"},
+    {"t": "Mega Man Star Force Legacy Collection", "preco": 179.0, "loja": "Mercado Livre", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13682"},
+    {"t": "Monster Hunter Rise", "preco": 179.0, "loja": "Mercado Livre", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13683"},
+    {"t": "Super Mario Party Jamboree", "preco": 269.0, "loja": "Shopee", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13684"}
   ]
 }
