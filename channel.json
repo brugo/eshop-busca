@@ -1,15 +1,7 @@
 {
-  "updated": "2026-09-23T12:13:21-03:00",
+  "updated": "2026-09-23T16:54:30-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "Yakuza Kiwami 3 & Dark Ties", "preco": 204.0, "loja": "Amazon", "d": "2026-09-22", "url": "https://t.me/nintendobarato/13665"},
-    {"t": "Sushi Striker: The Way of the Sushido", "preco": 106.0, "loja": "Amazon", "d": "2026-09-22", "url": "https://t.me/nintendobarato/13666"},
-    {"t": "Orbitals", "preco": 275.0, "loja": "Shopee", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13668"},
-    {"t": "Ball x Pit", "preco": 151.0, "loja": "Shopee", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13669"},
-    {"t": "The Legend of Zelda: Tears of the Kingdom", "preco": 286.0, "loja": "Shopee", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13671"},
-    {"t": "Splatoon Raiders", "preco": 286.0, "loja": "Shopee", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13672"},
-    {"t": "Super Mario Odyssey", "preco": 269.0, "loja": "Shopee", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13673"},
-    {"t": "Super Mario Galaxy + Super Mario Galaxy 2", "preco": 277.0, "loja": "Shopee", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13674"},
     {"t": "Star Fox", "preco": 286.0, "loja": "Shopee", "meu": "Star Fox", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13675"},
     {"t": "Castlevania Belmont's Curse Midnight Edition", "preco": 184.0, "loja": "Shopee", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13676"},
     {"t": "Resident Evil Generation Pack", "preco": 454.0, "loja": "Shopee", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13677"},
@@ -19,6 +11,13 @@
     {"t": "Yu-Gi-Oh Early Days Collection", "preco": 179.0, "loja": "Mercado Livre", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13681"},
     {"t": "Mega Man Star Force Legacy Collection", "preco": 179.0, "loja": "Mercado Livre", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13682"},
     {"t": "Monster Hunter Rise", "preco": 179.0, "loja": "Mercado Livre", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13683"},
-    {"t": "Super Mario Party Jamboree", "preco": 269.0, "loja": "Shopee", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13684"}
+    {"t": "Super Mario Party Jamboree", "preco": 269.0, "loja": "Shopee", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13684"},
+    {"t": "Fatal Frame II Crimson Butterfly Remake", "preco": 244.0, "loja": "Shopee", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13685"},
+    {"t": "Xenoblade Chronicles X Definitive Edition", "preco": 269.0, "loja": "Shopee", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13687"},
+    {"t": "Stellar Blade Complete Edition", "preco": 313.0, "loja": "Shopee", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13688"},
+    {"t": "Barbie Rewind Deluxe Edition", "preco": 408.0, "loja": "Shopee", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13689"},
+    {"t": "Culdcept Begins", "preco": 332.0, "loja": "Shopee", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13690"},
+    {"t": "LEGO Super Mario - Mario Kart", "preco": 989.0, "loja": "Amazon", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13692"},
+    {"t": "Final Fantasy Resonance", "preco": 278.0, "d": "2026-09-23", "url": "https://t.me/nintendobarato/13694"}
   ]
 }
