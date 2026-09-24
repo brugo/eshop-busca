@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-24T06:37:04-03:00",
-  "total": 3831,
+  "updated": "2026-09-24T12:35:03-03:00",
+  "total": 3834,
   "games": [
     {"n": "Wobbly Life", "id": "70010000080994", "p": "SW", "s": "wobbly-life-switch", "reg": 79.99, "cur": 63.99, "pct": 20, "ends": "2026-10-14T06:59:59Z", "rank": 77, "meu": false, "img": "switch/70010000080994/7f5a7381a2e98af0b75a86cace8b9ef152eccafb04a0c43b8826c24be3ff96d2"},
     {"n": "Disney Dreamlight Valley", "id": "70010000033556", "p": "SW", "s": "disney-dreamlight-valley-switch", "reg": 214.9, "cur": 128.94, "pct": 40, "ends": "2026-10-01T06:59:59Z", "rank": 78, "meu": false, "img": "switch/70010000033556/a217e59ff2d136b1142bcc73e4759f9a9b927c998caadf1fd7ebaa7f60fadae1"},
