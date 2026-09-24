@@ -1,16 +1,7 @@
 {
-  "updated": "2026-09-23T16:54:30-03:00",
+  "updated": "2026-09-23T21:57:26-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "Star Fox", "preco": 286.0, "loja": "Shopee", "meu": "Star Fox", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13675"},
-    {"t": "Castlevania Belmont's Curse Midnight Edition", "preco": 184.0, "loja": "Shopee", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13676"},
-    {"t": "Resident Evil Generation Pack", "preco": 454.0, "loja": "Shopee", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13677"},
-    {"t": "Final Fantasy X / X-2 HD Remaster", "preco": 179.0, "loja": "Mercado Livre", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13678"},
-    {"t": "Dragon Quest Monsters The Dark Prince", "preco": 179.0, "loja": "Mercado Livre", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13679"},
-    {"t": "Princess Peach Showtime!", "preco": 269.0, "loja": "Mercado Livre", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13680"},
-    {"t": "Yu-Gi-Oh Early Days Collection", "preco": 179.0, "loja": "Mercado Livre", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13681"},
-    {"t": "Mega Man Star Force Legacy Collection", "preco": 179.0, "loja": "Mercado Livre", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13682"},
-    {"t": "Monster Hunter Rise", "preco": 179.0, "loja": "Mercado Livre", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13683"},
     {"t": "Super Mario Party Jamboree", "preco": 269.0, "loja": "Shopee", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13684"},
     {"t": "Fatal Frame II Crimson Butterfly Remake", "preco": 244.0, "loja": "Shopee", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13685"},
     {"t": "Xenoblade Chronicles X Definitive Edition", "preco": 269.0, "loja": "Shopee", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13687"},
@@ -18,6 +9,13 @@
     {"t": "Barbie Rewind Deluxe Edition", "preco": 408.0, "loja": "Shopee", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13689"},
     {"t": "Culdcept Begins", "preco": 332.0, "loja": "Shopee", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13690"},
     {"t": "LEGO Super Mario - Mario Kart", "preco": 989.0, "loja": "Amazon", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13692"},
-    {"t": "Final Fantasy Resonance", "preco": 278.0, "d": "2026-09-23", "url": "https://t.me/nintendobarato/13694"}
+    {"t": "Final Fantasy Resonance", "preco": 278.0, "d": "2026-09-23", "url": "https://t.me/nintendobarato/13694"},
+    {"t": "Donkey Kong Country Returns HD", "preco": 185.0, "loja": "Kabum", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13695"},
+    {"t": "Sonix x Shadow Generations", "preco": 119.0, "loja": "Kabum", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13696"},
+    {"t": "Yakuza 0 Director's Cut", "preco": 137.0, "loja": "Kabum", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13697"},
+    {"t": "Kirby Air Riders", "preco": 245.0, "loja": "Kabum", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13698"},
+    {"t": "Série Octopath Traveler I & II para Switch 2", "preco": 325.0, "d": "2026-09-23", "url": "https://t.me/nintendobarato/13701"},
+    {"t": "Orbitals", "preco": 275.0, "loja": "Shopee", "d": "2026-09-23", "url": "https://t.me/nintendobarato/13702"},
+    {"t": "Animal Crossing: New Horizons", "preco": 269.0, "loja": "Shopee", "d": "2026-09-24", "url": "https://t.me/nintendobarato/13703"}
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-23T16:54:29-03:00",
-  "total": 3978,
+  "updated": "2026-09-23T21:57:25-03:00",
+  "total": 3977,
   "games": [
     {"n": "Wobbly Life", "id": "70010000080994", "p": "SW", "s": "wobbly-life-switch", "reg": 79.99, "cur": 63.99, "pct": 20, "ends": "2026-10-14T06:59:59Z", "rank": 77, "meu": false, "img": "switch/70010000080994/7f5a7381a2e98af0b75a86cace8b9ef152eccafb04a0c43b8826c24be3ff96d2"},
     {"n": "Resident Evil Requiem", "id": "70010000101675", "p": "SW2", "s": "resident-evil-requiem-switch-2", "reg": 339.0, "cur": 237.3, "pct": 30, "ends": "2026-10-09T06:59:59Z", "rank": 78, "meu": false, "img": "switch2/70010000101675/b7c59ded4fdfce429349bbc9eaf83beb37fb3363c178091cf44c7df2e7e6d985"},
