@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-26T06:37:04-03:00",
-  "total": 3757,
+  "updated": "2026-09-26T11:48:11-03:00",
+  "total": 3759,
   "games": [
     {"n": "Hades II", "id": "70010000060675", "p": "SW", "s": "hades-ii-switch", "reg": 109.9, "cur": 76.93, "pct": 30, "ends": "2026-10-09T06:59:59Z", "rank": 28, "meu": false, "img": "switch/70010000060675/a9a30b2adb707f5922eb2a845f821c99516a69e023751491b10584ac1352462f"},
     {"n": "Hades II – Nintendo Switch™ 2 Edition", "id": "70010000105526", "p": "SW2", "s": "hades-ii-nintendo-switch-2-edition-switch-2", "reg": 109.9, "cur": 76.93, "pct": 30, "ends": "2026-10-09T06:59:59Z", "rank": 31, "meu": false, "img": "switch2/70010000105526/4ea19bfcd0c389ee5d02bb0c9bbb562802c40b73eba39e1582ac057ea7f73ad4"},
