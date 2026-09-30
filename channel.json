@@ -1,12 +1,7 @@
 {
-  "updated": "2026-09-30T13:32:47-03:00",
+  "updated": "2026-09-30T18:05:21-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "Shoulder Bag Super Mario", "preco": 25.0, "loja": "Shopee", "d": "2026-09-29", "url": "https://t.me/nintendobarato/13769"},
-    {"t": "The Diofield Chronicle", "preco": 139.0, "loja": "Mercado Livre", "d": "2026-09-29", "url": "https://t.me/nintendobarato/13770"},
-    {"t": "Shinobi Art of Vengeance Deluxe Edition", "preco": 194.0, "loja": "Shopee", "d": "2026-09-29", "url": "https://t.me/nintendobarato/13772"},
-    {"t": "Mega Man Zero/Zx Legacy Collection", "preco": 185.0, "loja": "Shopee", "d": "2026-09-29", "url": "https://t.me/nintendobarato/13774"},
-    {"t": "NEO: The World Ends with You", "preco": 185.0, "loja": "Shopee", "d": "2026-09-29", "url": "https://t.me/nintendobarato/13775"},
     {"t": "Rayman Legends Retold", "preco": 194.0, "loja": "Shopee", "d": "2026-09-29", "url": "https://t.me/nintendobarato/13776"},
     {"t": "LEGO Eevee", "preco": 351.0, "loja": "Mercado Livre", "d": "2026-09-29", "url": "https://t.me/nintendobarato/13778"},
     {"t": "Elden Ring Tarnished Edition", "preco": 413.0, "loja": "Shopee", "d": "2026-09-29", "url": "https://t.me/nintendobarato/13779"},
@@ -16,6 +11,10 @@
     {"t": "Prince of Persia The Lost Crown", "preco": 147.0, "loja": "Shopee", "d": "2026-09-30", "url": "https://t.me/nintendobarato/13785"},
     {"t": "Ball x Pit", "preco": 161.0, "loja": "Shopee", "d": "2026-09-30", "url": "https://t.me/nintendobarato/13786"},
     {"t": "Elden Ring Tarnished Edition", "preco": 413.0, "loja": "Shopee", "d": "2026-09-30", "url": "https://t.me/nintendobarato/13787"},
-    {"t": "Dragon Ball Xenoverse 2", "preco": 128.0, "loja": "Shopee", "d": "2026-09-30", "url": "https://t.me/nintendobarato/13788"}
+    {"t": "Dragon Ball Xenoverse 2", "preco": 128.0, "loja": "Shopee", "d": "2026-09-30", "url": "https://t.me/nintendobarato/13788"},
+    {"t": "Rayman Legends Retold", "preco": 194.0, "loja": "Shopee", "d": "2026-09-30", "url": "https://t.me/nintendobarato/13789"},
+    {"t": "Classic / Modern Sonic Collection", "preco": 261.0, "d": "2026-09-30", "url": "https://t.me/nintendobarato/13790"},
+    {"t": "Controle Pro Nintendo Switch 2", "preco": 488.0, "loja": "Mercado Livre", "d": "2026-09-30", "url": "https://t.me/nintendobarato/13792"},
+    {"t": "Capcom Fighting Collection 2", "preco": 196.0, "loja": "Amazon", "d": "2026-09-30", "url": "https://t.me/nintendobarato/13795"}
   ]
 }
