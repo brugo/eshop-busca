@@ -1,9 +1,7 @@
 {
-  "updated": "2026-09-30T22:39:40-03:00",
+  "updated": "2026-10-01T08:14:41-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "Rayman Legends Retold", "preco": 194.0, "loja": "Shopee", "d": "2026-09-29", "url": "https://t.me/nintendobarato/13776"},
-    {"t": "LEGO Eevee", "preco": 351.0, "loja": "Mercado Livre", "d": "2026-09-29", "url": "https://t.me/nintendobarato/13778"},
     {"t": "Elden Ring Tarnished Edition", "preco": 413.0, "loja": "Shopee", "d": "2026-09-29", "url": "https://t.me/nintendobarato/13779"},
     {"t": "Final Fantasy Resonance", "preco": 263.0, "d": "2026-09-30", "url": "https://t.me/nintendobarato/13780"},
     {"t": "Mario & Luigi: Brothership", "preco": 259.0, "loja": "Mercado Livre", "d": "2026-09-30", "url": "https://t.me/nintendobarato/13783"},
@@ -15,6 +13,9 @@
     {"t": "Rayman Legends Retold", "preco": 194.0, "loja": "Shopee", "d": "2026-09-30", "url": "https://t.me/nintendobarato/13789"},
     {"t": "Classic / Modern Sonic Collection", "preco": 261.0, "d": "2026-09-30", "url": "https://t.me/nintendobarato/13790"},
     {"t": "Controle Pro Nintendo Switch 2", "preco": 488.0, "loja": "Mercado Livre", "d": "2026-09-30", "url": "https://t.me/nintendobarato/13792"},
-    {"t": "Capcom Fighting Collection 2", "preco": 196.0, "loja": "Amazon", "d": "2026-09-30", "url": "https://t.me/nintendobarato/13795"}
+    {"t": "Capcom Fighting Collection 2", "preco": 196.0, "loja": "Amazon", "d": "2026-09-30", "url": "https://t.me/nintendobarato/13795"},
+    {"t": "Orbitals", "preco": 275.0, "loja": "Shopee", "d": "2026-10-01", "url": "https://t.me/nintendobarato/13796"},
+    {"t": "Classic / Modern Sonic Collection", "preco": 256.0, "d": "2026-10-01", "url": "https://t.me/nintendobarato/13797"},
+    {"t": "Elden Ring Tarnished Edition", "preco": 408.0, "loja": "Shopee", "d": "2026-10-01", "url": "https://t.me/nintendobarato/13798"}
   ]
 }
