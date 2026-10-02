@@ -1,18 +1,22 @@
 {
-  "updated": "2026-10-02T07:47:25-03:00",
+  "updated": "2026-10-02T13:24:26-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "Samba De Amigo: Party Central", "preco": 98.0, "loja": "Mercado Livre", "d": "2026-10-01", "url": "https://t.me/nintendobarato/13802"},
-    {"t": "Orbitals", "preco": 254.0, "loja": "Mercado Livre", "d": "2026-10-01", "url": "https://t.me/nintendobarato/13804"},
-    {"t": "Resident Evil Generation Pack", "preco": 440.0, "loja": "Mercado Livre", "d": "2026-10-01", "url": "https://t.me/nintendobarato/13805"},
-    {"t": "Final Fantasy Resonance", "preco": 263.0, "d": "2026-10-01", "url": "https://t.me/nintendobarato/13807"},
-    {"t": "Cronos The New Dawn", "preco": 169.0, "loja": "Amazon", "d": "2026-10-01", "url": "https://t.me/nintendobarato/13811"},
     {"t": "Fire Emblem Warriors", "preco": 125.0, "loja": "Amazon", "d": "2026-10-01", "url": "https://t.me/nintendobarato/13813"},
     {"t": "Livro Pokécology an Illustrated Guide", "preco": 104.0, "loja": "Amazon", "d": "2026-10-01", "url": "https://t.me/nintendobarato/13815"},
     {"t": "Caixinhas de jogos de Switch 1", "preco": 25.0, "loja": "Shopee", "d": "2026-10-01", "url": "https://t.me/nintendobarato/13816"},
     {"t": "Star Fox", "preco": 288.0, "loja": "Amazon", "meu": "Star Fox", "d": "2026-10-01", "url": "https://t.me/nintendobarato/13817"},
     {"t": "Mario Kart World", "preco": 381.0, "loja": "Mercado Livre", "d": "2026-10-01", "url": "https://t.me/nintendobarato/13818"},
     {"t": "Nintendo Switch Sports Resort", "preco": 325.0, "loja": "Mercado Livre", "d": "2026-10-01", "url": "https://t.me/nintendobarato/13819"},
-    {"t": "Kit 2 Livros - A História dos Videogames", "preco": 104.0, "loja": "Mercado Livre", "d": "2026-10-01", "url": "https://t.me/nintendobarato/13820"}
+    {"t": "Kit 2 Livros - A História dos Videogames", "preco": 104.0, "loja": "Mercado Livre", "d": "2026-10-01", "url": "https://t.me/nintendobarato/13820"},
+    {"t": "Xenoblade Chronicles 2 - Nintendo Switch 2 Edition", "preco": 377.0, "loja": "Mercado Livre", "d": "2026-10-02", "url": "https://t.me/nintendobarato/13824"},
+    {"t": "Orbitals", "preco": 254.0, "loja": "Mercado Livre", "d": "2026-10-02", "url": "https://t.me/nintendobarato/13825"},
+    {"t": "Animal Crossing: New Horizons", "preco": 275.0, "loja": "Mercado Livre", "d": "2026-10-02", "url": "https://t.me/nintendobarato/13826"},
+    {"t": "Final Fantasy I-VI Pixel Remaster Collection", "preco": 252.0, "loja": "Mercado Livre", "d": "2026-10-02", "url": "https://t.me/nintendobarato/13827"},
+    {"t": "Tomb Raider IV-VI Remastered", "preco": 159.0, "loja": "Mercado Livre", "d": "2026-10-02", "url": "https://t.me/nintendobarato/13828"},
+    {"t": "Chibi-Robo! Zip Lash", "preco": 98.0, "loja": "Mercado Livre", "d": "2026-10-02", "url": "https://t.me/nintendobarato/13829"},
+    {"t": "Rayman 30th Anniversary Edition", "preco": 159.0, "loja": "Mercado Livre", "d": "2026-10-02", "url": "https://t.me/nintendobarato/13830"},
+    {"t": "Super Mario Bros. Wonder", "preco": 269.0, "loja": "Mercado Livre", "d": "2026-10-02", "url": "https://t.me/nintendobarato/13832"},
+    {"t": "Prince of Persia The Lost Crown", "preco": 142.0, "loja": "Shopee", "d": "2026-10-02", "url": "https://t.me/nintendobarato/13834"}
   ]
 }
