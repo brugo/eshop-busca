@@ -1,9 +1,7 @@
 {
-  "updated": "2026-10-02T22:31:55-03:00",
+  "updated": "2026-10-03T07:07:14-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "Orbitals", "preco": 254.0, "loja": "Mercado Livre", "d": "2026-10-02", "url": "https://t.me/nintendobarato/13825"},
-    {"t": "Animal Crossing: New Horizons", "preco": 275.0, "loja": "Mercado Livre", "d": "2026-10-02", "url": "https://t.me/nintendobarato/13826"},
     {"t": "Final Fantasy I-VI Pixel Remaster Collection", "preco": 252.0, "loja": "Mercado Livre", "d": "2026-10-02", "url": "https://t.me/nintendobarato/13827"},
     {"t": "Tomb Raider IV-VI Remastered", "preco": 159.0, "loja": "Mercado Livre", "d": "2026-10-02", "url": "https://t.me/nintendobarato/13828"},
     {"t": "Chibi-Robo! Zip Lash", "preco": 98.0, "loja": "Mercado Livre", "d": "2026-10-02", "url": "https://t.me/nintendobarato/13829"},
@@ -15,6 +13,8 @@
     {"t": "Final Fantasy Resonance", "preco": 263.0, "d": "2026-10-02", "url": "https://t.me/nintendobarato/13840"},
     {"t": "LEGO Animal Crossing - Admirando estrelas com Celeste", "preco": 53.0, "loja": "Amazon", "d": "2026-10-02", "url": "https://t.me/nintendobarato/13841"},
     {"t": "Persona 3 Reloaded", "preco": 207.0, "loja": "Amazon", "d": "2026-10-02", "url": "https://t.me/nintendobarato/13842"},
-    {"t": "Daemon X Machina Titanic Scion", "preco": 276.0, "loja": "Amazon", "d": "2026-10-02", "url": "https://t.me/nintendobarato/13843"}
+    {"t": "Daemon X Machina Titanic Scion", "preco": 276.0, "loja": "Amazon", "d": "2026-10-02", "url": "https://t.me/nintendobarato/13843"},
+    {"t": "Nintendo Switch Sports Resort", "preco": 306.0, "loja": "Mercado Livre", "d": "2026-10-03", "url": "https://t.me/nintendobarato/13845"},
+    {"t": "Spaltoon Raiders", "preco": 281.0, "loja": "Mercado Livre", "d": "2026-10-03", "url": "https://t.me/nintendobarato/13846"}
   ]
 }
