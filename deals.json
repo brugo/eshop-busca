@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-03T07:07:13-03:00",
-  "total": 3377,
+  "updated": "2026-10-03T11:59:03-03:00",
+  "total": 3491,
   "games": [
     {"n": "MARIO + RABBIDS SPARKS OF HOPE", "id": "70010000035797", "p": "SW", "s": "mario-plus-rabbids-sparks-of-hope-switch", "reg": 299.99, "cur": 29.99, "pct": 90, "ends": "2026-10-08T06:59:59Z", "rank": 30, "meu": false, "img": "switch/70010000035797/f3dc6aa2e25ab6d713ac5da17e90ce676dfadf6a0b8fefb37b8b5159d89fc36c"},
     {"n": "Hades II", "id": "70010000060675", "p": "SW", "s": "hades-ii-switch", "reg": 109.9, "cur": 76.93, "pct": 30, "ends": "2026-10-09T06:59:59Z", "rank": 35, "meu": false, "img": "switch/70010000060675/a9a30b2adb707f5922eb2a845f821c99516a69e023751491b10584ac1352462f"},
