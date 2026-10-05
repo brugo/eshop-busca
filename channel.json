@@ -1,10 +1,7 @@
 {
-  "updated": "2026-10-04T22:22:22-03:00",
+  "updated": "2026-10-05T08:55:20-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "LEGO Animal Crossing - Admirando estrelas com Celeste", "preco": 53.0, "loja": "Amazon", "d": "2026-10-02", "url": "https://t.me/nintendobarato/13841"},
-    {"t": "Persona 3 Reloaded", "preco": 207.0, "loja": "Amazon", "d": "2026-10-02", "url": "https://t.me/nintendobarato/13842"},
-    {"t": "Daemon X Machina Titanic Scion", "preco": 276.0, "loja": "Amazon", "d": "2026-10-02", "url": "https://t.me/nintendobarato/13843"},
     {"t": "Nintendo Switch Sports Resort", "preco": 306.0, "loja": "Mercado Livre", "d": "2026-10-03", "url": "https://t.me/nintendobarato/13845"},
     {"t": "Spaltoon Raiders", "preco": 281.0, "loja": "Mercado Livre", "d": "2026-10-03", "url": "https://t.me/nintendobarato/13846"},
     {"t": "Orbitals", "preco": 240.0, "loja": "Mercado Livre", "d": "2026-10-04", "url": "https://t.me/nintendobarato/13847"},
@@ -19,6 +16,10 @@
     {"t": "eFootball Kick-Off!", "preco": 169.0, "loja": "Mercado Livre", "d": "2026-10-04", "url": "https://t.me/nintendobarato/13856"},
     {"t": "Animal Crossing: New Horizons", "preco": 260.0, "loja": "Mercado Livre", "d": "2026-10-04", "url": "https://t.me/nintendobarato/13857"},
     {"t": "Splatoon Raiders", "preco": 281.0, "loja": "Mercado Livre", "d": "2026-10-04", "url": "https://t.me/nintendobarato/13858"},
-    {"t": "Shinobi Art Of Vengeance Deluxe Edition", "preco": 189.0, "loja": "Mercado Livre", "d": "2026-10-04", "url": "https://t.me/nintendobarato/13859"}
+    {"t": "Shinobi Art Of Vengeance Deluxe Edition", "preco": 189.0, "loja": "Mercado Livre", "d": "2026-10-04", "url": "https://t.me/nintendobarato/13859"},
+    {"t": "Super Mario Bros. Wonder", "preco": 249.0, "loja": "Mercado Livre", "d": "2026-10-05", "url": "https://t.me/nintendobarato/13861"},
+    {"t": "Dragon Quest VII Reimagined", "preco": 247.0, "loja": "Mercado Livre", "meu": "DRAGON QUEST VII Reimagined", "d": "2026-10-05", "url": "https://t.me/nintendobarato/13862"},
+    {"t": "Spaltoon Raiders", "preco": 281.0, "loja": "Mercado Livre", "d": "2026-10-05", "url": "https://t.me/nintendobarato/13863"},
+    {"t": "Sonic X Shadow Generations Switch 2", "preco": 149.0, "loja": "Amazon", "d": "2026-10-05", "url": "https://t.me/nintendobarato/13864"}
   ]
 }
