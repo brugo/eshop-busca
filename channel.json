@@ -1,9 +1,16 @@
 {
-  "updated": "2026-10-08T08:40:33-03:00",
+  "updated": "2026-10-08T18:37:12-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "Rayman Legends Retold", "preco": 194.0, "loja": "Shopee", "d": "2026-10-07", "url": "https://t.me/nintendobarato/13928"},
-    {"t": "Super Mario Galaxy + Super Mario Galaxy 2", "preco": 251.0, "loja": "Magazine Luiza", "d": "2026-10-08", "url": "https://t.me/nintendobarato/13937"},
-    {"t": "Xenoblade Chronicles 2", "preco": 300.0, "loja": "Magazine Luiza", "d": "2026-10-08", "url": "https://t.me/nintendobarato/13938"}
+    {"t": "Bravely Default: Flying Fairy HD Remaster", "preco": 203.0, "loja": "Mercado Livre", "d": "2026-10-08", "url": "https://t.me/nintendobarato/13957"},
+    {"t": "Onimusha: Way of the Sword", "preco": 281.0, "loja": "Mercado Livre", "d": "2026-10-08", "url": "https://t.me/nintendobarato/13958"},
+    {"t": "Granblue Fantasy Relink Endless Ragnarok", "preco": 284.0, "loja": "Mercado Livre", "meu": "Granblue Fantasy: Relink – Endless Ragnarok", "d": "2026-10-08", "url": "https://t.me/nintendobarato/13959"},
+    {"t": "Mario Kart 8 Deluxe", "preco": 246.0, "loja": "Mercado Livre", "d": "2026-10-08", "url": "https://t.me/nintendobarato/13960"},
+    {"t": "Pikmin 4", "preco": 272.0, "loja": "Mercado Livre", "d": "2026-10-08", "url": "https://t.me/nintendobarato/13961"},
+    {"t": "Octopath Traveler II", "preco": 242.0, "loja": "Mercado Livre", "d": "2026-10-08", "url": "https://t.me/nintendobarato/13962"},
+    {"t": "Blue Prince", "preco": 339.0, "loja": "Mercado Livre", "d": "2026-10-08", "url": "https://t.me/nintendobarato/13963"},
+    {"t": "Xenoblade Chronicles Definitive Edition", "preco": 273.0, "loja": "Mercado Livre", "d": "2026-10-08", "url": "https://t.me/nintendobarato/13964"},
+    {"t": "Xenoblade Chronicles 2 - Nintendo Switch 2 Edition", "preco": 376.0, "loja": "Mercado Livre", "d": "2026-10-08", "url": "https://t.me/nintendobarato/13965"},
+    {"t": "The Adventures of Elliot: The Millennium Tales", "preco": 266.0, "loja": "Mercado Livre", "meu": "The Adventures of Elliot: The Millennium Tales", "d": "2026-10-08", "url": "https://t.me/nintendobarato/13967"}
   ]
 }
