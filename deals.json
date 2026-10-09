@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-09T08:33:59-03:00",
-  "total": 3090,
+  "updated": "2026-10-09T18:23:40-03:00",
+  "total": 3122,
   "games": [
     {"n": "Among Us", "id": "70010000036098", "p": "SW", "s": "among-us-switch", "reg": 18.5, "cur": 11.99, "pct": 35, "ends": "2026-10-29T23:59:59Z", "rank": 35, "meu": false, "img": "switch/70010000036098/758ab0b61205081da2466386940752c70e0e5ea43bd39e8b9b13eaa455c69b7e"},
     {"n": "Hello Kitty Island Adventure", "id": "70010000074491", "p": "SW", "s": "hello-kitty-island-adventure-switch", "reg": 147.45, "cur": 81.09, "pct": 45, "ends": "2026-10-19T06:59:59Z", "rank": 90, "meu": false, "img": "switch/70010000074491/04ad1aa40daca99285926946cbbe2b12e1c7622ae762954cf67a5f59cda49b41"},
