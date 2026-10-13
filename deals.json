@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-13T09:17:46-03:00",
-  "total": 3045,
+  "updated": "2026-10-13T18:38:26-03:00",
+  "total": 3091,
   "games": [
     {"n": "Among Us", "id": "70010000036098", "p": "SW", "s": "among-us-switch", "reg": 18.5, "cur": 11.99, "pct": 35, "ends": "2026-10-29T23:59:59Z", "rank": 35, "meu": false, "img": "switch/70010000036098/758ab0b61205081da2466386940752c70e0e5ea43bd39e8b9b13eaa455c69b7e"},
     {"n": "Undertale", "id": "70010000009921", "p": "SW", "s": "undertale-switch", "reg": 79.0, "cur": 52.14, "pct": 34, "ends": "2026-11-01T15:59:59Z", "rank": 64, "meu": false, "img": "switch/70010000009921/44bea8c565db26c0c470a6325a47c9ea031633945cb91e4b5e1b1a39b01a2cdb"},
@@ -60,7 +60,7 @@
     {"n": "RollerCoaster Tycoon Adventures Deluxe", "id": "70010000069402", "p": "SW", "s": "rollercoaster-tycoon-adventures-deluxe-switch", "reg": 159.95, "cur": 47.98, "pct": 70, "ends": "2026-10-27T06:59:59Z", "rank": 999, "meu": false, "img": "switch/70010000069402/0c67b82c7f8bed2d79b5d6994b87c067c023b6523651286a688f3346b8890286"},
     {"n": "Townscaper", "id": "70010000038517", "p": "SW", "s": "townscaper-switch", "reg": 30.5, "cur": 12.2, "pct": 60, "ends": "2026-11-01T15:59:59Z", "rank": 1003, "meu": false, "img": "switch/70010000038517/65d077d4735c3bd4697682331503e9e9d2d035aee36963f73a6f79c6cd74dcec"},
     {"n": "Dinkum Nintendo Switch 2 Edition", "id": "70010000120169", "p": "SW2", "s": "dinkum-nintendo-switch-2-edition-switch-2", "reg": 99.95, "cur": 79.96, "pct": 20, "ends": "2026-10-17T06:59:59Z", "rank": 1010, "meu": false, "img": "switch2/70010000120169/18cd4c5f40ed5f365120a9ae239669acdc540fe5e838079120fe9f1f292b4e82"},
-    {"n": "Rival Stars Horse Racing", "id": "70010000111715", "p": "SW", "s": "rival-stars-horse-racing-switch", "reg": 145.95, "cur": 116.76, "pct": 20, "ends": "2026-10-19T06:59:59Z", "rank": 1035, "meu": false, "img": "switch/70010000111715/fc6c5b769c8044a6db7e98a5d191af6af3d2688aa00b9d257b1545f342482295"},
-    {"n": "Rift of the NecroDancer", "id": "70010000064328", "p": "SW", "s": "rift-of-the-necrodancer-switch", "reg": 59.99, "cur": 17.99, "pct": 70, "ends": "2026-10-30T06:59:59Z", "rank": 1057, "meu": false, "img": "switch/70010000064328/1533ac8b95a62a5b95ad77cb42b8ad206220e4ae81df7061c590810f250e67f3"}
+    {"n": "Witchy Life Story", "id": "70010000067649", "p": "SW", "s": "witchy-life-story-switch", "reg": 59.99, "cur": 23.99, "pct": 60, "ends": "2026-11-03T07:59:59Z", "rank": 1015, "meu": false, "img": "switch/70010000067649/569504dea6e593c3b86bfc9fbf3aa9efeff44cd32e71b574330767dd947c3f44"},
+    {"n": "Rival Stars Horse Racing", "id": "70010000111715", "p": "SW", "s": "rival-stars-horse-racing-switch", "reg": 145.95, "cur": 116.76, "pct": 20, "ends": "2026-10-19T06:59:59Z", "rank": 1035, "meu": false, "img": "switch/70010000111715/fc6c5b769c8044a6db7e98a5d191af6af3d2688aa00b9d257b1545f342482295"}
   ]
 }
