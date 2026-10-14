@@ -1,10 +1,7 @@
 {
-  "updated": "2026-10-14T06:49:43-03:00",
+  "updated": "2026-10-14T12:36:35-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "Dragon Ball Xenoverse 2", "preco": 128.0, "loja": "Shopee", "d": "2026-10-10", "url": "https://t.me/nintendobarato/14046"},
-    {"t": "Shinobi Art of Vengeance Deluxe Edition", "preco": 170.0, "loja": "Shopee", "d": "2026-10-10", "url": "https://t.me/nintendobarato/14047"},
-    {"t": "Advance Wars 1+2: Re-bot Camp", "preco": 237.0, "loja": "Shopee", "d": "2026-10-10", "url": "https://t.me/nintendobarato/14048"},
     {"t": "The Pathless", "preco": 125.0, "loja": "Mercado Livre", "d": "2026-10-12", "url": "https://t.me/nintendobarato/14054"},
     {"t": "Towa And The Guardians Of The Sacred Tree", "preco": 134.0, "loja": "Mercado Livre", "d": "2026-10-12", "url": "https://t.me/nintendobarato/14055"},
     {"t": "Octopath Traveler II", "preco": 179.0, "loja": "Mercado Livre", "d": "2026-10-12", "url": "https://t.me/nintendobarato/14056"},
@@ -14,6 +11,8 @@
     {"t": "Dragon Quest I & II HD-2D Remake", "preco": 231.0, "loja": "Amazon", "d": "2026-10-13", "url": "https://t.me/nintendobarato/14061"},
     {"t": "Ball x Pit", "preco": 151.0, "loja": "Shopee", "d": "2026-10-13", "url": "https://t.me/nintendobarato/14062"},
     {"t": "Rayman Legends Retold", "preco": 189.0, "loja": "Shopee", "d": "2026-10-13", "url": "https://t.me/nintendobarato/14063"},
-    {"t": "Controle Pro Nintendo Switch 2", "preco": 467.0, "loja": "Amazon", "d": "2026-10-13", "url": "https://t.me/nintendobarato/14066"}
+    {"t": "Controle Pro Nintendo Switch 2", "preco": 467.0, "loja": "Amazon", "d": "2026-10-13", "url": "https://t.me/nintendobarato/14066"},
+    {"t": "Classic / Modern Sonic Collection", "preco": 256.0, "d": "2026-10-14", "url": "https://t.me/nintendobarato/14067"},
+    {"t": "The Legend of Zelda: Ocarina of Time (capa NORMAL)", "preco": 395.0, "loja": "Kabum", "meu": "The Legend of Zelda: Ocarina of Time", "d": "2026-10-14", "url": "https://t.me/nintendobarato/14069"}
   ]
 }
