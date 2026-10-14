@@ -1,11 +1,7 @@
 {
-  "updated": "2026-10-14T12:36:35-03:00",
+  "updated": "2026-10-14T17:22:17-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "The Pathless", "preco": 125.0, "loja": "Mercado Livre", "d": "2026-10-12", "url": "https://t.me/nintendobarato/14054"},
-    {"t": "Towa And The Guardians Of The Sacred Tree", "preco": 134.0, "loja": "Mercado Livre", "d": "2026-10-12", "url": "https://t.me/nintendobarato/14055"},
-    {"t": "Octopath Traveler II", "preco": 179.0, "loja": "Mercado Livre", "d": "2026-10-12", "url": "https://t.me/nintendobarato/14056"},
-    {"t": "Shinobi Art of Vengeance Deluxe Edition", "preco": 179.0, "loja": "Mercado Livre", "d": "2026-10-12", "url": "https://t.me/nintendobarato/14057"},
     {"t": "Persona 5 Royal", "preco": 181.0, "loja": "Amazon", "d": "2026-10-13", "url": "https://t.me/nintendobarato/14058"},
     {"t": "Star Ocean the Second Story R", "preco": 233.0, "loja": "Amazon", "d": "2026-10-13", "url": "https://t.me/nintendobarato/14059"},
     {"t": "Dragon Quest I & II HD-2D Remake", "preco": 231.0, "loja": "Amazon", "d": "2026-10-13", "url": "https://t.me/nintendobarato/14061"},
@@ -13,6 +9,12 @@
     {"t": "Rayman Legends Retold", "preco": 189.0, "loja": "Shopee", "d": "2026-10-13", "url": "https://t.me/nintendobarato/14063"},
     {"t": "Controle Pro Nintendo Switch 2", "preco": 467.0, "loja": "Amazon", "d": "2026-10-13", "url": "https://t.me/nintendobarato/14066"},
     {"t": "Classic / Modern Sonic Collection", "preco": 256.0, "d": "2026-10-14", "url": "https://t.me/nintendobarato/14067"},
-    {"t": "The Legend of Zelda: Ocarina of Time (capa NORMAL)", "preco": 395.0, "loja": "Kabum", "meu": "The Legend of Zelda: Ocarina of Time", "d": "2026-10-14", "url": "https://t.me/nintendobarato/14069"}
+    {"t": "The Legend of Zelda: Ocarina of Time (capa NORMAL)", "preco": 395.0, "loja": "Kabum", "meu": "The Legend of Zelda: Ocarina of Time", "d": "2026-10-14", "url": "https://t.me/nintendobarato/14069"},
+    {"t": "Controle Pro Nintendo Switch 2", "preco": 442.0, "loja": "Kabum", "d": "2026-10-14", "url": "https://t.me/nintendobarato/14071"},
+    {"t": "The Legend of Zelda: Ocarina of Time (capa NORMAL)", "preco": 379.0, "loja": "Shopee", "meu": "The Legend of Zelda: Ocarina of Time", "d": "2026-10-14", "url": "https://t.me/nintendobarato/14072"},
+    {"t": "Granblue Fantasy Relink Endless Ragnarok", "preco": 260.0, "loja": "Mercado Livre", "meu": "Granblue Fantasy: Relink – Endless Ragnarok", "d": "2026-10-14", "url": "https://t.me/nintendobarato/14074"},
+    {"t": "Xenoblade Chronicles 2 - Nintendo Switch 2 Edition", "preco": 389.0, "loja": "Mercado Livre", "d": "2026-10-14", "url": "https://t.me/nintendobarato/14075"},
+    {"t": "Pokémon Scarlet", "preco": 259.0, "loja": "Mercado Livre", "d": "2026-10-14", "url": "https://t.me/nintendobarato/14076"},
+    {"t": "Capcom Fighting Collection 2", "preco": 187.0, "loja": "Amazon", "d": "2026-10-14", "url": "https://t.me/nintendobarato/14077"}
   ]
 }
