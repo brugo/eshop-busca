@@ -1,11 +1,7 @@
 {
-  "updated": "2026-10-15T06:30:20-03:00",
+  "updated": "2026-10-15T12:23:43-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "Star Ocean the Second Story R", "preco": 233.0, "loja": "Amazon", "d": "2026-10-13", "url": "https://t.me/nintendobarato/14059"},
-    {"t": "Dragon Quest I & II HD-2D Remake", "preco": 231.0, "loja": "Amazon", "d": "2026-10-13", "url": "https://t.me/nintendobarato/14061"},
-    {"t": "Ball x Pit", "preco": 151.0, "loja": "Shopee", "d": "2026-10-13", "url": "https://t.me/nintendobarato/14062"},
-    {"t": "Rayman Legends Retold", "preco": 189.0, "loja": "Shopee", "d": "2026-10-13", "url": "https://t.me/nintendobarato/14063"},
     {"t": "Controle Pro Nintendo Switch 2", "preco": 467.0, "loja": "Amazon", "d": "2026-10-13", "url": "https://t.me/nintendobarato/14066"},
     {"t": "Classic / Modern Sonic Collection", "preco": 256.0, "d": "2026-10-14", "url": "https://t.me/nintendobarato/14067"},
     {"t": "The Legend of Zelda: Ocarina of Time (capa NORMAL)", "preco": 395.0, "loja": "Kabum", "meu": "The Legend of Zelda: Ocarina of Time", "d": "2026-10-14", "url": "https://t.me/nintendobarato/14069"},
@@ -14,6 +10,10 @@
     {"t": "Granblue Fantasy Relink Endless Ragnarok", "preco": 260.0, "loja": "Mercado Livre", "meu": "Granblue Fantasy: Relink – Endless Ragnarok", "d": "2026-10-14", "url": "https://t.me/nintendobarato/14074"},
     {"t": "Xenoblade Chronicles 2 - Nintendo Switch 2 Edition", "preco": 389.0, "loja": "Mercado Livre", "d": "2026-10-14", "url": "https://t.me/nintendobarato/14075"},
     {"t": "Pokémon Scarlet", "preco": 259.0, "loja": "Mercado Livre", "d": "2026-10-14", "url": "https://t.me/nintendobarato/14076"},
-    {"t": "Capcom Fighting Collection 2", "preco": 187.0, "loja": "Amazon", "d": "2026-10-14", "url": "https://t.me/nintendobarato/14077"}
+    {"t": "Capcom Fighting Collection 2", "preco": 187.0, "loja": "Amazon", "d": "2026-10-14", "url": "https://t.me/nintendobarato/14077"},
+    {"t": "Persona 5 Royal", "preco": 177.0, "loja": "Amazon", "d": "2026-10-15", "url": "https://t.me/nintendobarato/14079"},
+    {"t": "Micro SD Express - 256GB (ideal ao Switch 2)", "preco": 349.0, "loja": "Amazon", "d": "2026-10-15", "url": "https://t.me/nintendobarato/14080"},
+    {"t": "Livro Pokécology an Illustrated Guide", "preco": 88.0, "loja": "Amazon", "d": "2026-10-15", "url": "https://t.me/nintendobarato/14082"},
+    {"t": "Metroid Prime 4: Beyond - Nintendo Switch 2 Edition", "preco": 194.0, "loja": "Kabum", "d": "2026-10-15", "url": "https://t.me/nintendobarato/14083"}
   ]
 }
