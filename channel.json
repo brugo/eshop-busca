@@ -1,11 +1,7 @@
 {
-  "updated": "2026-10-16T06:23:24-03:00",
+  "updated": "2026-10-16T12:03:52-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "Classic / Modern Sonic Collection", "preco": 256.0, "d": "2026-10-14", "url": "https://t.me/nintendobarato/14067"},
-    {"t": "The Legend of Zelda: Ocarina of Time (capa NORMAL)", "preco": 395.0, "loja": "Kabum", "meu": "The Legend of Zelda: Ocarina of Time", "d": "2026-10-14", "url": "https://t.me/nintendobarato/14069"},
-    {"t": "Controle Pro Nintendo Switch 2", "preco": 442.0, "loja": "Kabum", "d": "2026-10-14", "url": "https://t.me/nintendobarato/14071"},
-    {"t": "The Legend of Zelda: Ocarina of Time (capa NORMAL)", "preco": 379.0, "loja": "Shopee", "meu": "The Legend of Zelda: Ocarina of Time", "d": "2026-10-14", "url": "https://t.me/nintendobarato/14072"},
     {"t": "Granblue Fantasy Relink Endless Ragnarok", "preco": 260.0, "loja": "Mercado Livre", "meu": "Granblue Fantasy: Relink – Endless Ragnarok", "d": "2026-10-14", "url": "https://t.me/nintendobarato/14074"},
     {"t": "Xenoblade Chronicles 2 - Nintendo Switch 2 Edition", "preco": 389.0, "loja": "Mercado Livre", "d": "2026-10-14", "url": "https://t.me/nintendobarato/14075"},
     {"t": "Pokémon Scarlet", "preco": 259.0, "loja": "Mercado Livre", "d": "2026-10-14", "url": "https://t.me/nintendobarato/14076"},
@@ -14,6 +10,9 @@
     {"t": "Micro SD Express - 256GB (ideal ao Switch 2)", "preco": 349.0, "loja": "Amazon", "d": "2026-10-15", "url": "https://t.me/nintendobarato/14080"},
     {"t": "Livro Pokécology an Illustrated Guide", "preco": 88.0, "loja": "Amazon", "d": "2026-10-15", "url": "https://t.me/nintendobarato/14082"},
     {"t": "Metroid Prime 4: Beyond - Nintendo Switch 2 Edition", "preco": 194.0, "loja": "Kabum", "d": "2026-10-15", "url": "https://t.me/nintendobarato/14083"},
-    {"t": "Pokémon Deluxe Character Guide", "preco": 249.0, "loja": "Amazon", "d": "2026-10-15", "url": "https://t.me/nintendobarato/14086"}
+    {"t": "Pokémon Deluxe Character Guide", "preco": 249.0, "loja": "Amazon", "d": "2026-10-15", "url": "https://t.me/nintendobarato/14086"},
+    {"t": "Dragon Ball Sparking Zero", "preco": 222.0, "loja": "Mercado Livre", "d": "2026-10-16", "url": "https://t.me/nintendobarato/14089"},
+    {"t": "Unicorn Overlord", "preco": 199.0, "loja": "Amazon", "d": "2026-10-16", "url": "https://t.me/nintendobarato/14090"},
+    {"t": "Daemon X Machina Titanic Scion", "preco": 269.0, "loja": "Amazon", "d": "2026-10-16", "url": "https://t.me/nintendobarato/14091"}
   ]
 }
