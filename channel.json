@@ -1,10 +1,7 @@
 {
-  "updated": "2026-10-20T12:26:31-03:00",
+  "updated": "2026-10-20T17:12:19-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "Resident Evil Generation Pack", "preco": 415.0, "loja": "Mercado Livre", "d": "2026-10-19", "url": "https://t.me/nintendobarato/14103"},
-    {"t": "Super Bomberman R 2", "preco": 196.0, "loja": "Mercado Livre", "d": "2026-10-19", "url": "https://t.me/nintendobarato/14104"},
-    {"t": "Tales of Graces F Remastered", "preco": 149.0, "loja": "Mercado Livre", "d": "2026-10-19", "url": "https://t.me/nintendobarato/14106"},
     {"t": "Prince of Persia The Lost Crown", "preco": 134.0, "loja": "Mercado Livre", "d": "2026-10-19", "url": "https://t.me/nintendobarato/14107"},
     {"t": "Persona 5 Tactica", "preco": 89.0, "loja": "Mercado Livre", "d": "2026-10-19", "url": "https://t.me/nintendobarato/14108"},
     {"t": "Controle Pro Nintendo Switch 1", "preco": 258.0, "loja": "Kabum", "d": "2026-10-19", "url": "https://t.me/nintendobarato/14109"},
@@ -17,6 +14,9 @@
     {"t": "Final Fantasy Tactics: The Ivalice Chronicle", "preco": 275.0, "loja": "Mercado Livre", "d": "2026-10-19", "url": "https://t.me/nintendobarato/14119"},
     {"t": "Daemon X Machina Titanic Scion", "preco": 266.0, "loja": "Amazon", "d": "2026-10-20", "url": "https://t.me/nintendobarato/14121"},
     {"t": "Dragon Quest III HD-2D Remake", "preco": 191.0, "loja": "Amazon", "d": "2026-10-20", "url": "https://t.me/nintendobarato/14122"},
-    {"t": "Final Fantasy Tactics: The Ivalice Chronicle", "preco": 234.0, "loja": "Amazon", "d": "2026-10-20", "url": "https://t.me/nintendobarato/14123"}
+    {"t": "Final Fantasy Tactics: The Ivalice Chronicle", "preco": 234.0, "loja": "Amazon", "d": "2026-10-20", "url": "https://t.me/nintendobarato/14123"},
+    {"t": "Star Ocean the Second Story R", "preco": 238.0, "loja": "Amazon", "d": "2026-10-20", "url": "https://t.me/nintendobarato/14124"},
+    {"t": "The Legend of Zelda: Ocarina of Time (capa NORMAL)", "preco": 389.0, "loja": "Shopee", "meu": "The Legend of Zelda: Ocarina of Time", "d": "2026-10-20", "url": "https://t.me/nintendobarato/14125"},
+    {"t": "Final Fantasy Resonance", "preco": 233.0, "d": "2026-10-20", "url": "https://t.me/nintendobarato/14126"}
   ]
 }
