@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-19T14:14:09-03:00",
-  "total": 3199,
+  "updated": "2026-10-19T22:20:42-03:00",
+  "total": 3288,
   "games": [
     {"n": "Among Us", "id": "70010000036098", "p": "SW", "s": "among-us-switch", "reg": 18.5, "cur": 11.99, "pct": 35, "ends": "2026-10-29T23:59:59Z", "rank": 35, "meu": false, "img": "switch/70010000036098/758ab0b61205081da2466386940752c70e0e5ea43bd39e8b9b13eaa455c69b7e"},
     {"n": "Undertale", "id": "70010000009921", "p": "SW", "s": "undertale-switch", "reg": 79.0, "cur": 52.14, "pct": 34, "ends": "2026-11-01T15:59:59Z", "rank": 65, "meu": false, "img": "switch/70010000009921/44bea8c565db26c0c470a6325a47c9ea031633945cb91e4b5e1b1a39b01a2cdb"},
