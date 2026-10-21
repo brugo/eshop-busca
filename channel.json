@@ -1,9 +1,7 @@
 {
-  "updated": "2026-10-20T17:12:19-03:00",
+  "updated": "2026-10-20T22:06:09-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "Prince of Persia The Lost Crown", "preco": 134.0, "loja": "Mercado Livre", "d": "2026-10-19", "url": "https://t.me/nintendobarato/14107"},
-    {"t": "Persona 5 Tactica", "preco": 89.0, "loja": "Mercado Livre", "d": "2026-10-19", "url": "https://t.me/nintendobarato/14108"},
     {"t": "Controle Pro Nintendo Switch 1", "preco": 258.0, "loja": "Kabum", "d": "2026-10-19", "url": "https://t.me/nintendobarato/14109"},
     {"t": "Resident Evil Requiem", "preco": 247.0, "loja": "Mercado Livre", "d": "2026-10-19", "url": "https://t.me/nintendobarato/14111"},
     {"t": "Final Fantasy Resonance", "preco": 233.0, "d": "2026-10-19", "url": "https://t.me/nintendobarato/14114"},
@@ -17,6 +15,7 @@
     {"t": "Final Fantasy Tactics: The Ivalice Chronicle", "preco": 234.0, "loja": "Amazon", "d": "2026-10-20", "url": "https://t.me/nintendobarato/14123"},
     {"t": "Star Ocean the Second Story R", "preco": 238.0, "loja": "Amazon", "d": "2026-10-20", "url": "https://t.me/nintendobarato/14124"},
     {"t": "The Legend of Zelda: Ocarina of Time (capa NORMAL)", "preco": 389.0, "loja": "Shopee", "meu": "The Legend of Zelda: Ocarina of Time", "d": "2026-10-20", "url": "https://t.me/nintendobarato/14125"},
-    {"t": "Final Fantasy Resonance", "preco": 233.0, "d": "2026-10-20", "url": "https://t.me/nintendobarato/14126"}
+    {"t": "Final Fantasy Resonance", "preco": 233.0, "d": "2026-10-20", "url": "https://t.me/nintendobarato/14126"},
+    {"t": "Persona 5 Tactica", "preco": 69.0, "loja": "Mercado Livre", "d": "2026-10-20", "url": "https://t.me/nintendobarato/14127"}
   ]
 }
