@@ -1,9 +1,7 @@
 {
-  "updated": "2026-10-21T06:44:04-03:00",
+  "updated": "2026-10-21T12:43:33-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "Controle Pro Nintendo Switch 1", "preco": 258.0, "loja": "Kabum", "d": "2026-10-19", "url": "https://t.me/nintendobarato/14109"},
-    {"t": "Resident Evil Requiem", "preco": 247.0, "loja": "Mercado Livre", "d": "2026-10-19", "url": "https://t.me/nintendobarato/14111"},
     {"t": "Final Fantasy Resonance", "preco": 233.0, "d": "2026-10-19", "url": "https://t.me/nintendobarato/14114"},
     {"t": "Cris Tales", "preco": 99.0, "loja": "Mercado Livre", "d": "2026-10-19", "url": "https://t.me/nintendobarato/14115"},
     {"t": "eFootball Kick-Off!", "preco": 159.0, "loja": "Mercado Livre", "d": "2026-10-19", "url": "https://t.me/nintendobarato/14116"},
@@ -16,6 +14,9 @@
     {"t": "Star Ocean the Second Story R", "preco": 238.0, "loja": "Amazon", "d": "2026-10-20", "url": "https://t.me/nintendobarato/14124"},
     {"t": "The Legend of Zelda: Ocarina of Time (capa NORMAL)", "preco": 389.0, "loja": "Shopee", "meu": "The Legend of Zelda: Ocarina of Time", "d": "2026-10-20", "url": "https://t.me/nintendobarato/14125"},
     {"t": "Final Fantasy Resonance", "preco": 233.0, "d": "2026-10-20", "url": "https://t.me/nintendobarato/14126"},
-    {"t": "Persona 5 Tactica", "preco": 69.0, "loja": "Mercado Livre", "d": "2026-10-20", "url": "https://t.me/nintendobarato/14127"}
+    {"t": "Persona 5 Tactica", "preco": 69.0, "loja": "Mercado Livre", "d": "2026-10-20", "url": "https://t.me/nintendobarato/14127"},
+    {"t": "Octopath Traveler + Octopath Traveler II", "preco": 459.0, "loja": "Mercado Livre", "d": "2026-10-21", "url": "https://t.me/nintendobarato/14129"},
+    {"t": "Trails in the Sky 1st Chapter", "preco": 250.0, "loja": "Amazon", "d": "2026-10-21", "url": "https://t.me/nintendobarato/14130"},
+    {"t": "Neon White", "preco": 85.0, "loja": "Shopee", "d": "2026-10-21", "url": "https://t.me/nintendobarato/14131"}
   ]
 }
