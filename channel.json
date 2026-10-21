@@ -1,15 +1,7 @@
 {
-  "updated": "2026-10-21T12:43:33-03:00",
+  "updated": "2026-10-21T17:24:19-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "Final Fantasy Resonance", "preco": 233.0, "d": "2026-10-19", "url": "https://t.me/nintendobarato/14114"},
-    {"t": "Cris Tales", "preco": 99.0, "loja": "Mercado Livre", "d": "2026-10-19", "url": "https://t.me/nintendobarato/14115"},
-    {"t": "eFootball Kick-Off!", "preco": 159.0, "loja": "Mercado Livre", "d": "2026-10-19", "url": "https://t.me/nintendobarato/14116"},
-    {"t": "Mario & Luigi Brothership", "preco": 249.0, "loja": "Mercado Livre", "d": "2026-10-19", "url": "https://t.me/nintendobarato/14117"},
-    {"t": "Nintendo Switch Sports Resort", "preco": 302.0, "loja": "Mercado Livre", "d": "2026-10-19", "url": "https://t.me/nintendobarato/14118"},
-    {"t": "Final Fantasy Tactics: The Ivalice Chronicle", "preco": 275.0, "loja": "Mercado Livre", "d": "2026-10-19", "url": "https://t.me/nintendobarato/14119"},
-    {"t": "Daemon X Machina Titanic Scion", "preco": 266.0, "loja": "Amazon", "d": "2026-10-20", "url": "https://t.me/nintendobarato/14121"},
-    {"t": "Dragon Quest III HD-2D Remake", "preco": 191.0, "loja": "Amazon", "d": "2026-10-20", "url": "https://t.me/nintendobarato/14122"},
     {"t": "Final Fantasy Tactics: The Ivalice Chronicle", "preco": 234.0, "loja": "Amazon", "d": "2026-10-20", "url": "https://t.me/nintendobarato/14123"},
     {"t": "Star Ocean the Second Story R", "preco": 238.0, "loja": "Amazon", "d": "2026-10-20", "url": "https://t.me/nintendobarato/14124"},
     {"t": "The Legend of Zelda: Ocarina of Time (capa NORMAL)", "preco": 389.0, "loja": "Shopee", "meu": "The Legend of Zelda: Ocarina of Time", "d": "2026-10-20", "url": "https://t.me/nintendobarato/14125"},
@@ -17,6 +9,13 @@
     {"t": "Persona 5 Tactica", "preco": 69.0, "loja": "Mercado Livre", "d": "2026-10-20", "url": "https://t.me/nintendobarato/14127"},
     {"t": "Octopath Traveler + Octopath Traveler II", "preco": 459.0, "loja": "Mercado Livre", "d": "2026-10-21", "url": "https://t.me/nintendobarato/14129"},
     {"t": "Trails in the Sky 1st Chapter", "preco": 250.0, "loja": "Amazon", "d": "2026-10-21", "url": "https://t.me/nintendobarato/14130"},
-    {"t": "Neon White", "preco": 85.0, "loja": "Shopee", "d": "2026-10-21", "url": "https://t.me/nintendobarato/14131"}
+    {"t": "Neon White", "preco": 85.0, "loja": "Shopee", "d": "2026-10-21", "url": "https://t.me/nintendobarato/14131"},
+    {"t": "Tomb Raider I-II-III Remastered", "preco": 149.0, "loja": "Mercado Livre", "d": "2026-10-21", "url": "https://t.me/nintendobarato/14132"},
+    {"t": "Xenoblade Chronicles 2 - Nintendo Switch 2 Edition", "preco": 367.0, "loja": "Mercado Livre", "d": "2026-10-21", "url": "https://t.me/nintendobarato/14133"},
+    {"t": "Orbitals", "preco": 254.0, "loja": "Mercado Livre", "d": "2026-10-21", "url": "https://t.me/nintendobarato/14134"},
+    {"t": "Joy-Con 2 Azul e Vermelho Claro", "preco": 487.0, "loja": "Mercado Livre", "d": "2026-10-21", "url": "https://t.me/nintendobarato/14135"},
+    {"t": "Tales Of Graces F Remastered", "preco": 109.0, "loja": "Mercado Livre", "d": "2026-10-21", "url": "https://t.me/nintendobarato/14139"},
+    {"t": "Eiyuden Chronicle Hundred Heroes", "preco": 159.0, "loja": "Mercado Livre", "d": "2026-10-21", "url": "https://t.me/nintendobarato/14140"},
+    {"t": "Animal Crossing New Horizons", "preco": 253.0, "loja": "Mercado Livre", "d": "2026-10-21", "url": "https://t.me/nintendobarato/14141"}
   ]
 }
