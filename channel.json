@@ -1,11 +1,7 @@
 {
-  "updated": "2026-10-22T06:43:46-03:00",
+  "updated": "2026-10-22T12:43:00-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "Final Fantasy Tactics: The Ivalice Chronicle", "preco": 234.0, "loja": "Amazon", "d": "2026-10-20", "url": "https://t.me/nintendobarato/14123"},
-    {"t": "Star Ocean the Second Story R", "preco": 238.0, "loja": "Amazon", "d": "2026-10-20", "url": "https://t.me/nintendobarato/14124"},
-    {"t": "The Legend of Zelda: Ocarina of Time (capa NORMAL)", "preco": 389.0, "loja": "Shopee", "meu": "The Legend of Zelda: Ocarina of Time", "d": "2026-10-20", "url": "https://t.me/nintendobarato/14125"},
-    {"t": "Final Fantasy Resonance", "preco": 233.0, "d": "2026-10-20", "url": "https://t.me/nintendobarato/14126"},
     {"t": "Persona 5 Tactica", "preco": 69.0, "loja": "Mercado Livre", "d": "2026-10-20", "url": "https://t.me/nintendobarato/14127"},
     {"t": "Octopath Traveler + Octopath Traveler II", "preco": 459.0, "loja": "Mercado Livre", "d": "2026-10-21", "url": "https://t.me/nintendobarato/14129"},
     {"t": "Trails in the Sky 1st Chapter", "preco": 250.0, "loja": "Amazon", "d": "2026-10-21", "url": "https://t.me/nintendobarato/14130"},
@@ -16,6 +12,10 @@
     {"t": "Joy-Con 2 Azul e Vermelho Claro", "preco": 487.0, "loja": "Mercado Livre", "d": "2026-10-21", "url": "https://t.me/nintendobarato/14135"},
     {"t": "Tales Of Graces F Remastered", "preco": 109.0, "loja": "Mercado Livre", "d": "2026-10-21", "url": "https://t.me/nintendobarato/14139"},
     {"t": "Eiyuden Chronicle Hundred Heroes", "preco": 159.0, "loja": "Mercado Livre", "d": "2026-10-21", "url": "https://t.me/nintendobarato/14140"},
-    {"t": "Animal Crossing New Horizons", "preco": 253.0, "loja": "Mercado Livre", "d": "2026-10-21", "url": "https://t.me/nintendobarato/14141"}
+    {"t": "Animal Crossing New Horizons", "preco": 253.0, "loja": "Mercado Livre", "d": "2026-10-21", "url": "https://t.me/nintendobarato/14141"},
+    {"t": "Dragon Quest I & II HD-2D Remake", "preco": 260.0, "loja": "Amazon", "d": "2026-10-22", "url": "https://t.me/nintendobarato/14143"},
+    {"t": "Pikmin 4 - Nintendo Switch 2 Edition + Dandori Academy", "preco": 409.0, "loja": "Kabum", "d": "2026-10-22", "url": "https://t.me/nintendobarato/14144"},
+    {"t": "The Diofield Chronicle", "preco": 139.0, "loja": "Mercado Livre", "d": "2026-10-22", "url": "https://t.me/nintendobarato/14145"},
+    {"t": "Animal Crossing New Horizons", "preco": 264.0, "loja": "Mercado Livre", "d": "2026-10-22", "url": "https://t.me/nintendobarato/14146"}
   ]
 }
