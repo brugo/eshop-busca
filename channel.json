@@ -1,10 +1,7 @@
 {
-  "updated": "2026-10-22T12:43:00-03:00",
+  "updated": "2026-10-22T17:20:45-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "Persona 5 Tactica", "preco": 69.0, "loja": "Mercado Livre", "d": "2026-10-20", "url": "https://t.me/nintendobarato/14127"},
-    {"t": "Octopath Traveler + Octopath Traveler II", "preco": 459.0, "loja": "Mercado Livre", "d": "2026-10-21", "url": "https://t.me/nintendobarato/14129"},
-    {"t": "Trails in the Sky 1st Chapter", "preco": 250.0, "loja": "Amazon", "d": "2026-10-21", "url": "https://t.me/nintendobarato/14130"},
     {"t": "Neon White", "preco": 85.0, "loja": "Shopee", "d": "2026-10-21", "url": "https://t.me/nintendobarato/14131"},
     {"t": "Tomb Raider I-II-III Remastered", "preco": 149.0, "loja": "Mercado Livre", "d": "2026-10-21", "url": "https://t.me/nintendobarato/14132"},
     {"t": "Xenoblade Chronicles 2 - Nintendo Switch 2 Edition", "preco": 367.0, "loja": "Mercado Livre", "d": "2026-10-21", "url": "https://t.me/nintendobarato/14133"},
@@ -16,6 +13,9 @@
     {"t": "Dragon Quest I & II HD-2D Remake", "preco": 260.0, "loja": "Amazon", "d": "2026-10-22", "url": "https://t.me/nintendobarato/14143"},
     {"t": "Pikmin 4 - Nintendo Switch 2 Edition + Dandori Academy", "preco": 409.0, "loja": "Kabum", "d": "2026-10-22", "url": "https://t.me/nintendobarato/14144"},
     {"t": "The Diofield Chronicle", "preco": 139.0, "loja": "Mercado Livre", "d": "2026-10-22", "url": "https://t.me/nintendobarato/14145"},
-    {"t": "Animal Crossing New Horizons", "preco": 264.0, "loja": "Mercado Livre", "d": "2026-10-22", "url": "https://t.me/nintendobarato/14146"}
+    {"t": "Animal Crossing New Horizons", "preco": 264.0, "loja": "Mercado Livre", "d": "2026-10-22", "url": "https://t.me/nintendobarato/14146"},
+    {"t": "RollerCoaster Tycon Classic", "preco": 156.0, "loja": "Shopee", "d": "2026-10-22", "url": "https://t.me/nintendobarato/14147"},
+    {"t": "Camiseta Kirby Star", "preco": 39.0, "loja": "Shopee", "d": "2026-10-22", "url": "https://t.me/nintendobarato/14148"},
+    {"t": "Monster Hunter Stories Collection", "preco": 177.0, "loja": "Mercado Livre", "d": "2026-10-22", "url": "https://t.me/nintendobarato/14149"}
   ]
 }
