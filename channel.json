@@ -1,10 +1,7 @@
 {
-  "updated": "2026-10-23T12:31:50-03:00",
+  "updated": "2026-10-23T17:08:50-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "Tales Of Graces F Remastered", "preco": 109.0, "loja": "Mercado Livre", "d": "2026-10-21", "url": "https://t.me/nintendobarato/14139"},
-    {"t": "Eiyuden Chronicle Hundred Heroes", "preco": 159.0, "loja": "Mercado Livre", "d": "2026-10-21", "url": "https://t.me/nintendobarato/14140"},
-    {"t": "Animal Crossing New Horizons", "preco": 253.0, "loja": "Mercado Livre", "d": "2026-10-21", "url": "https://t.me/nintendobarato/14141"},
     {"t": "Dragon Quest I & II HD-2D Remake", "preco": 260.0, "loja": "Amazon", "d": "2026-10-22", "url": "https://t.me/nintendobarato/14143"},
     {"t": "Pikmin 4 - Nintendo Switch 2 Edition + Dandori Academy", "preco": 409.0, "loja": "Kabum", "d": "2026-10-22", "url": "https://t.me/nintendobarato/14144"},
     {"t": "The Diofield Chronicle", "preco": 139.0, "loja": "Mercado Livre", "d": "2026-10-22", "url": "https://t.me/nintendobarato/14145"},
@@ -18,6 +15,10 @@
     {"t": "Orbitals", "preco": 248.0, "loja": "Mercado Livre", "d": "2026-10-23", "url": "https://t.me/nintendobarato/14154"},
     {"t": "Towa And The Guardians Of The Sacred Tree", "preco": 127.0, "loja": "Mercado Livre", "d": "2026-10-23", "url": "https://t.me/nintendobarato/14155"},
     {"t": "Borderlands 3 Ultimate Edition", "preco": 144.0, "loja": "Mercado Livre", "d": "2026-10-23", "url": "https://t.me/nintendobarato/14156"},
-    {"t": "Stray", "preco": 152.0, "loja": "Mercado Livre", "d": "2026-10-23", "url": "https://t.me/nintendobarato/14157"}
+    {"t": "Stray", "preco": 152.0, "loja": "Mercado Livre", "d": "2026-10-23", "url": "https://t.me/nintendobarato/14157"},
+    {"t": "Final Fantasy VII & Final Fantasy VIII Remastered", "preco": 169.0, "loja": "Mercado Livre", "d": "2026-10-23", "url": "https://t.me/nintendobarato/14158"},
+    {"t": "Grip Oficial do Nintendo Switch 2", "preco": 101.0, "loja": "Mercado Livre", "d": "2026-10-23", "url": "https://t.me/nintendobarato/14159"},
+    {"t": "Cabo HDMI Oficial do Switch 2", "preco": 84.0, "loja": "Mercado Livre", "d": "2026-10-23", "url": "https://t.me/nintendobarato/14160"},
+    {"t": "Bomb Rush Cyberfunk", "preco": 158.0, "loja": "Mercado Livre", "d": "2026-10-23", "url": "https://t.me/nintendobarato/14161"}
   ]
 }
