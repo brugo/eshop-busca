@@ -1,10 +1,7 @@
 {
-  "updated": "2026-10-23T17:08:50-03:00",
+  "updated": "2026-10-23T22:14:34-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "Dragon Quest I & II HD-2D Remake", "preco": 260.0, "loja": "Amazon", "d": "2026-10-22", "url": "https://t.me/nintendobarato/14143"},
-    {"t": "Pikmin 4 - Nintendo Switch 2 Edition + Dandori Academy", "preco": 409.0, "loja": "Kabum", "d": "2026-10-22", "url": "https://t.me/nintendobarato/14144"},
-    {"t": "The Diofield Chronicle", "preco": 139.0, "loja": "Mercado Livre", "d": "2026-10-22", "url": "https://t.me/nintendobarato/14145"},
     {"t": "Animal Crossing New Horizons", "preco": 264.0, "loja": "Mercado Livre", "d": "2026-10-22", "url": "https://t.me/nintendobarato/14146"},
     {"t": "RollerCoaster Tycon Classic", "preco": 156.0, "loja": "Shopee", "d": "2026-10-22", "url": "https://t.me/nintendobarato/14147"},
     {"t": "Camiseta Kirby Star", "preco": 39.0, "loja": "Shopee", "d": "2026-10-22", "url": "https://t.me/nintendobarato/14148"},
@@ -19,6 +16,8 @@
     {"t": "Final Fantasy VII & Final Fantasy VIII Remastered", "preco": 169.0, "loja": "Mercado Livre", "d": "2026-10-23", "url": "https://t.me/nintendobarato/14158"},
     {"t": "Grip Oficial do Nintendo Switch 2", "preco": 101.0, "loja": "Mercado Livre", "d": "2026-10-23", "url": "https://t.me/nintendobarato/14159"},
     {"t": "Cabo HDMI Oficial do Switch 2", "preco": 84.0, "loja": "Mercado Livre", "d": "2026-10-23", "url": "https://t.me/nintendobarato/14160"},
-    {"t": "Bomb Rush Cyberfunk", "preco": 158.0, "loja": "Mercado Livre", "d": "2026-10-23", "url": "https://t.me/nintendobarato/14161"}
+    {"t": "Bomb Rush Cyberfunk", "preco": 158.0, "loja": "Mercado Livre", "d": "2026-10-23", "url": "https://t.me/nintendobarato/14161"},
+    {"t": "Xenoblade Chronicles 3 - Nintendo Switch 2 Edition", "preco": 409.0, "loja": "Amazon", "d": "2026-10-23", "url": "https://t.me/nintendobarato/14163"},
+    {"t": "Pikmin 4 - Nintendo Switch 2 Edition + Dandori Academy", "preco": 409.0, "loja": "Amazon", "d": "2026-10-23", "url": "https://t.me/nintendobarato/14164"}
   ]
 }
