@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-28T13:52:16-03:00",
-  "total": 4966,
+  "updated": "2026-10-28T18:24:31-03:00",
+  "total": 4985,
   "games": [
     {"n": "DELTARUNE", "id": "70010000094450", "p": "SW", "s": "deltarune-switch", "reg": 119.0, "cur": 95.2, "pct": 20, "ends": "2026-11-01T06:59:59Z", "rank": 48, "meu": false, "img": "switch/70010000094450/69a9b5c218fe9b06f7fca6c4a1a9f7344f40ac584997a0abe772bf80281ef999"},
     {"n": "Fallout 4: Anniversary Edition", "id": "70010000101067", "p": "SW2", "s": "fallout-4-anniversary-edition-switch-2", "reg": 299.9, "cur": 239.92, "pct": 20, "ends": "2026-11-01T06:59:59Z", "rank": 54, "meu": false, "img": "switch2/70010000101067/319f3f75f023d52fcff40766c2468ac5164c5cf1a3f3f2f04cfafca9f7657901"},
@@ -49,6 +49,7 @@
     {"n": "Fast Fusion", "id": "70010000096904", "p": "SW2", "s": "fast-fusion-switch-2", "reg": 90.0, "cur": 63.0, "pct": 30, "ends": "2026-11-01T06:59:59Z", "rank": 311, "meu": false, "img": "switch2/70010000096904/f10f7517f94ce8630b76b1654eb5a79d316e18d4e9bc279a74e6964fe3f8ce86"},
     {"n": "Crash Bandicoot™ N. Sane Trilogy", "id": "70010000002090", "p": "SW", "s": "crash-bandicoot-n-sane-trilogy-switch", "reg": 199.0, "cur": 79.6, "pct": 60, "ends": "2026-11-01T06:59:59Z", "rank": 312, "meu": false, "img": "switch/70010000002090/ecfc64f339579b17ed8d12d5bdb4acd0cad2811cb2ff7dd0a02ce7e512c2d26a"},
     {"n": "Cast n Chill - Nintendo Switch™ 2 Edition", "id": "70010000112303", "p": "SW2", "s": "cast-n-chill-nintendo-switch-2-edition-switch-2", "reg": 46.99, "cur": 32.89, "pct": 30, "ends": "2026-11-01T06:59:59Z", "rank": 314, "meu": false, "img": "switch2/70010000112303/583861248a19a41281199d2dc5e43bed8cb4915a806dc76815d0b2f48ea702c6"},
+    {"n": "No Man's Sky – Nintendo Switch™ 2 Edition", "id": "70010000099217", "p": "SW2", "s": "no-mans-sky-nintendo-switch-2-edition-switch-2", "reg": 299.9, "cur": 119.96, "pct": 60, "ends": "2026-11-12T07:59:59Z", "rank": 315, "meu": false, "img": "switch2/70010000099217/019e07d170c0a828eb8e8c20636f4d1fe413ff0044b1a4d3777d1ea268dc4724"},
     {"n": "GRID™ Legends: Deluxe Edition", "id": "70010000102792", "p": "SW2", "s": "grid-legends-deluxe-edition-switch-2", "reg": 209.0, "cur": 187.0, "pct": 11, "ends": "2026-11-01T06:59:59Z", "rank": 320, "meu": false, "img": "switch2/70010000102792/22f2f3e23fcef5715fa981bdb66dae4117e2b671b2945926420d8c0120fc0291"},
     {"n": "Sonic Mania", "id": "70010000000809", "p": "SW", "s": "sonic-mania-switch", "reg": 95.0, "cur": 38.0, "pct": 60, "ends": "2026-11-01T06:59:59Z", "rank": 328, "meu": false, "img": "switch/70010000000809/2292c70c99e9a181e9e3a60f42961da13a9e80e5178954bb8c42f5ffda379849"},
     {"n": "Goat Simulator 3", "id": "70010000066362", "p": "SW", "s": "goat-simulator-3-switch", "reg": 159.95, "cur": 79.97, "pct": 50, "ends": "2026-11-01T06:59:59Z", "rank": 329, "meu": false, "img": "switch/70010000066362/e39e60f2c0aa7efbcaa00321cb5683e4cc84a392172d0beae8e7584688319a47"},
@@ -60,7 +61,6 @@
     {"n": "STAR WARS™: The Force Unleashed™", "id": "70010000038880", "p": "SW", "s": "star-wars-the-force-unleashed-switch", "reg": 113.13, "cur": 45.25, "pct": 60, "ends": "2026-11-05T07:59:59Z", "rank": 349, "meu": false, "img": "switch/70010000038880/f2b316793a2e67e67604b32fe3c6edff51c67c57dd31fc170a9e11b65d58a3d0"},
     {"n": "ESCAPE - BACKROOMS HORROR", "id": "70010000085047", "p": "SW", "s": "escape-backrooms-horror-switch", "reg": 29.99, "cur": 17.99, "pct": 40, "ends": "2026-11-09T07:59:59Z", "rank": 360, "meu": false, "img": "switch/70010000085047/d6be1e38a1ad6068721cfae653697656573b299a3b50ec48fa8589ffe9f8862f"},
     {"n": "Tomb Raider: Definitive Edition", "id": "70010000091961", "p": "SW", "s": "tomb-raider-definitive-edition-switch", "reg": 106.59, "cur": 69.28, "pct": 35, "ends": "2026-11-05T07:59:59Z", "rank": 363, "meu": false, "img": "switch/70010000091961/cee03b93867e02ac00f45aedacff8b229ccdac9bc002e684fbc4463185bdd511"},
-    {"n": "Mortal Kombat: Legacy Kollection", "id": "70010000094535", "p": "SW", "s": "mortal-kombat-legacy-kollection-switch", "reg": 134.99, "cur": 67.49, "pct": 50, "ends": "2026-11-01T06:59:59Z", "rank": 365, "meu": false, "img": "switch/70010000094535/011a211e39bfff50da66868770df08f4d0b603a7fdb3bcdc6e0811806a667dae"},
-    {"n": "Farming Simulator: Signature Edition", "id": "70010000099920", "p": "SW2", "s": "farming-simulator-signature-edition-switch-2", "reg": 279.99, "cur": 187.99, "pct": 33, "ends": "2026-11-01T11:59:59Z", "rank": 373, "meu": false, "img": "switch2/70010000099920/dd500596c6abf2f3cd5a7b72fa6a13f15c0b8804d58bed642553038606ad1c10"}
+    {"n": "Mortal Kombat: Legacy Kollection", "id": "70010000094535", "p": "SW", "s": "mortal-kombat-legacy-kollection-switch", "reg": 134.99, "cur": 67.49, "pct": 50, "ends": "2026-11-01T06:59:59Z", "rank": 365, "meu": false, "img": "switch/70010000094535/011a211e39bfff50da66868770df08f4d0b603a7fdb3bcdc6e0811806a667dae"}
   ]
 }
