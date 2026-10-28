@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-28T07:53:20-03:00",
-  "total": 4959,
+  "updated": "2026-10-28T13:52:16-03:00",
+  "total": 4966,
   "games": [
     {"n": "DELTARUNE", "id": "70010000094450", "p": "SW", "s": "deltarune-switch", "reg": 119.0, "cur": 95.2, "pct": 20, "ends": "2026-11-01T06:59:59Z", "rank": 48, "meu": false, "img": "switch/70010000094450/69a9b5c218fe9b06f7fca6c4a1a9f7344f40ac584997a0abe772bf80281ef999"},
     {"n": "Fallout 4: Anniversary Edition", "id": "70010000101067", "p": "SW2", "s": "fallout-4-anniversary-edition-switch-2", "reg": 299.9, "cur": 239.92, "pct": 20, "ends": "2026-11-01T06:59:59Z", "rank": 54, "meu": false, "img": "switch2/70010000101067/319f3f75f023d52fcff40766c2468ac5164c5cf1a3f3f2f04cfafca9f7657901"},
