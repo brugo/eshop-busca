@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-29T08:10:24-03:00",
-  "total": 4926,
+  "updated": "2026-10-29T18:29:10-03:00",
+  "total": 5090,
   "games": [
     {"n": "DELTARUNE", "id": "70010000094450", "p": "SW", "s": "deltarune-switch", "reg": 119.0, "cur": 95.2, "pct": 20, "ends": "2026-11-01T06:59:59Z", "rank": 50, "meu": false, "img": "switch/70010000094450/69a9b5c218fe9b06f7fca6c4a1a9f7344f40ac584997a0abe772bf80281ef999"},
     {"n": "MOUSE: P.I. For Hire", "id": "70010000101091", "p": "SW2", "s": "mouse-p-i-for-hire-switch-2", "reg": 88.99, "cur": 71.19, "pct": 20, "ends": "2026-11-01T06:59:59Z", "rank": 54, "meu": false, "img": "switch2/70010000101091/7277fab8f6588c4b4ed3ddbca23ba16ccbe7aaf5b2d82c371d95f86628d9df15"},
@@ -20,6 +20,7 @@
     {"n": "Castle Crashers Remastered", "id": "70010000016301", "p": "SW", "s": "castle-crashers-remastered-switch", "reg": 76.45, "cur": 38.22, "pct": 50, "ends": "2026-11-01T06:59:59Z", "rank": 148, "meu": false, "img": "switch/70010000016301/1664a22b13e4fa07a3b8b89126e8f63848c6031d568a00769d1d7b312c695a63"},
     {"n": "Moonlight Peaks", "id": "70010000109827", "p": "SW", "s": "moonlight-peaks-switch", "reg": 139.99, "cur": 111.99, "pct": 20, "ends": "2026-11-06T07:59:59Z", "rank": 149, "meu": false, "img": "switch/70010000109827/18c9068204a57040e8abe30f628b759e76d6cff23439729c11f2063e84a9bf8e"},
     {"n": "PowerWash Simulator 2", "id": "70010000098324", "p": "SW2", "s": "powerwash-simulator-2-switch-2", "reg": 74.9, "cur": 56.17, "pct": 25, "ends": "2026-11-01T06:59:59Z", "rank": 158, "meu": false, "img": "switch2/70010000098324/ecd34507c574e8be94774800a50d47c11f38a03f728dddc45c3daf2583779738"},
+    {"n": "Terraria", "id": "70010000001702", "p": "SW", "s": "terraria-switch", "reg": 149.0, "cur": 74.5, "pct": 50, "ends": "2026-11-12T07:59:59Z", "rank": 165, "meu": false, "img": "switch/70010000001702/dac3a26570b5ca1ddf703bf0add7cc7c527f71a2b56521baf69e20c7a573c610"},
     {"n": "Moonlight Peaks – Nintendo Switch™ 2 Edition", "id": "70010000126913", "p": "SW2", "s": "moonlight-peaks-nintendo-switch-2-edition-switch-2", "reg": 159.99, "cur": 127.99, "pct": 20, "ends": "2026-11-06T07:59:59Z", "rank": 169, "meu": false, "img": "switch2/70010000126913/2d0a6339cf019f1180a359f2df07b2bc333dc15c22533e08a4e240fe4ae26445"},
     {"n": "Overcooked! 2", "id": "70010000003402", "p": "SW", "s": "overcooked-2-switch", "reg": 133.9, "cur": 33.47, "pct": 75, "ends": "2026-11-17T07:59:59Z", "rank": 174, "meu": false, "img": "switch/70010000003402/057249cf707a2a733c876c0eb453bb018ee6ea09f3aea5c350f4d76f70840d00"},
     {"n": "The Elder Scrolls V: Skyrim Anniversary Edition", "id": "70010000103193", "p": "SW2", "s": "the-elder-scrolls-v-skyrim-anniversary-edition-70010000103193-switch-2", "reg": 299.9, "cur": 149.95, "pct": 50, "ends": "2026-11-01T06:59:59Z", "rank": 175, "meu": false, "img": "switch2/70010000103193/d9fa0e5b90ecb609a8f571e1f33bc58be9a0aa889157a0cb4ec414929b568340"},
@@ -60,7 +61,6 @@
     {"n": "Hello Kitty Island Adventure Nintendo Switch 2 Edition", "id": "70010000109159", "p": "SW2", "s": "hello-kitty-island-adventure-nintendo-switch-2-edition-switch-2", "reg": 184.31, "cur": 101.37, "pct": 45, "ends": "2026-11-01T06:59:59Z", "rank": 342, "meu": false, "img": "switch2/70010000109159/b0ca2045b2a2f46b7c7ec8251c164daa6102201dacdae8b91ac2120074f7d810"},
     {"n": "Tomb Raider: Definitive Edition", "id": "70010000091961", "p": "SW", "s": "tomb-raider-definitive-edition-switch", "reg": 106.59, "cur": 69.28, "pct": 35, "ends": "2026-11-05T07:59:59Z", "rank": 350, "meu": false, "img": "switch/70010000091961/cee03b93867e02ac00f45aedacff8b229ccdac9bc002e684fbc4463185bdd511"},
     {"n": "STAR WARS™: The Force Unleashed™", "id": "70010000038880", "p": "SW", "s": "star-wars-the-force-unleashed-switch", "reg": 113.13, "cur": 45.25, "pct": 60, "ends": "2026-11-05T07:59:59Z", "rank": 352, "meu": false, "img": "switch/70010000038880/f2b316793a2e67e67604b32fe3c6edff51c67c57dd31fc170a9e11b65d58a3d0"},
-    {"n": "Mortal Kombat: Legacy Kollection", "id": "70010000094535", "p": "SW", "s": "mortal-kombat-legacy-kollection-switch", "reg": 134.99, "cur": 67.49, "pct": 50, "ends": "2026-11-01T06:59:59Z", "rank": 361, "meu": false, "img": "switch/70010000094535/011a211e39bfff50da66868770df08f4d0b603a7fdb3bcdc6e0811806a667dae"},
-    {"n": "ESCAPE - BACKROOMS HORROR", "id": "70010000085047", "p": "SW", "s": "escape-backrooms-horror-switch", "reg": 29.99, "cur": 17.99, "pct": 40, "ends": "2026-11-09T07:59:59Z", "rank": 367, "meu": false, "img": "switch/70010000085047/d6be1e38a1ad6068721cfae653697656573b299a3b50ec48fa8589ffe9f8862f"}
+    {"n": "Mortal Kombat: Legacy Kollection", "id": "70010000094535", "p": "SW", "s": "mortal-kombat-legacy-kollection-switch", "reg": 134.99, "cur": 67.49, "pct": 50, "ends": "2026-11-01T06:59:59Z", "rank": 361, "meu": false, "img": "switch/70010000094535/011a211e39bfff50da66868770df08f4d0b603a7fdb3bcdc6e0811806a667dae"}
   ]
 }
