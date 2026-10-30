@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-30T08:05:06-03:00",
-  "total": 4881,
+  "updated": "2026-10-30T18:13:23-03:00",
+  "total": 5030,
   "games": [
     {"n": "DELTARUNE", "id": "70010000094450", "p": "SW", "s": "deltarune-switch", "reg": 119.0, "cur": 95.2, "pct": 20, "ends": "2026-11-01T06:59:59Z", "rank": 49, "meu": false, "img": "switch/70010000094450/69a9b5c218fe9b06f7fca6c4a1a9f7344f40ac584997a0abe772bf80281ef999"},
     {"n": "Fallout 4: Anniversary Edition", "id": "70010000101067", "p": "SW2", "s": "fallout-4-anniversary-edition-switch-2", "reg": 299.9, "cur": 239.92, "pct": 20, "ends": "2026-11-01T06:59:59Z", "rank": 56, "meu": false, "img": "switch2/70010000101067/319f3f75f023d52fcff40766c2468ac5164c5cf1a3f3f2f04cfafca9f7657901"},
@@ -30,6 +30,7 @@
     {"n": "DAVE THE DIVER", "id": "70010000060372", "p": "SW", "s": "dave-the-diver-switch", "reg": 99.99, "cur": 54.99, "pct": 45, "ends": "2026-11-01T06:59:59Z", "rank": 200, "meu": false, "img": "switch/70010000060372/e77cbe3c83da8de952bce5bc0f0960092dbc2e08d377f0e082673239322301bb"},
     {"n": "Red Dead Redemption", "id": "70010000058660", "p": "SW", "s": "red-dead-redemption-switch", "reg": 299.0, "cur": 149.5, "pct": 50, "ends": "2026-11-07T07:59:59Z", "rank": 206, "meu": false, "img": "switch/70010000058660/38c8a3d94f1c893b007ffbf5d07e6f235b7e66ab951ef00d8ef246168fc31637"},
     {"n": "PowerWash Simulator", "id": "70010000045037", "p": "SW", "s": "powerwash-simulator-switch", "reg": 124.5, "cur": 49.8, "pct": 60, "ends": "2026-11-01T06:59:59Z", "rank": 207, "meu": false, "img": "switch/70010000045037/050db8610fa9593b531cd2b7d563b5115bbe5431ea3db42962da435f70edb39c"},
+    {"n": "Nickelodeon All-Star Brawl 2", "id": "70010000065764", "p": "SW", "s": "nickelodeon-all-star-brawl-2-switch", "reg": 249.99, "cur": 74.99, "pct": 70, "ends": "2026-11-16T07:59:59Z", "rank": 211, "meu": false, "img": "switch/70010000065764/5cb2937c61778f875da8f80adaebf3b856a2dd8d876d616eeaa9e79e4856ecd1"},
     {"n": "Grounded", "id": "70010000068827", "p": "SW", "s": "grounded-switch", "reg": 199.0, "cur": 99.5, "pct": 50, "ends": "2026-11-01T06:59:59Z", "rank": 213, "meu": false, "img": "switch/70010000068827/cf0ab0f20e7f588ba732a072e34f1ef86cd5430880badf7dd134c7d547bf2d44"},
     {"n": "Wylde Flowers", "id": "70010000053184", "p": "SW", "s": "wylde-flowers-switch", "reg": 47.49, "cur": 33.24, "pct": 30, "ends": "2026-11-02T07:59:59Z", "rank": 224, "meu": false, "img": "switch/70010000053184/a04deed1896da3694288c9c113656becf42f06bb668dba2d6181dbfd67a155b1"},
     {"n": "STAR WARS™: Knights of the Old Republic™", "id": "70010000043209", "p": "SW", "s": "star-wars-knights-of-the-old-republic-switch", "reg": 84.72, "cur": 33.88, "pct": 60, "ends": "2026-11-05T07:59:59Z", "rank": 226, "meu": false, "img": "switch/70010000043209/e708cb17b0efa88729f5818e2101022beb1071e262aad0e96a98e4bd49c1428d"},
@@ -60,7 +61,6 @@
     {"n": "Persona 5 Royal", "id": "70010000043147", "p": "SW", "s": "persona-5-royal-switch", "reg": 295.0, "cur": 88.5, "pct": 70, "ends": "2026-11-01T06:59:59Z", "rank": 345, "meu": false, "img": "switch/70010000043147/684bd8b00abcbf6dd122727a27c01a337f667bef825f4f4662efad9854b72fd4"},
     {"n": "STAR WARS™: The Force Unleashed™", "id": "70010000038880", "p": "SW", "s": "star-wars-the-force-unleashed-switch", "reg": 113.13, "cur": 45.25, "pct": 60, "ends": "2026-11-05T07:59:59Z", "rank": 346, "meu": false, "img": "switch/70010000038880/f2b316793a2e67e67604b32fe3c6edff51c67c57dd31fc170a9e11b65d58a3d0"},
     {"n": "Tomb Raider: Definitive Edition", "id": "70010000091961", "p": "SW", "s": "tomb-raider-definitive-edition-switch", "reg": 106.59, "cur": 69.28, "pct": 35, "ends": "2026-11-05T07:59:59Z", "rank": 356, "meu": false, "img": "switch/70010000091961/cee03b93867e02ac00f45aedacff8b229ccdac9bc002e684fbc4463185bdd511"},
-    {"n": "ESCAPE - BACKROOMS HORROR", "id": "70010000085047", "p": "SW", "s": "escape-backrooms-horror-switch", "reg": 29.99, "cur": 17.99, "pct": 40, "ends": "2026-11-09T07:59:59Z", "rank": 371, "meu": false, "img": "switch/70010000085047/d6be1e38a1ad6068721cfae653697656573b299a3b50ec48fa8589ffe9f8862f"},
-    {"n": "STAR WARS™: Knights of the Old Republic™ II: The Sith Lords", "id": "70010000045601", "p": "SW", "s": "star-wars-knights-of-the-old-republic-ii-the-sith-lords-switch", "reg": 85.24, "cur": 34.09, "pct": 60, "ends": "2026-11-05T07:59:59Z", "rank": 374, "meu": false, "img": "switch/70010000045601/bbbba766281fa15ccbd61a700ba47e68148cdd36498d4f598cfb68cf497ca6f3"}
+    {"n": "Little Witch in the Woods", "id": "70010000113819", "p": "SW", "s": "little-witch-in-the-woods-switch", "reg": 59.99, "cur": 47.99, "pct": 20, "ends": "2026-11-06T17:59:59Z", "rank": 362, "meu": false, "img": "switch/70010000113819/f5413564bd8e1c46b980c17e277b325d2de063eb4e645e544c48cf887a6e46c0"}
   ]
 }
