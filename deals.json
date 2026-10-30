@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-29T18:29:10-03:00",
-  "total": 5090,
+  "updated": "2026-10-29T23:15:31-03:00",
+  "total": 5100,
   "games": [
     {"n": "DELTARUNE", "id": "70010000094450", "p": "SW", "s": "deltarune-switch", "reg": 119.0, "cur": 95.2, "pct": 20, "ends": "2026-11-01T06:59:59Z", "rank": 50, "meu": false, "img": "switch/70010000094450/69a9b5c218fe9b06f7fca6c4a1a9f7344f40ac584997a0abe772bf80281ef999"},
     {"n": "MOUSE: P.I. For Hire", "id": "70010000101091", "p": "SW2", "s": "mouse-p-i-for-hire-switch-2", "reg": 88.99, "cur": 71.19, "pct": 20, "ends": "2026-11-01T06:59:59Z", "rank": 54, "meu": false, "img": "switch2/70010000101091/7277fab8f6588c4b4ed3ddbca23ba16ccbe7aaf5b2d82c371d95f86628d9df15"},
