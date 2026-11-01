@@ -1,13 +1,25 @@
 {
-  "updated": "2026-11-01T08:33:33-03:00",
+  "updated": "2026-11-01T17:53:36-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "Cyberpunk 2077 Ultimate Edition", "preco": 419.0, "loja": "Mercado Livre", "d": "2026-10-31", "url": "https://t.me/nintendobarato/14264"},
     {"t": "Minecraft Dungeons II Deluxe Edition", "preco": 226.0, "loja": "Mercado Livre", "d": "2026-10-31", "url": "https://t.me/nintendobarato/14272"},
     {"t": "Sonic Racing Crossworlds", "preco": 149.0, "loja": "Mercado Livre", "d": "2026-10-31", "url": "https://t.me/nintendobarato/14274"},
     {"t": "2K25", "preco": 108.0, "loja": "Amazon", "d": "2026-10-31", "url": "https://t.me/nintendobarato/14275"},
     {"t": "Persona 5 Tactica Launch Edition", "preco": 99.0, "loja": "Mercado Livre", "d": "2026-10-31", "url": "https://t.me/nintendobarato/14276"},
     {"t": "Assassin's Creed: The Rebel Collection", "preco": 166.0, "loja": "Mercado Livre", "d": "2026-11-01", "url": "https://t.me/nintendobarato/14277"},
-    {"t": "The Elder Scrolls IV Oblivion Edição Deluxe", "preco": 479.0, "loja": "Mercado Livre", "d": "2026-11-01", "url": "https://t.me/nintendobarato/14278"}
+    {"t": "The Elder Scrolls IV Oblivion Edição Deluxe", "preco": 479.0, "loja": "Mercado Livre", "d": "2026-11-01", "url": "https://t.me/nintendobarato/14278"},
+    {"t": "Dave The Diver Complete Edition", "preco": 304.0, "loja": "Mercado Livre", "d": "2026-11-01", "url": "https://t.me/nintendobarato/14279"},
+    {"t": "Blue Prince", "preco": 304.0, "loja": "Mercado Livre", "d": "2026-11-01", "url": "https://t.me/nintendobarato/14280"},
+    {"t": "Orbitals", "preco": 233.0, "loja": "Mercado Livre", "d": "2026-11-01", "url": "https://t.me/nintendobarato/14281"},
+    {"t": "Pokémon Pokopia", "preco": 354.0, "loja": "Mercado Livre", "d": "2026-11-01", "url": "https://t.me/nintendobarato/14282"},
+    {"t": "Donkey Kong Country Tropical Freeze", "preco": 266.0, "loja": "Mercado Livre", "d": "2026-11-01", "url": "https://t.me/nintendobarato/14283"},
+    {"t": "The Disney Afternoon Collection", "preco": 199.0, "loja": "Mercado Livre", "d": "2026-11-01", "url": "https://t.me/nintendobarato/14284"},
+    {"t": "Star Fox - Nintendo Switch 2", "preco": 257.0, "loja": "Mercado Livre", "meu": "Star Fox", "d": "2026-11-01", "url": "https://t.me/nintendobarato/14285"},
+    {"t": "Persona 5 Tactica Launch Edition", "preco": 99.0, "loja": "Mercado Livre", "d": "2026-11-01", "url": "https://t.me/nintendobarato/14286"},
+    {"t": "Sonic Frontiers Definitive Edition", "preco": 179.0, "loja": "Mercado Livre", "d": "2026-11-01", "url": "https://t.me/nintendobarato/14287"},
+    {"t": "Nintendo Switch Console OLED 64gb", "preco": 1843.0, "loja": "Mercado Livre", "d": "2026-11-01", "url": "https://t.me/nintendobarato/14288"},
+    {"t": "Star Fox", "preco": 278.0, "loja": "Mercado Livre", "meu": "Star Fox", "d": "2026-11-01", "url": "https://t.me/nintendobarato/14289"},
+    {"t": "Ball X Pit", "preco": 179.0, "loja": "Mercado Livre", "d": "2026-11-01", "url": "https://t.me/nintendobarato/14290"},
+    {"t": "Pokémon TCG Celebração de 30 Anos", "preco": 149.0, "loja": "Amazon", "d": "2026-11-01", "url": "https://t.me/nintendobarato/14291"}
   ]
 }
