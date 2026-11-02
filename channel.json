@@ -1,11 +1,7 @@
 {
-  "updated": "2026-11-01T22:57:55-03:00",
+  "updated": "2026-11-02T09:56:48-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "Minecraft Dungeons II Deluxe Edition", "preco": 226.0, "loja": "Mercado Livre", "d": "2026-10-31", "url": "https://t.me/nintendobarato/14272"},
-    {"t": "Sonic Racing Crossworlds", "preco": 149.0, "loja": "Mercado Livre", "d": "2026-10-31", "url": "https://t.me/nintendobarato/14274"},
-    {"t": "2K25", "preco": 108.0, "loja": "Amazon", "d": "2026-10-31", "url": "https://t.me/nintendobarato/14275"},
-    {"t": "Persona 5 Tactica Launch Edition", "preco": 99.0, "loja": "Mercado Livre", "d": "2026-10-31", "url": "https://t.me/nintendobarato/14276"},
     {"t": "Assassin's Creed: The Rebel Collection", "preco": 166.0, "loja": "Mercado Livre", "d": "2026-11-01", "url": "https://t.me/nintendobarato/14277"},
     {"t": "The Elder Scrolls IV Oblivion Edição Deluxe", "preco": 479.0, "loja": "Mercado Livre", "d": "2026-11-01", "url": "https://t.me/nintendobarato/14278"},
     {"t": "Dave The Diver Complete Edition", "preco": 304.0, "loja": "Mercado Livre", "d": "2026-11-01", "url": "https://t.me/nintendobarato/14279"},
@@ -21,6 +17,10 @@
     {"t": "Star Fox", "preco": 278.0, "loja": "Mercado Livre", "meu": "Star Fox", "d": "2026-11-01", "url": "https://t.me/nintendobarato/14289"},
     {"t": "Ball X Pit", "preco": 179.0, "loja": "Mercado Livre", "d": "2026-11-01", "url": "https://t.me/nintendobarato/14290"},
     {"t": "Pokémon TCG Celebração de 30 Anos", "preco": 149.0, "loja": "Amazon", "d": "2026-11-01", "url": "https://t.me/nintendobarato/14291"},
-    {"t": "It Takes Two", "preco": 277.0, "loja": "Amazon", "d": "2026-11-01", "url": "https://t.me/nintendobarato/14292"}
+    {"t": "It Takes Two", "preco": 277.0, "loja": "Amazon", "d": "2026-11-01", "url": "https://t.me/nintendobarato/14292"},
+    {"t": "Super Mario Bros Wonder", "preco": 231.0, "loja": "Shopee", "d": "2026-11-02", "url": "https://t.me/nintendobarato/14293"},
+    {"t": "Trails in the Sky 1st Chapter", "preco": 232.0, "loja": "Shopee", "d": "2026-11-02", "url": "https://t.me/nintendobarato/14294"},
+    {"t": "Gundam Breaker 4", "preco": 218.0, "loja": "Shopee", "d": "2026-11-02", "url": "https://t.me/nintendobarato/14295"},
+    {"t": "Star Fox", "preco": 242.0, "loja": "Mercado Livre", "meu": "Star Fox", "d": "2026-11-02", "url": "https://t.me/nintendobarato/14296"}
   ]
 }
