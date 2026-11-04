@@ -1,10 +1,7 @@
 {
-  "updated": "2026-11-03T19:08:14-03:00",
+  "updated": "2026-11-03T23:48:46-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "Luigi's Mansion 3", "preco": 278.0, "loja": "Mercado Livre", "d": "2026-11-03", "url": "https://t.me/nintendobarato/14319"},
-    {"t": "Paper Mario The Thousand-Year Door", "preco": 269.0, "loja": "Mercado Livre", "d": "2026-11-03", "url": "https://t.me/nintendobarato/14320"},
-    {"t": "Shadow Labyrinth Switch", "preco": 89.0, "loja": "Mercado Livre", "d": "2026-11-03", "url": "https://t.me/nintendobarato/14321"},
     {"t": "Mario & Luigi Brothership", "preco": 233.0, "loja": "Mercado Livre", "d": "2026-11-03", "url": "https://t.me/nintendobarato/14322"},
     {"t": "Resident Evil Generation Pack", "preco": 439.0, "loja": "Amazon", "d": "2026-11-03", "url": "https://t.me/nintendobarato/14324"},
     {"t": "Nintendo Switch Oled", "preco": 1839.0, "loja": "Mercado Livre", "d": "2026-11-03", "url": "https://t.me/nintendobarato/14327"},
@@ -16,6 +13,9 @@
     {"t": "Tomb Raider IV-VI Remastered", "preco": 154.0, "loja": "Mercado Livre", "d": "2026-11-03", "url": "https://t.me/nintendobarato/14334"},
     {"t": "Sonic Racing Crossworlds Launch Edition", "preco": 119.0, "loja": "Mercado Livre", "d": "2026-11-03", "url": "https://t.me/nintendobarato/14335"},
     {"t": "Super Bomberman R", "preco": 134.0, "loja": "Mercado Livre", "d": "2026-11-03", "url": "https://t.me/nintendobarato/14336"},
-    {"t": "Teenage Mutant Ninja Turtles Splintered Fate", "preco": 299.0, "loja": "Shopee", "d": "2026-11-03", "url": "https://t.me/nintendobarato/14337"}
+    {"t": "Teenage Mutant Ninja Turtles Splintered Fate", "preco": 299.0, "loja": "Shopee", "d": "2026-11-03", "url": "https://t.me/nintendobarato/14337"},
+    {"t": "Noob The Factionless", "preco": 139.0, "loja": "Mercado Livre", "d": "2026-11-03", "url": "https://t.me/nintendobarato/14339"},
+    {"t": "Dragon’s Dogma 2: Dark Arisen", "preco": 263.0, "loja": "Amazon", "d": "2026-11-04", "url": "https://t.me/nintendobarato/14340"},
+    {"t": "Natsume Wild Guns Reloaded", "preco": 171.0, "loja": "Amazon", "d": "2026-11-04", "url": "https://t.me/nintendobarato/14341"}
   ]
 }
