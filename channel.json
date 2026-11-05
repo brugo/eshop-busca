@@ -1,12 +1,7 @@
 {
-  "updated": "2026-11-04T19:16:25-03:00",
+  "updated": "2026-11-04T23:56:50-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "Noob The Factionless", "preco": 139.0, "loja": "Mercado Livre", "d": "2026-11-03", "url": "https://t.me/nintendobarato/14339"},
-    {"t": "Dragon’s Dogma 2: Dark Arisen", "preco": 263.0, "loja": "Amazon", "d": "2026-11-04", "url": "https://t.me/nintendobarato/14340"},
-    {"t": "Natsume Wild Guns Reloaded", "preco": 171.0, "loja": "Amazon", "d": "2026-11-04", "url": "https://t.me/nintendobarato/14341"},
-    {"t": "Star Wars Jedi Knight Collection", "preco": 146.0, "loja": "Amazon", "d": "2026-11-04", "url": "https://t.me/nintendobarato/14343"},
-    {"t": "Persona 5 Tactica", "preco": 89.0, "loja": "Mercado Livre", "d": "2026-11-04", "url": "https://t.me/nintendobarato/14344"},
     {"t": "Sifu", "preco": 161.0, "loja": "Mercado Livre", "d": "2026-11-04", "url": "https://t.me/nintendobarato/14345"},
     {"t": "Mario Kart 8 Deluxe", "preco": 193.0, "loja": "Kabum", "d": "2026-11-04", "url": "https://t.me/nintendobarato/14347"},
     {"t": "Star Fox", "preco": 221.0, "loja": "Kabum", "meu": "Star Fox", "d": "2026-11-04", "url": "https://t.me/nintendobarato/14348"},
@@ -17,6 +12,10 @@
     {"t": "Shinobi Art of Vengeance Deluxe Edition", "preco": 174.0, "loja": "Mercado Livre", "d": "2026-11-04", "url": "https://t.me/nintendobarato/14353"},
     {"t": "Metroid Prime 4: Beyond", "preco": 179.0, "loja": "Mercado Livre", "d": "2026-11-04", "url": "https://t.me/nintendobarato/14354"},
     {"t": "Pokemon Legends Z-A", "preco": 266.0, "loja": "Mercado Livre", "d": "2026-11-04", "url": "https://t.me/nintendobarato/14355"},
-    {"t": "Cartão microSD Samsung Express", "preco": 388.0, "loja": "Amazon", "d": "2026-11-04", "url": "https://t.me/nintendobarato/14357"}
+    {"t": "Cartão microSD Samsung Express", "preco": 388.0, "loja": "Amazon", "d": "2026-11-04", "url": "https://t.me/nintendobarato/14357"},
+    {"t": "Harvest Moon: Echoes of Teradea", "preco": 468.0, "loja": "Amazon", "d": "2026-11-05", "url": "https://t.me/nintendobarato/14358"},
+    {"t": "Aviso rapidinho sobre o horário de liberação do Zelda Ocarina!", "preco": 329.0, "d": "2026-11-05", "url": "https://t.me/nintendobarato/14359"},
+    {"t": "Hellraiser: Revival", "preco": 277.0, "loja": "Amazon", "d": "2026-11-05", "url": "https://t.me/nintendobarato/14360"},
+    {"t": "Brawlout", "preco": 167.0, "loja": "Amazon", "d": "2026-11-05", "url": "https://t.me/nintendobarato/14364"}
   ]
 }
