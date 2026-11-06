@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-06T09:34:57-03:00",
-  "total": 3446,
+  "updated": "2026-11-06T18:51:19-03:00",
+  "total": 3584,
   "games": [
     {"n": "Boomerang Fu", "id": "70010000021921", "p": "SW", "s": "boomerang-fu-switch", "reg": 76.45, "cur": 38.22, "pct": 50, "ends": "2026-11-17T07:59:59Z", "rank": 84, "meu": false, "img": "switch/70010000021921/93718cd185fc1736665b72d3dfdf111e69ba3e6c8c69989471c6e7e11c90f3f4"},
     {"n": "The Adventures of Elliot: The Millennium Tales", "id": "70010000116884", "p": "SW2", "s": "the-adventures-of-elliot-the-millennium-tales-switch-2", "reg": 339.9, "cur": 237.93, "pct": 30, "ends": "2026-11-17T07:59:59Z", "rank": 122, "meu": true, "img": "switch2/70010000116884/585f6d8f18cbeb7a7e12aa90061cebc80b18a34cdbc860ba005cb6ff7999a72c"},
@@ -21,7 +21,6 @@
     {"n": "No Man's Sky – Nintendo Switch™ 2 Edition", "id": "70010000099217", "p": "SW2", "s": "no-mans-sky-nintendo-switch-2-edition-switch-2", "reg": 299.9, "cur": 119.96, "pct": 60, "ends": "2026-11-12T07:59:59Z", "rank": 311, "meu": false, "img": "switch2/70010000099217/019e07d170c0a828eb8e8c20636f4d1fe413ff0044b1a4d3777d1ea268dc4724"},
     {"n": "FINAL FANTASY TACTICS - The Ivalice Chronicles Nintendo Switch™ 2 Edition", "id": "70010000100754", "p": "SW2", "s": "final-fantasy-tactics-the-ivalice-chronicles-nintendo-switch-2-edition-switch-2", "reg": 249.5, "cur": 149.7, "pct": 40, "ends": "2026-11-17T07:59:59Z", "rank": 312, "meu": true, "img": "switch2/70010000100754/a79ce10127b30deb1b647f11aa85333fee47cb1237bc1b23c8a3a4ef3b1aef1a"},
     {"n": "Blue Prince", "id": "70010000109038", "p": "SW2", "s": "blue-prince-switch-2", "reg": 88.99, "cur": 53.39, "pct": 40, "ends": "2026-11-16T07:59:59Z", "rank": 329, "meu": false, "img": "switch2/70010000109038/b981f7ef5d2df071e77e83bbe6ded66110931ecdb62571ad2086d5523bf4af06"},
-    {"n": "Little Witch in the Woods", "id": "70010000113819", "p": "SW", "s": "little-witch-in-the-woods-switch", "reg": 59.99, "cur": 47.99, "pct": 20, "ends": "2026-11-06T17:59:59Z", "rank": 356, "meu": false, "img": "switch/70010000113819/f5413564bd8e1c46b980c17e277b325d2de063eb4e645e544c48cf887a6e46c0"},
     {"n": "Teenage Mutant Ninja Turtles: Shredder's Revenge", "id": "70010000039366", "p": "SW", "s": "teenage-mutant-ninja-turtles-shredders-revenge-switch", "reg": 94.99, "cur": 37.99, "pct": 60, "ends": "2026-11-19T07:59:59Z", "rank": 363, "meu": false, "img": "switch/70010000039366/826f5ddb992697b2fa73c452ebfa661781bad6a37e6447848ace31ae58502d1f"},
     {"n": "BRAVELY DEFAULT FLYING FAIRY HD Remaster", "id": "70010000095321", "p": "SW2", "s": "bravely-default-flying-fairy-hd-remaster-switch-2", "reg": 199.5, "cur": 139.65, "pct": 30, "ends": "2026-11-17T07:59:59Z", "rank": 365, "meu": false, "img": "switch2/70010000095321/9d983eab161d222de28c91f2b66bcf3686f12281ffc0a9632ecd36984de09931"},
     {"n": "FINAL FANTASY X/X-2 HD Remaster", "id": "70010000113865", "p": "SW2", "s": "final-fantasy-x-x-2-hd-remaster-switch-2", "reg": 284.9, "cur": 142.45, "pct": 50, "ends": "2026-11-17T07:59:59Z", "rank": 368, "meu": false, "img": "switch2/70010000113865/1d64f4ba11f085404d1b255a1686683fa65a26117bee7b0d4d60d31985d25f2c"},
@@ -61,6 +60,7 @@
     {"n": "Enter the Gungeon", "id": "70010000002862", "p": "SW", "s": "enter-the-gungeon-switch", "reg": 46.99, "cur": 11.99, "pct": 74, "ends": "2026-11-19T07:59:59Z", "rank": 731, "meu": false, "img": "switch/70010000002862/9b272d28f76ef9ade4d919f670f56eb73836d42a76daa1a9a342c962c9dfd377"},
     {"n": "FINAL FANTASY I-VI Bundle", "id": "70070000017105", "p": "SW", "s": "final-fantasy-i-vi-bundle-switch", "reg": 374.5, "cur": 224.7, "pct": 40, "ends": "2026-11-17T07:59:59Z", "rank": 749, "meu": false, "img": "switch/70070000017105/665dad530a02655c926000cca05aeeb1e182384a2f530c5b9d3525778673e631"},
     {"n": "Go-Go Town!", "id": "70010000066160", "p": "SW", "s": "go-go-town-switch", "reg": 88.99, "cur": 80.09, "pct": 10, "ends": "2026-11-19T07:59:59Z", "rank": 753, "meu": false, "img": "switch/70010000066160/ca8180b647d0d4af33edd14244e1abcd2ddf939095a9bfe5cecf8f1c89d8cc99"},
-    {"n": "Sticky Business", "id": "70010000073482", "p": "SW", "s": "sticky-business-switch", "reg": 49.99, "cur": 19.99, "pct": 60, "ends": "2026-11-21T07:59:59Z", "rank": 777, "meu": false, "img": "switch/70010000073482/2b7bcb70411ca665918ac8a2e7608b08b55cecf29dc8e39c6632ab25cabce7c7"}
+    {"n": "Sticky Business", "id": "70010000073482", "p": "SW", "s": "sticky-business-switch", "reg": 49.99, "cur": 19.99, "pct": 60, "ends": "2026-11-21T07:59:59Z", "rank": 777, "meu": false, "img": "switch/70010000073482/2b7bcb70411ca665918ac8a2e7608b08b55cecf29dc8e39c6632ab25cabce7c7"},
+    {"n": "High On Life: Nintendo Switch™ 2 Edition", "id": "70010000104842", "p": "SW2", "s": "high-on-life-nintendo-switch-2-edition-switch-2", "reg": 149.99, "cur": 74.99, "pct": 50, "ends": "2026-11-18T16:59:59Z", "rank": 781, "meu": false, "img": "switch2/70010000104842/ae8c75f2a8e84a56d25fc0323ec27988fdfeea1c5a62bc2adf015115dacc984d"}
   ]
 }

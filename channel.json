@@ -1,18 +1,24 @@
 {
-  "updated": "2026-11-06T09:34:58-03:00",
+  "updated": "2026-11-06T18:51:19-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "Sonic Racing Crossworlds", "preco": 124.0, "loja": "Mercado Livre", "d": "2026-11-05", "url": "https://t.me/nintendobarato/14373"},
-    {"t": "Resident Evil Generation Pack", "preco": 439.0, "loja": "Amazon", "d": "2026-11-05", "url": "https://t.me/nintendobarato/14375"},
-    {"t": "Star Fox", "preco": 259.0, "loja": "Mercado Livre", "meu": "Star Fox", "d": "2026-11-05", "url": "https://t.me/nintendobarato/14376"},
-    {"t": "Okami HD", "preco": 239.0, "loja": "Mercado Livre", "d": "2026-11-05", "url": "https://t.me/nintendobarato/14377"},
-    {"t": "The Legend of Zelda: Ocarina of Time [CAPA FOIL]", "preco": 494.0, "loja": "Mercado Livre", "meu": "The Legend of Zelda: Ocarina of Time", "d": "2026-11-05", "url": "https://t.me/nintendobarato/14378"},
-    {"t": "Marvel vs Capcom Fighting Collection Arcade Classics", "preco": 149.0, "loja": "Amazon", "d": "2026-11-05", "url": "https://t.me/nintendobarato/14381"},
-    {"t": "Stray", "preco": 150.0, "loja": "Mercado Livre", "d": "2026-11-05", "url": "https://t.me/nintendobarato/14382"},
-    {"t": "The Legend of Zelda: Ocarina of Time (capa NORMAL)", "preco": 355.0, "loja": "Shopee", "meu": "The Legend of Zelda: Ocarina of Time", "d": "2026-11-05", "url": "https://t.me/nintendobarato/14383"},
-    {"t": "Nintendo Switch OLED", "preco": 1794.0, "loja": "Shopee", "d": "2026-11-05", "url": "https://t.me/nintendobarato/14384"},
-    {"t": "Metroid Prime 4 Beyond", "preco": 171.0, "loja": "Mercado Livre", "d": "2026-11-05", "url": "https://t.me/nintendobarato/14386"},
-    {"t": "Nier Automata", "preco": 209.0, "loja": "Amazon", "d": "2026-11-06", "url": "https://t.me/nintendobarato/14390"},
-    {"t": "Sonic Mania + Team Sonic Racing", "preco": 213.0, "loja": "Amazon", "d": "2026-11-06", "url": "https://t.me/nintendobarato/14392"}
+    {"t": "Sea of Stars", "preco": 206.0, "loja": "Amazon", "meu": "Sea of Stars", "d": "2026-11-06", "url": "https://t.me/nintendobarato/14401"},
+    {"t": "Amiibo - Poplin & Principe Florian (Super Mario Bros. Wonder)", "preco": 151.0, "loja": "Amazon", "d": "2026-11-06", "url": "https://t.me/nintendobarato/14402"},
+    {"t": "The Legend Of Zelda: Echoes Of Wisdom", "preco": 250.0, "loja": "Mercado Livre", "d": "2026-11-06", "url": "https://t.me/nintendobarato/14403"},
+    {"t": "Pikmin 4", "preco": 272.0, "loja": "Mercado Livre", "d": "2026-11-06", "url": "https://t.me/nintendobarato/14404"},
+    {"t": "Pokémon Pokopia", "preco": 336.0, "loja": "Mercado Livre", "d": "2026-11-06", "url": "https://t.me/nintendobarato/14405"},
+    {"t": "Shadow Labyrinth", "preco": 84.0, "loja": "Mercado Livre", "d": "2026-11-06", "url": "https://t.me/nintendobarato/14406"},
+    {"t": "Elden Ring: Tarnished Edition", "preco": 339.0, "loja": "Mercado Livre", "d": "2026-11-06", "url": "https://t.me/nintendobarato/14407"},
+    {"t": "Sonic Racing Crossworlds", "preco": 117.0, "loja": "Mercado Livre", "d": "2026-11-06", "url": "https://t.me/nintendobarato/14408"},
+    {"t": "Persona 5 Royal", "preco": 195.0, "loja": "Mercado Livre", "d": "2026-11-06", "url": "https://t.me/nintendobarato/14409"},
+    {"t": "Daemon X Machina Titanic Scion", "preco": 212.0, "loja": "Mercado Livre", "d": "2026-11-06", "url": "https://t.me/nintendobarato/14410"},
+    {"t": "Mario & Luigi Brothership", "preco": 220.0, "loja": "Mercado Livre", "d": "2026-11-06", "url": "https://t.me/nintendobarato/14411"},
+    {"t": "Paper Mario The Thousand-Year Door", "preco": 254.0, "loja": "Mercado Livre", "d": "2026-11-06", "url": "https://t.me/nintendobarato/14412"},
+    {"t": "Animal Crossing: New Horizons", "preco": 259.0, "loja": "Mercado Livre", "d": "2026-11-06", "url": "https://t.me/nintendobarato/14413"},
+    {"t": "Super Smash Bros. Ultimate", "preco": 252.0, "loja": "Mercado Livre", "d": "2026-11-06", "url": "https://t.me/nintendobarato/14414"},
+    {"t": "Pokémon Legends Arceus", "preco": 254.0, "loja": "Mercado Livre", "d": "2026-11-06", "url": "https://t.me/nintendobarato/14415"},
+    {"t": "Star Fox", "preco": 252.0, "loja": "Mercado Livre", "meu": "Star Fox", "d": "2026-11-06", "url": "https://t.me/nintendobarato/14416"},
+    {"t": "Nintendo Switch Sports Resort", "preco": 298.0, "loja": "Mercado Livre", "d": "2026-11-06", "url": "https://t.me/nintendobarato/14417"},
+    {"t": "Orbitals", "preco": 241.0, "loja": "Mercado Livre", "d": "2026-11-06", "url": "https://t.me/nintendobarato/14418"}
   ]
 }
