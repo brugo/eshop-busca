@@ -1,9 +1,7 @@
 {
-  "updated": "2026-11-05T19:26:16-03:00",
+  "updated": "2026-11-05T23:56:59-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "Final Fantasy XII: The Zodiac Age", "preco": 179.0, "loja": "Mercado Livre", "d": "2026-11-05", "url": "https://t.me/nintendobarato/14370"},
-    {"t": "Yakuza Kiwami 3 & Dark Ties", "preco": 179.0, "loja": "Mercado Livre", "d": "2026-11-05", "url": "https://t.me/nintendobarato/14371"},
     {"t": "Sonic Racing Crossworlds", "preco": 124.0, "loja": "Mercado Livre", "d": "2026-11-05", "url": "https://t.me/nintendobarato/14373"},
     {"t": "Resident Evil Generation Pack", "preco": 439.0, "loja": "Amazon", "d": "2026-11-05", "url": "https://t.me/nintendobarato/14375"},
     {"t": "Star Fox", "preco": 259.0, "loja": "Mercado Livre", "meu": "Star Fox", "d": "2026-11-05", "url": "https://t.me/nintendobarato/14376"},
@@ -13,6 +11,8 @@
     {"t": "Stray", "preco": 150.0, "loja": "Mercado Livre", "d": "2026-11-05", "url": "https://t.me/nintendobarato/14382"},
     {"t": "The Legend of Zelda: Ocarina of Time (capa NORMAL)", "preco": 355.0, "loja": "Shopee", "meu": "The Legend of Zelda: Ocarina of Time", "d": "2026-11-05", "url": "https://t.me/nintendobarato/14383"},
     {"t": "Nintendo Switch OLED", "preco": 1794.0, "loja": "Shopee", "d": "2026-11-05", "url": "https://t.me/nintendobarato/14384"},
-    {"t": "Metroid Prime 4 Beyond", "preco": 171.0, "loja": "Mercado Livre", "d": "2026-11-05", "url": "https://t.me/nintendobarato/14386"}
+    {"t": "Metroid Prime 4 Beyond", "preco": 171.0, "loja": "Mercado Livre", "d": "2026-11-05", "url": "https://t.me/nintendobarato/14386"},
+    {"t": "Nier Automata", "preco": 209.0, "loja": "Amazon", "d": "2026-11-06", "url": "https://t.me/nintendobarato/14390"},
+    {"t": "Sonic Mania + Team Sonic Racing", "preco": 213.0, "loja": "Amazon", "d": "2026-11-06", "url": "https://t.me/nintendobarato/14392"}
   ]
 }
