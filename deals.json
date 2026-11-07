@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-07T08:24:12-03:00",
-  "total": 3507,
+  "updated": "2026-11-07T17:35:51-03:00",
+  "total": 3537,
   "games": [
     {"n": "Boomerang Fu", "id": "70010000021921", "p": "SW", "s": "boomerang-fu-switch", "reg": 76.45, "cur": 38.22, "pct": 50, "ends": "2026-11-17T07:59:59Z", "rank": 84, "meu": false, "img": "switch/70010000021921/93718cd185fc1736665b72d3dfdf111e69ba3e6c8c69989471c6e7e11c90f3f4"},
     {"n": "The Adventures of Elliot: The Millennium Tales", "id": "70010000116884", "p": "SW2", "s": "the-adventures-of-elliot-the-millennium-tales-switch-2", "reg": 339.9, "cur": 237.93, "pct": 30, "ends": "2026-11-17T07:59:59Z", "rank": 126, "meu": true, "img": "switch2/70010000116884/585f6d8f18cbeb7a7e12aa90061cebc80b18a34cdbc860ba005cb6ff7999a72c"},
