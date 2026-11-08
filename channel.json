@@ -1,15 +1,7 @@
 {
-  "updated": "2026-11-07T17:35:52-03:00",
+  "updated": "2026-11-07T22:56:37-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "Neon White", "preco": 86.0, "loja": "Mercado Livre", "d": "2026-11-07", "url": "https://t.me/nintendobarato/14434"},
-    {"t": "Pocket Bravery Switch", "preco": 114.0, "loja": "Amazon", "d": "2026-11-07", "url": "https://t.me/nintendobarato/14435"},
-    {"t": "Star Fox", "preco": 237.0, "loja": "Mercado Livre", "meu": "Star Fox", "d": "2026-11-07", "url": "https://t.me/nintendobarato/14436"},
-    {"t": "Nintendo Switch OLED", "preco": 1799.0, "loja": "Mercado Livre", "d": "2026-11-07", "url": "https://t.me/nintendobarato/14438"},
-    {"t": "Marvel Vs Capcom Fighting Collection Arcade Classics", "preco": 136.0, "loja": "Mercado Livre", "d": "2026-11-07", "url": "https://t.me/nintendobarato/14439"},
-    {"t": "Metroid Prime 4: Beyond", "preco": 253.0, "loja": "Mercado Livre", "d": "2026-11-07", "url": "https://t.me/nintendobarato/14440"},
-    {"t": "Rico London", "preco": 99.0, "loja": "Mercado Livre", "d": "2026-11-07", "url": "https://t.me/nintendobarato/14441"},
-    {"t": "Gi Joe Operation Blackout", "preco": 99.0, "loja": "Mercado Livre", "d": "2026-11-07", "url": "https://t.me/nintendobarato/14442"},
     {"t": "Star Fox", "preco": 240.0, "loja": "Mercado Livre", "meu": "Star Fox", "d": "2026-11-07", "url": "https://t.me/nintendobarato/14443"},
     {"t": "Shadow Labyrinth", "preco": 79.0, "loja": "Mercado Livre", "d": "2026-11-07", "url": "https://t.me/nintendobarato/14444"},
     {"t": "Mario Kart 8 Deluxe", "preco": 249.0, "loja": "Mercado Livre", "d": "2026-11-07", "url": "https://t.me/nintendobarato/14445"},
@@ -18,6 +10,14 @@
     {"t": "Final Fantasy Vii Rebirth Standard Edition", "preco": 265.0, "loja": "Mercado Livre", "meu": "FINAL FANTASY VII REBIRTH", "d": "2026-11-07", "url": "https://t.me/nintendobarato/14449"},
     {"t": "Final Fantasy Resonance", "preco": 263.0, "loja": "Amazon", "d": "2026-11-07", "url": "https://t.me/nintendobarato/14450"},
     {"t": "Nintendo Switch OLED", "preco": 1799.0, "loja": "Mercado Livre", "d": "2026-11-07", "url": "https://t.me/nintendobarato/14451"},
-    {"t": "Fire Emblem Fortunes Weave Dagdan Collection", "preco": 1331.0, "loja": "Mercado Livre", "d": "2026-11-07", "url": "https://t.me/nintendobarato/14452"}
+    {"t": "Fire Emblem Fortunes Weave Dagdan Collection", "preco": 1331.0, "loja": "Mercado Livre", "d": "2026-11-07", "url": "https://t.me/nintendobarato/14452"},
+    {"t": "Sonic X Shadow Generations", "preco": 169.0, "loja": "Amazon", "d": "2026-11-07", "url": "https://t.me/nintendobarato/14454"},
+    {"t": "Liga da Justiça Cósmica", "preco": 135.0, "loja": "Amazon", "d": "2026-11-07", "url": "https://t.me/nintendobarato/14455"},
+    {"t": "BRAVELY DEFAULT II", "preco": 255.0, "loja": "Amazon", "d": "2026-11-07", "url": "https://t.me/nintendobarato/14456"},
+    {"t": "Sonic Forces", "preco": 119.0, "loja": "Amazon", "d": "2026-11-08", "url": "https://t.me/nintendobarato/14457"},
+    {"t": "Assassins Creed III Remastered", "preco": 157.0, "loja": "Mercado Livre", "d": "2026-11-08", "url": "https://t.me/nintendobarato/14459"},
+    {"t": "Assassin's Creed The Rebel Collection", "preco": 157.0, "loja": "Mercado Livre", "d": "2026-11-08", "url": "https://t.me/nintendobarato/14460"},
+    {"t": "Cuphead", "preco": 170.0, "loja": "Mercado Livre", "d": "2026-11-08", "url": "https://t.me/nintendobarato/14461"},
+    {"t": "Lego Horizon Adventures", "preco": 116.0, "loja": "Mercado Livre", "d": "2026-11-08", "url": "https://t.me/nintendobarato/14462"}
   ]
 }
