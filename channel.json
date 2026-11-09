@@ -1,15 +1,7 @@
 {
-  "updated": "2026-11-08T17:51:34-03:00",
+  "updated": "2026-11-08T23:12:01-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "The Legend of Zelda: Tears of the Kingdom", "preco": 298.0, "loja": "Mercado Livre", "d": "2026-11-08", "url": "https://t.me/nintendobarato/14472"},
-    {"t": "Mario Kart 8 Deluxe", "preco": 246.0, "loja": "Mercado Livre", "d": "2026-11-08", "url": "https://t.me/nintendobarato/14473"},
-    {"t": "Metal Gear Solid: Master Collection Vol. 2", "preco": 229.0, "loja": "Mercado Livre", "d": "2026-11-08", "url": "https://t.me/nintendobarato/14474"},
-    {"t": "Godzilla Destroy All Monsters Melee Remastered", "preco": 206.0, "loja": "Mercado Livre", "d": "2026-11-08", "url": "https://t.me/nintendobarato/14476"},
-    {"t": "Xenoblade Chronicles X Edição Definitiva", "preco": 395.0, "loja": "Mercado Livre", "d": "2026-11-08", "url": "https://t.me/nintendobarato/14477"},
-    {"t": "Metroid Prime 4 Beyond Switch", "preco": 212.0, "loja": "Mercado Livre", "d": "2026-11-08", "url": "https://t.me/nintendobarato/14478"},
-    {"t": "Luigis Mansion 3", "preco": 274.0, "loja": "Mercado Livre", "d": "2026-11-08", "url": "https://t.me/nintendobarato/14479"},
-    {"t": "The Legend of Zelda: Link's Awakening", "preco": 279.0, "loja": "Mercado Livre", "d": "2026-11-08", "url": "https://t.me/nintendobarato/14480"},
     {"t": "The Disney Afternoon Collection", "preco": 193.0, "loja": "Mercado Livre", "d": "2026-11-08", "url": "https://t.me/nintendobarato/14481"},
     {"t": "Classic Sonic Collection", "preco": 242.0, "loja": "Mercado Livre", "d": "2026-11-08", "url": "https://t.me/nintendobarato/14482"},
     {"t": "Modern Sonic Collection", "preco": 247.0, "loja": "Mercado Livre", "d": "2026-11-08", "url": "https://t.me/nintendobarato/14483"},
@@ -20,6 +12,10 @@
     {"t": "Stellar Blade Complete Steelbook Edition", "preco": 424.0, "loja": "Mercado Livre", "d": "2026-11-08", "url": "https://t.me/nintendobarato/14488"},
     {"t": "Paper Mario The Thousand-Year Door", "preco": 254.0, "loja": "Mercado Livre", "d": "2026-11-08", "url": "https://t.me/nintendobarato/14489"},
     {"t": "Ratatan", "preco": 254.0, "loja": "Mercado Livre", "d": "2026-11-08", "url": "https://t.me/nintendobarato/14490"},
-    {"t": "Voidwrought", "preco": 219.0, "loja": "Mercado Livre", "d": "2026-11-08", "url": "https://t.me/nintendobarato/14491"}
+    {"t": "Voidwrought", "preco": 219.0, "loja": "Mercado Livre", "d": "2026-11-08", "url": "https://t.me/nintendobarato/14491"},
+    {"t": "Raging Bytes", "preco": 139.0, "loja": "Mercado Livre", "d": "2026-11-08", "url": "https://t.me/nintendobarato/14493"},
+    {"t": "Sonic Racing Crossworlds Launch Edition", "preco": 113.0, "loja": "Mercado Livre", "d": "2026-11-08", "url": "https://t.me/nintendobarato/14497"},
+    {"t": "Assassins Creed Shadows", "preco": 159.0, "loja": "Mercado Livre", "d": "2026-11-08", "url": "https://t.me/nintendobarato/14498"},
+    {"t": "No Mans Sky", "preco": 156.0, "loja": "Mercado Livre", "d": "2026-11-08", "url": "https://t.me/nintendobarato/14499"}
   ]
 }
