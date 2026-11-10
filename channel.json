@@ -1,12 +1,7 @@
 {
-  "updated": "2026-11-09T21:29:14-03:00",
+  "updated": "2026-11-10T10:07:24-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "Final Fantasy XII The Zodiac Age", "preco": 175.0, "loja": "Mercado Livre", "d": "2026-11-09", "url": "https://t.me/nintendobarato/14510"},
-    {"t": "Collection of Mana", "preco": 149.0, "loja": "Mercado Livre", "d": "2026-11-09", "url": "https://t.me/nintendobarato/14511"},
-    {"t": "Sonic Racing Crossworlds", "preco": 108.0, "loja": "Mercado Livre", "d": "2026-11-09", "url": "https://t.me/nintendobarato/14513"},
-    {"t": "Star Fox", "preco": 240.0, "loja": "Mercado Livre", "meu": "Star Fox", "d": "2026-11-09", "url": "https://t.me/nintendobarato/14514"},
-    {"t": "Shinobi Art of Vengeance Deluxe Edition", "preco": 159.0, "loja": "Mercado Livre", "d": "2026-11-09", "url": "https://t.me/nintendobarato/14515"},
     {"t": "Persona 5 Tactica", "preco": 79.0, "loja": "Mercado Livre", "d": "2026-11-09", "url": "https://t.me/nintendobarato/14516"},
     {"t": "Mario & Luigi Brothership", "preco": 207.0, "loja": "Mercado Livre", "d": "2026-11-09", "url": "https://t.me/nintendobarato/14517"},
     {"t": "Super Mario Party Jamboree", "preco": 242.0, "loja": "Mercado Livre", "d": "2026-11-09", "url": "https://t.me/nintendobarato/14518"},
@@ -15,6 +10,9 @@
     {"t": "Star Wars Heritage Pack", "preco": 183.0, "loja": "Mercado Livre", "d": "2026-11-09", "url": "https://t.me/nintendobarato/14524"},
     {"t": "Onimusha: Way of the Sword", "preco": 277.0, "loja": "Amazon", "d": "2026-11-09", "url": "https://t.me/nintendobarato/14525"},
     {"t": "Maestro", "preco": 250.0, "loja": "Mercado Livre", "d": "2026-11-09", "url": "https://t.me/nintendobarato/14527"},
-    {"t": "Nintendo Switch Lite Azul", "preco": 1099.0, "loja": "Magalu", "d": "2026-11-09", "url": "https://t.me/nintendobarato/14528"}
+    {"t": "Nintendo Switch Lite Azul", "preco": 1099.0, "loja": "Magalu", "d": "2026-11-09", "url": "https://t.me/nintendobarato/14528"},
+    {"t": "Everdream Valley", "preco": 136.0, "loja": "Amazon", "d": "2026-11-10", "url": "https://t.me/nintendobarato/14530"},
+    {"t": "Bayonetta 1", "preco": 255.0, "loja": "Mercado Livre", "d": "2026-11-10", "url": "https://t.me/nintendobarato/14534"},
+    {"t": "Metroid Ravenous", "preco": 368.0, "loja": "Kabum", "d": "2026-11-10", "url": "https://t.me/nintendobarato/14535"}
   ]
 }
