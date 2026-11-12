@@ -1,10 +1,7 @@
 {
-  "updated": "2026-11-12T10:25:52-03:00",
+  "updated": "2026-11-12T19:29:12-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "Metroid Ravenous", "preco": 351.0, "loja": "Shopee", "d": "2026-11-11", "url": "https://t.me/nintendobarato/14630"},
-    {"t": "Cronos The New Dawn", "preco": 149.0, "loja": "Mercado Livre", "d": "2026-11-11", "url": "https://t.me/nintendobarato/14631"},
-    {"t": "Orbitals", "preco": 239.0, "loja": "Mercado Livre", "d": "2026-11-11", "url": "https://t.me/nintendobarato/14632"},
     {"t": "Advance Wars 1+2: Re-boot Camp", "preco": 246.0, "loja": "Mercado Livre", "d": "2026-11-11", "url": "https://t.me/nintendobarato/14634"},
     {"t": "Stellar Blade Steelbook", "preco": 360.0, "loja": "Shopee", "d": "2026-11-11", "url": "https://t.me/nintendobarato/14635"},
     {"t": "Splatoon Raiders", "preco": 245.0, "loja": "Mercado Livre", "d": "2026-11-11", "url": "https://t.me/nintendobarato/14638"},
@@ -12,6 +9,12 @@
     {"t": "Super Mario 3D World + Bowser's Fury", "preco": 264.0, "loja": "Mercado Livre", "d": "2026-11-11", "url": "https://t.me/nintendobarato/14641"},
     {"t": "Kingdom Hearts Collection I-III", "preco": 404.0, "loja": "Mercado Livre", "d": "2026-11-12", "url": "https://t.me/nintendobarato/14646"},
     {"t": "Livro Pokécology an Illustrated Guide", "preco": 88.0, "loja": "Amazon", "d": "2026-11-12", "url": "https://t.me/nintendobarato/14647"},
-    {"t": "Final Fantasy Tactics: The Ivalice Chronicles", "preco": 267.0, "loja": "Mercado Livre", "meu": "FINAL FANTASY TACTICS – The Ivalice Chronicles (Switch 2)", "d": "2026-11-12", "url": "https://t.me/nintendobarato/14648"}
+    {"t": "Final Fantasy Tactics: The Ivalice Chronicles", "preco": 267.0, "loja": "Mercado Livre", "meu": "FINAL FANTASY TACTICS – The Ivalice Chronicles (Switch 2)", "d": "2026-11-12", "url": "https://t.me/nintendobarato/14648"},
+    {"t": "Kirby and the Forgotten Land", "preco": 266.0, "loja": "Mercado Livre", "d": "2026-11-12", "url": "https://t.me/nintendobarato/14649"},
+    {"t": "Pokémon Sword", "preco": 263.0, "loja": "Mercado Livre", "d": "2026-11-12", "url": "https://t.me/nintendobarato/14650"},
+    {"t": "Pragmata", "preco": 255.0, "loja": "Mercado Livre", "d": "2026-11-12", "url": "https://t.me/nintendobarato/14651"},
+    {"t": "Pôster Zelda: Ocarina of Time", "preco": 29.0, "loja": "Mercado Livre", "d": "2026-11-12", "url": "https://t.me/nintendobarato/14652"},
+    {"t": "Starship Troopers: Ultimate Bug War", "preco": 236.0, "loja": "Amazon", "d": "2026-11-12", "url": "https://t.me/nintendobarato/14653"},
+    {"t": "Nelke & The Legendary Alchemists: Ateliers of The New World", "preco": 232.0, "loja": "Amazon", "d": "2026-11-12", "url": "https://t.me/nintendobarato/14654"}
   ]
 }

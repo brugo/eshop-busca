@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-12T10:25:51-03:00",
-  "total": 3516,
+  "updated": "2026-11-12T19:29:11-03:00",
+  "total": 3861,
   "games": [
     {"n": "Boomerang Fu", "id": "70010000021921", "p": "SW", "s": "boomerang-fu-switch", "reg": 76.45, "cur": 38.22, "pct": 50, "ends": "2026-11-17T07:59:59Z", "rank": 86, "meu": false, "img": "switch/70010000021921/93718cd185fc1736665b72d3dfdf111e69ba3e6c8c69989471c6e7e11c90f3f4"},
     {"n": "The Adventures of Elliot: The Millennium Tales", "id": "70010000116884", "p": "SW2", "s": "the-adventures-of-elliot-the-millennium-tales-switch-2", "reg": 339.9, "cur": 237.93, "pct": 30, "ends": "2026-11-17T07:59:59Z", "rank": 122, "meu": true, "img": "switch2/70010000116884/585f6d8f18cbeb7a7e12aa90061cebc80b18a34cdbc860ba005cb6ff7999a72c"},
@@ -41,6 +41,8 @@
     {"n": "Two Point Museum", "id": "70010000104115", "p": "SW2", "s": "two-point-museum-switch-2", "reg": 126.9, "cur": 85.02, "pct": 33, "ends": "2026-11-14T07:59:59Z", "rank": 572, "meu": false, "img": "switch2/70010000104115/3e4d0844e3bbf6812f41880c1d59507eb7b90a3ebf19cef216945699d9ae7e9b"},
     {"n": "What Remains of Edith Finch", "id": "70010000019333", "p": "SW", "s": "what-remains-of-edith-finch-switch", "reg": 69.0, "cur": 17.25, "pct": 75, "ends": "2026-11-19T16:59:59Z", "rank": 582, "meu": false, "img": "switch/70010000019333/818c2472c56b3d6ed9c65b49967ae3e6dff770e1744197b4d6566aafdd94ae18"},
     {"n": "Snake.io", "id": "70010000084439", "p": "SW", "s": "snake-io-switch", "reg": 49.99, "cur": 22.49, "pct": 55, "ends": "2026-12-03T07:59:59Z", "rank": 590, "meu": false, "img": "switch/70010000084439/b5252140dac009dff1d7f1f735b3344ade4403851bad93ccc56de3719cbbdaed"},
+    {"n": "Hello Neighbor", "id": "70010000010714", "p": "SW", "s": "hello-neighbor-switch", "reg": 203.95, "cur": 50.98, "pct": 75, "ends": "2026-12-03T07:59:59Z", "rank": 592, "meu": false, "img": "switch/70010000010714/0cbfc60f0ba56f8e09a7a723fa416f8a8420b14d6c0736c0c730f9a21dd7a81f"},
+    {"n": "Graveyard Keeper", "id": "70010000013397", "p": "SW", "s": "graveyard-keeper-switch", "reg": 101.95, "cur": 25.48, "pct": 75, "ends": "2026-12-03T07:59:59Z", "rank": 602, "meu": false, "img": "switch/70010000013397/e96f84077535999e035b88bc9966c3ccaba19ff79e35a43501ee68b77407b0b8"},
     {"n": "High On Life 2", "id": "70010000103446", "p": "SW2", "s": "high-on-life-2-switch-2", "reg": 149.99, "cur": 127.49, "pct": 15, "ends": "2026-11-18T16:59:59Z", "rank": 604, "meu": false, "img": "switch2/70010000103446/908451d7ff0c9577d354a08c048286f1779a6bd8b974a8dc84a47f8ce69ba912"},
     {"n": "NieR:Automata The End of YoRHa Edition", "id": "70010000045182", "p": "SW", "s": "nier-automata-the-end-of-yorha-edition-switch", "reg": 149.9, "cur": 59.96, "pct": 60, "ends": "2026-11-17T07:59:59Z", "rank": 609, "meu": false, "img": "switch/70010000045182/74fb568c43f9c43895db89d4ebb2b510894de7141b066b953aebda427a46af87"},
     {"n": "Dragon Quest Heroes: Torneko‘s Mystery Dungeon -Classic HD-", "id": "70010000117582", "p": "SW2", "s": "dragon-quest-heroes-tornekos-mystery-dungeon-classic-hd-switch-2", "reg": 142.5, "cur": 114.0, "pct": 20, "ends": "2026-11-17T07:59:59Z", "rank": 611, "meu": false, "img": "switch2/70010000117582/6662f61dccad0a738224303791c53a31cd01dfbfffc8de2b164856a151dd53ea"},
@@ -59,8 +61,6 @@
     {"n": "Thank Goodness You're Here!", "id": "70010000064959", "p": "SW", "s": "thank-goodness-youre-here-switch", "reg": 65.0, "cur": 32.5, "pct": 50, "ends": "2026-11-21T16:59:59Z", "rank": 782, "meu": false, "img": "switch/70010000064959/935900642452ed06254b62f6e56e3fd4f342879ba3851cb157bb214709d40a93"},
     {"n": "Outbound", "id": "70010000104051", "p": "SW", "s": "outbound-switch", "reg": 73.99, "cur": 55.49, "pct": 25, "ends": "2026-11-18T07:59:59Z", "rank": 786, "meu": false, "img": "switch/70010000104051/5233a1447b582761d793e69ec651ead9489123590922bbc1857580af5d806205"},
     {"n": "Sticky Business", "id": "70010000073482", "p": "SW", "s": "sticky-business-switch", "reg": 49.99, "cur": 19.99, "pct": 60, "ends": "2026-11-21T07:59:59Z", "rank": 788, "meu": false, "img": "switch/70010000073482/2b7bcb70411ca665918ac8a2e7608b08b55cecf29dc8e39c6632ab25cabce7c7"},
-    {"n": "METAL GEAR SOLID: MASTER COLLECTION Vol. 1", "id": "70070000017904", "p": "SW", "s": "metal-gear-solid-master-collection-vol-1-switch", "reg": 299.9, "cur": 179.94, "pct": 40, "ends": "2026-11-19T07:59:59Z", "rank": 797, "meu": false, "img": "switch/70070000017904/de00b6a6f8b56d96207d068e18b9973fd737f5b4a6e43787c80d24227f3a8a54"},
-    {"n": "LEGO® Marvel Super Heroes 2", "id": "70010000000730", "p": "SW", "s": "lego-marvel-super-heroes-2-switch", "reg": 149.99, "cur": 22.49, "pct": 85, "ends": "2026-12-01T07:59:59Z", "rank": 808, "meu": false, "img": "switch/70010000000730/e6ead60cf5c00779d99b032be8c1088d31a937c45617d57e4e0ee944ded63df5"},
-    {"n": "DRAGON QUEST III HD-2D Remake", "id": "70010000077709", "p": "SW", "s": "dragon-quest-iii-hd-2d-remake-switch", "reg": 299.9, "cur": 149.95, "pct": 50, "ends": "2026-11-17T07:59:59Z", "rank": 830, "meu": false, "img": "switch/70010000077709/20cc4f8e9e8fb5986c9f2bacb496f70780ae97a70d81a6f9f0dfd8e4d2a44b5f"}
+    {"n": "METAL GEAR SOLID: MASTER COLLECTION Vol. 1", "id": "70070000017904", "p": "SW", "s": "metal-gear-solid-master-collection-vol-1-switch", "reg": 299.9, "cur": 179.94, "pct": 40, "ends": "2026-11-19T07:59:59Z", "rank": 797, "meu": false, "img": "switch/70070000017904/de00b6a6f8b56d96207d068e18b9973fd737f5b4a6e43787c80d24227f3a8a54"}
   ]
 }
