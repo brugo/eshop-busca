@@ -1,11 +1,7 @@
 {
-  "updated": "2026-11-12T19:29:12-03:00",
+  "updated": "2026-11-13T00:01:33-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "Advance Wars 1+2: Re-boot Camp", "preco": 246.0, "loja": "Mercado Livre", "d": "2026-11-11", "url": "https://t.me/nintendobarato/14634"},
-    {"t": "Stellar Blade Steelbook", "preco": 360.0, "loja": "Shopee", "d": "2026-11-11", "url": "https://t.me/nintendobarato/14635"},
-    {"t": "Splatoon Raiders", "preco": 245.0, "loja": "Mercado Livre", "d": "2026-11-11", "url": "https://t.me/nintendobarato/14638"},
-    {"t": "LEGO Game Boy", "preco": 264.0, "loja": "Mercado Livre", "d": "2026-11-11", "url": "https://t.me/nintendobarato/14639"},
     {"t": "Super Mario 3D World + Bowser's Fury", "preco": 264.0, "loja": "Mercado Livre", "d": "2026-11-11", "url": "https://t.me/nintendobarato/14641"},
     {"t": "Kingdom Hearts Collection I-III", "preco": 404.0, "loja": "Mercado Livre", "d": "2026-11-12", "url": "https://t.me/nintendobarato/14646"},
     {"t": "Livro Pokécology an Illustrated Guide", "preco": 88.0, "loja": "Amazon", "d": "2026-11-12", "url": "https://t.me/nintendobarato/14647"},
@@ -15,6 +11,10 @@
     {"t": "Pragmata", "preco": 255.0, "loja": "Mercado Livre", "d": "2026-11-12", "url": "https://t.me/nintendobarato/14651"},
     {"t": "Pôster Zelda: Ocarina of Time", "preco": 29.0, "loja": "Mercado Livre", "d": "2026-11-12", "url": "https://t.me/nintendobarato/14652"},
     {"t": "Starship Troopers: Ultimate Bug War", "preco": 236.0, "loja": "Amazon", "d": "2026-11-12", "url": "https://t.me/nintendobarato/14653"},
-    {"t": "Nelke & The Legendary Alchemists: Ateliers of The New World", "preco": 232.0, "loja": "Amazon", "d": "2026-11-12", "url": "https://t.me/nintendobarato/14654"}
+    {"t": "Nelke & The Legendary Alchemists: Ateliers of The New World", "preco": 232.0, "loja": "Amazon", "d": "2026-11-12", "url": "https://t.me/nintendobarato/14654"},
+    {"t": "Indiana Jones e o Grande Círculo", "preco": 372.0, "loja": "Kabum!", "d": "2026-11-12", "url": "https://t.me/nintendobarato/14656"},
+    {"t": "Beholder 3", "preco": 133.0, "loja": "Amazon", "d": "2026-11-13", "url": "https://t.me/nintendobarato/14657"},
+    {"t": "Super Mario RPG", "preco": 249.0, "loja": "Amazon", "d": "2026-11-13", "url": "https://t.me/nintendobarato/14659"},
+    {"t": "Beholder: Edição Completa", "preco": 215.0, "loja": "Amazon", "d": "2026-11-13", "url": "https://t.me/nintendobarato/14660"}
   ]
 }
