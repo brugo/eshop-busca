@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-15T18:24:00-03:00",
-  "total": 3628,
+  "updated": "2026-11-15T23:28:29-03:00",
+  "total": 3629,
   "games": [
     {"n": "Wobbly Life", "id": "70010000080994", "p": "SW", "s": "wobbly-life-switch", "reg": 79.99, "cur": 63.99, "pct": 20, "ends": "2026-11-16T07:59:59Z", "rank": 81, "meu": false, "img": "switch/70010000080994/7f5a7381a2e98af0b75a86cace8b9ef152eccafb04a0c43b8826c24be3ff96d2"},
     {"n": "Boomerang Fu", "id": "70010000021921", "p": "SW", "s": "boomerang-fu-switch", "reg": 76.45, "cur": 38.22, "pct": 50, "ends": "2026-11-17T07:59:59Z", "rank": 86, "meu": false, "img": "switch/70010000021921/93718cd185fc1736665b72d3dfdf111e69ba3e6c8c69989471c6e7e11c90f3f4"},
