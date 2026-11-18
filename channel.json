@@ -1,13 +1,7 @@
 {
-  "updated": "2026-11-17T20:41:13-03:00",
+  "updated": "2026-11-18T10:33:31-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "Matchbox Driving Adventures", "preco": 76.0, "loja": "Mercado Livre", "d": "2026-11-17", "url": "https://t.me/nintendobarato/14771"},
-    {"t": "Xenoblade Chronicles 3", "preco": 387.0, "loja": "Amazon", "d": "2026-11-17", "url": "https://t.me/nintendobarato/14772"},
-    {"t": "Puyo Puyo Tetris", "preco": 99.0, "loja": "Mercado Livre", "d": "2026-11-17", "url": "https://t.me/nintendobarato/14773"},
-    {"t": "Lol Surprise Roller Dreams Racing", "preco": 78.0, "loja": "Mercado Livre", "d": "2026-11-17", "url": "https://t.me/nintendobarato/14774"},
-    {"t": "Two Point Campus Enrollment Edition", "preco": 89.0, "loja": "Mercado Livre", "d": "2026-11-17", "url": "https://t.me/nintendobarato/14775"},
-    {"t": "Collection of Mana", "preco": 152.0, "loja": "Mercado Livre", "d": "2026-11-17", "url": "https://t.me/nintendobarato/14776"},
     {"t": "Absolum", "preco": 179.0, "loja": "Mercado Livre", "d": "2026-11-17", "url": "https://t.me/nintendobarato/14777"},
     {"t": "Catherine: Full Body", "preco": 186.0, "loja": "Mercado Livre", "d": "2026-11-17", "url": "https://t.me/nintendobarato/14778"},
     {"t": "Grand Theft Auto: The Trilogy", "preco": 188.0, "loja": "Mercado Livre", "d": "2026-11-17", "url": "https://t.me/nintendobarato/14779"},
@@ -17,6 +11,11 @@
     {"t": "Street Fighter 30th Anniversary Collection", "preco": 174.0, "loja": "Amazon", "d": "2026-11-17", "url": "https://t.me/nintendobarato/14787"},
     {"t": "Final Vendetta", "preco": 187.0, "loja": "Mercado Livre", "d": "2026-11-17", "url": "https://t.me/nintendobarato/14788"},
     {"t": "Jumanji Wild Adventures", "preco": 94.0, "loja": "Amazon", "d": "2026-11-17", "url": "https://t.me/nintendobarato/14789"},
-    {"t": "The Legend of Zelda: Ocarina of Time (Capa Foil)", "preco": 395.0, "loja": "Amazon", "meu": "The Legend of Zelda: Ocarina of Time", "d": "2026-11-17", "url": "https://t.me/nintendobarato/14790"}
+    {"t": "The Legend of Zelda: Ocarina of Time (Capa Foil)", "preco": 395.0, "loja": "Amazon", "meu": "The Legend of Zelda: Ocarina of Time", "d": "2026-11-17", "url": "https://t.me/nintendobarato/14790"},
+    {"t": "Sea of Stars Switch", "preco": 199.0, "loja": "Amazon", "meu": "Sea of Stars", "d": "2026-11-17", "url": "https://t.me/nintendobarato/14792"},
+    {"t": "Absolum", "preco": 241.0, "loja": "Amazon", "d": "2026-11-18", "url": "https://t.me/nintendobarato/14793"},
+    {"t": "Rainbow Billy The Curse Of The Leviathan", "preco": 59.0, "loja": "Mercado Livre", "d": "2026-11-18", "url": "https://t.me/nintendobarato/14794"},
+    {"t": "Sonic Frontiers Definitive Edition", "preco": 174.0, "loja": "Mercado Livre", "d": "2026-11-18", "url": "https://t.me/nintendobarato/14795"},
+    {"t": "Shinobi Art Of Vengeance Deluxe Edition", "preco": 174.0, "loja": "Mercado Livre", "d": "2026-11-18", "url": "https://t.me/nintendobarato/14796"}
   ]
 }
