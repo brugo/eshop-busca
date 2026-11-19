@@ -1,12 +1,7 @@
 {
-  "updated": "2026-11-18T20:12:40-03:00",
+  "updated": "2026-11-19T10:59:50-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "Mario & Luigi Brothership", "preco": 209.0, "loja": "Mercado Livre", "d": "2026-11-17", "url": "https://t.me/nintendobarato/14783"},
-    {"t": "Street Fighter 30th Anniversary Collection", "preco": 174.0, "loja": "Amazon", "d": "2026-11-17", "url": "https://t.me/nintendobarato/14787"},
-    {"t": "Final Vendetta", "preco": 187.0, "loja": "Mercado Livre", "d": "2026-11-17", "url": "https://t.me/nintendobarato/14788"},
-    {"t": "Jumanji Wild Adventures", "preco": 94.0, "loja": "Amazon", "d": "2026-11-17", "url": "https://t.me/nintendobarato/14789"},
-    {"t": "The Legend of Zelda: Ocarina of Time (Capa Foil)", "preco": 395.0, "loja": "Amazon", "meu": "The Legend of Zelda: Ocarina of Time", "d": "2026-11-17", "url": "https://t.me/nintendobarato/14790"},
     {"t": "Sea of Stars Switch", "preco": 199.0, "loja": "Amazon", "meu": "Sea of Stars", "d": "2026-11-17", "url": "https://t.me/nintendobarato/14792"},
     {"t": "Absolum", "preco": 241.0, "loja": "Amazon", "d": "2026-11-18", "url": "https://t.me/nintendobarato/14793"},
     {"t": "Rainbow Billy The Curse Of The Leviathan", "preco": 59.0, "loja": "Mercado Livre", "d": "2026-11-18", "url": "https://t.me/nintendobarato/14794"},
@@ -16,6 +11,14 @@
     {"t": "Resident Evil Generation Pack", "preco": 439.0, "loja": "Amazon", "d": "2026-11-18", "url": "https://t.me/nintendobarato/14798"},
     {"t": "Marvel vs Capcom Fighting Collection Arcade Classics", "preco": 149.0, "loja": "Amazon", "d": "2026-11-18", "url": "https://t.me/nintendobarato/14799"},
     {"t": "ELG Power Bank 20000mAh Carregador Portátil Turbo 22,5W com Display", "preco": 108.0, "loja": "Amazon", "d": "2026-11-18", "url": "https://t.me/nintendobarato/14801"},
-    {"t": "Lumo", "preco": 149.0, "loja": "Amazon", "d": "2026-11-18", "url": "https://t.me/nintendobarato/14802"}
+    {"t": "Lumo", "preco": 149.0, "loja": "Amazon", "d": "2026-11-18", "url": "https://t.me/nintendobarato/14802"},
+    {"t": "Oddworld: Soulstorm - Oddtimized Edition", "preco": 155.0, "loja": "Amazon", "d": "2026-11-18", "url": "https://t.me/nintendobarato/14803"},
+    {"t": "Assassins Creed Shadows", "preco": 161.0, "loja": "Shopee", "d": "2026-11-18", "url": "https://t.me/nintendobarato/14804"},
+    {"t": "Gear Club Unlimited 1, 2 & 3", "preco": 208.0, "d": "2026-11-18", "url": "https://t.me/nintendobarato/14805"},
+    {"t": "Oddworld Stranger Wrath", "preco": 158.0, "loja": "Amazon", "d": "2026-11-19", "url": "https://t.me/nintendobarato/14806"},
+    {"t": "Gear Club Unlimited 2", "preco": 176.0, "loja": "Amazon", "d": "2026-11-19", "url": "https://t.me/nintendobarato/14807"},
+    {"t": "Oddworld Collection", "preco": 202.0, "loja": "Amazon", "d": "2026-11-19", "url": "https://t.me/nintendobarato/14808"},
+    {"t": "Metaphor ReFantazio Steelbook Edition / Edição Padrão", "preco": 322.0, "loja": "Amazon", "d": "2026-11-19", "url": "https://t.me/nintendobarato/14810"},
+    {"t": "Pac-Man World 2: Re-Pac", "preco": 159.0, "loja": "Amazon", "d": "2026-11-19", "url": "https://t.me/nintendobarato/14811"}
   ]
 }
