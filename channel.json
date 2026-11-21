@@ -1,8 +1,7 @@
 {
-  "updated": "2026-11-21T00:37:38-03:00",
+  "updated": "2026-11-21T10:07:44-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "Elden Ring: Tarnished Edition", "preco": 334.0, "loja": "Mercado Livre", "d": "2026-11-20", "url": "https://t.me/nintendobarato/14843"},
     {"t": "Epic Mickey Rebrushed (Switch 2)", "preco": 213.0, "loja": "Mercado Livre", "d": "2026-11-20", "url": "https://t.me/nintendobarato/14846"},
     {"t": "Pragmata", "preco": 269.0, "loja": "Mercado Livre", "d": "2026-11-20", "url": "https://t.me/nintendobarato/14851"},
     {"t": "Virtua Fighter 5 Revo World Stage", "preco": 201.0, "loja": "Amazon", "d": "2026-11-20", "url": "https://t.me/nintendobarato/14852"},
@@ -12,6 +11,8 @@
     {"t": "Disney Afternoon Collection", "preco": 189.0, "loja": "Amazon", "d": "2026-11-21", "url": "https://t.me/nintendobarato/14860"},
     {"t": "BRAVELY DEFAULT FLYING FAIRY HD Remaster", "preco": 244.0, "loja": "Amazon", "d": "2026-11-21", "url": "https://t.me/nintendobarato/14861"},
     {"t": "Tales Of Graces F Remastered", "preco": 149.0, "loja": "Mercado Livre", "d": "2026-11-21", "url": "https://t.me/nintendobarato/14862"},
-    {"t": "Super Kickers League Ultimate", "preco": 262.0, "loja": "Amazon", "d": "2026-11-21", "url": "https://t.me/nintendobarato/14863"}
+    {"t": "Super Kickers League Ultimate", "preco": 262.0, "loja": "Amazon", "d": "2026-11-21", "url": "https://t.me/nintendobarato/14863"},
+    {"t": "Observer System Redux", "preco": 311.0, "loja": "Mercado Livre", "d": "2026-11-21", "url": "https://t.me/nintendobarato/14864"},
+    {"t": "The Legend Of Zelda Ocarina Of Time", "preco": 387.0, "loja": "Mercado Livre", "meu": "The Legend of Zelda: Ocarina of Time", "d": "2026-11-21", "url": "https://t.me/nintendobarato/14865"}
   ]
 }
