@@ -1,18 +1,17 @@
 {
-  "updated": "2026-11-22T09:55:36-03:00",
+  "updated": "2026-11-22T19:13:20-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "Ghost Master Resurrection", "preco": 230.0, "loja": "Amazon", "d": "2026-11-21", "url": "https://t.me/nintendobarato/14874"},
-    {"t": "Star Wars Dark Forces Remastered", "preco": 144.0, "loja": "Amazon", "d": "2026-11-21", "url": "https://t.me/nintendobarato/14875"},
-    {"t": "Assassins Creed Shadows", "preco": 179.0, "loja": "Mercado Livre", "d": "2026-11-21", "url": "https://t.me/nintendobarato/14876"},
-    {"t": "Halloween and Ash vs Evil Dead RetroRealms Double Feature", "preco": 126.0, "loja": "Amazon", "d": "2026-11-21", "url": "https://t.me/nintendobarato/14877"},
-    {"t": "Turok Trilogy Bundle", "preco": 144.0, "loja": "Amazon", "d": "2026-11-21", "url": "https://t.me/nintendobarato/14878"},
-    {"t": "Assassins Creed Shadows", "preco": 161.0, "loja": "Mercado Livre", "d": "2026-11-21", "url": "https://t.me/nintendobarato/14879"},
-    {"t": "Câmera Usb Hori", "preco": 202.0, "loja": "Mercado Livre", "d": "2026-11-21", "url": "https://t.me/nintendobarato/14880"},
-    {"t": "WWE 2k25", "preco": 134.0, "loja": "Mercado Livre", "d": "2026-11-21", "url": "https://t.me/nintendobarato/14881"},
-    {"t": "Cronos The New Dawn", "preco": 168.0, "loja": "Mercado Livre", "d": "2026-11-21", "url": "https://t.me/nintendobarato/14882"},
-    {"t": "Hello Kitty Island Adventure", "preco": 136.0, "loja": "Amazon", "d": "2026-11-21", "url": "https://t.me/nintendobarato/14883"},
     {"t": "The Adventures Of Elliot The Millennium Tales", "preco": 206.0, "loja": "Mercado Livre", "meu": "The Adventures of Elliot: The Millennium Tales", "d": "2026-11-22", "url": "https://t.me/nintendobarato/14890"},
-    {"t": "Yoshi And The Mysterious Book", "preco": 332.0, "loja": "Mercado Livre", "d": "2026-11-22", "url": "https://t.me/nintendobarato/14891"}
+    {"t": "Yoshi And The Mysterious Book", "preco": 332.0, "loja": "Mercado Livre", "d": "2026-11-22", "url": "https://t.me/nintendobarato/14891"},
+    {"t": "Orbitals", "preco": 237.0, "loja": "Mercado Livre", "d": "2026-11-22", "url": "https://t.me/nintendobarato/14892"},
+    {"t": "Paper Mario The Thousand-year Door", "preco": 242.0, "loja": "Mercado Livre", "d": "2026-11-22", "url": "https://t.me/nintendobarato/14893"},
+    {"t": "Suporte para Nintendo Switch Zelda Playstand Base Hori Oficial", "preco": 104.0, "loja": "Amazon", "d": "2026-11-22", "url": "https://t.me/nintendobarato/14895"},
+    {"t": "Disney Afternoon Collection", "preco": 186.0, "loja": "Amazon", "d": "2026-11-22", "url": "https://t.me/nintendobarato/14896"},
+    {"t": "Amiibo – Tropa Koopa", "preco": 153.0, "loja": "Amazon", "d": "2026-11-22", "url": "https://t.me/nintendobarato/14897"},
+    {"t": "Mighty Morphin Power Rangers: Rita’s Rewind", "preco": 194.0, "loja": "Amazon", "d": "2026-11-22", "url": "https://t.me/nintendobarato/14898"},
+    {"t": "Super Monkey Ball Banana Rumble", "preco": 167.0, "loja": "Amazon", "d": "2026-11-22", "url": "https://t.me/nintendobarato/14899"},
+    {"t": "Dragons: Dawn of New Riders", "preco": 118.0, "loja": "Amazon", "d": "2026-11-22", "url": "https://t.me/nintendobarato/14900"},
+    {"t": "Wobbly Life Nintendo Switch", "preco": 139.0, "loja": "Amazon", "d": "2026-11-22", "url": "https://t.me/nintendobarato/14901"}
   ]
 }
