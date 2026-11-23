@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-22T19:13:19-03:00",
-  "total": 3291,
+  "updated": "2026-11-23T00:20:50-03:00",
+  "total": 3289,
   "games": [
     {"n": "MARIO + RABBIDS SPARKS OF HOPE", "id": "70010000035797", "p": "SW", "s": "mario-plus-rabbids-sparks-of-hope-switch", "reg": 299.99, "cur": 74.99, "pct": 75, "ends": "2026-12-03T07:59:59Z", "rank": 28, "meu": false, "img": "switch/70010000035797/f3dc6aa2e25ab6d713ac5da17e90ce676dfadf6a0b8fefb37b8b5159d89fc36c"},
     {"n": "Split Fiction", "id": "70010000097434", "p": "SW2", "s": "split-fiction-switch-2", "reg": 249.0, "cur": 149.4, "pct": 40, "ends": "2026-12-03T07:59:59Z", "rank": 44, "meu": false, "img": "switch2/70010000097434/6de085f1efb6c90b754e383fe810f3cb0e847105bb584c706f4cd3b5c66491f4"},
@@ -10,7 +10,6 @@
     {"n": "Unravel Two", "id": "70010000015568", "p": "SW", "s": "unravel-two-switch", "reg": 109.0, "cur": 32.7, "pct": 70, "ends": "2026-12-03T07:59:59Z", "rank": 108, "meu": false, "img": "switch/70010000015568/e39e17159b7aa3770398e4dc1ebd15eb15377c6cbad55d2256f84e55394436de"},
     {"n": "PICO PARK 2", "id": "70010000077279", "p": "SW", "s": "pico-park-2-switch", "reg": 21.95, "cur": 15.36, "pct": 30, "ends": "2026-11-26T07:59:59Z", "rank": 128, "meu": false, "img": "switch/70010000077279/0f587eead51df6da5a59c6f53361a65dccfb97897ab844e8865cd67d8e2133f5"},
     {"n": "EA SPORTS™ Madden NFL 27", "id": "70010000105634", "p": "SW2", "s": "ea-sports-madden-nfl-27-switch-2", "reg": 349.0, "cur": 174.5, "pct": 50, "ends": "2026-12-03T07:59:59Z", "rank": 136, "meu": false, "img": "switch2/70010000105634/69755d684a02ac32c5557c92050aecaeaa895f4b1cd5d22f5c944d59150c1478"},
-    {"n": "Gang Beasts", "id": "70010000033942", "p": "SW", "s": "gang-beasts-switch", "reg": 99.0, "cur": 39.6, "pct": 60, "ends": "2026-11-22T23:59:59Z", "rank": 143, "meu": false, "img": "switch/70010000033942/04e13ca17a27aad6c8fe171aca4bcd9731cf04121542958fa4d09d2b49c4c154"},
     {"n": "Kirby™ and the Forgotten Land – Nintendo Switch™ 2 Edition + Star-Crossed World", "id": "70010000096829", "p": "SW2", "s": "kirby-and-the-forgotten-land-nintendo-switch-2-edition-plus-star-crossed-world-switch-2", "reg": 439.9, "cur": 307.93, "pct": 30, "ends": "2026-12-03T07:59:59Z", "rank": 144, "meu": false, "img": "switch2/70010000096829/0a06bf277f1eb585fcbb7ddeb4f70014fd1c860d326eb33c8accf4d4827ade72"},
     {"n": "Assassin's Creed Shadows", "id": "70010000101043", "p": "SW2", "s": "assassins-creed-shadows-switch-2", "reg": 299.99, "cur": 164.98, "pct": 45, "ends": "2026-12-03T07:59:59Z", "rank": 147, "meu": false, "img": "switch2/70010000101043/27e7c0866bfdf82d63a1486122e2dff215a5604794b7c8311256fb5d60a650b0"},
     {"n": "Plants vs. Zombies™: Replanted", "id": "70010000098368", "p": "SW", "s": "plants-vs-zombies-replanted-switch", "reg": 99.0, "cur": 54.45, "pct": 45, "ends": "2026-12-03T07:59:59Z", "rank": 148, "meu": false, "img": "switch/70010000098368/b192bd37698dbead21d4b0ff84a8d5f985a804f93ad767a29f9127bbf7aa904d"},
@@ -61,6 +60,7 @@
     {"n": "Persona 3 Reload", "id": "70010000100149", "p": "SW2", "s": "persona-3-reload-switch-2", "reg": 299.9, "cur": 149.95, "pct": 50, "ends": "2026-12-03T07:59:59Z", "rank": 443, "meu": false, "img": "switch2/70010000100149/b755e5038e7fb59e09abe48fd4db575a346ceea53c4d146d7bb6e32b0fea3c0d"},
     {"n": "Monster Hunter Stories 2: Wings of Ruin", "id": "70010000028503", "p": "SW", "s": "monster-hunter-stories-2-wings-of-ruin-switch", "reg": 230.0, "cur": 57.5, "pct": 75, "ends": "2026-12-07T07:59:59Z", "rank": 451, "meu": false, "img": "switch/70010000028503/39d22dad288b3e3dd75f63b7f757202d25fc10bcdd527192cbd19bcbbff7da64"},
     {"n": "SUPER BOMBERMAN COLLECTION", "id": "70010000099268", "p": "SW", "s": "super-bomberman-collection-switch", "reg": 114.9, "cur": 91.92, "pct": 20, "ends": "2026-12-07T07:59:59Z", "rank": 458, "meu": false, "img": "switch/70010000099268/6d24a983f8adc65528262beca39112d921c1dfaa7dafbf6279a6c4245db53bdd"},
-    {"n": "Rotwood", "id": "70010000099153", "p": "SW2", "s": "rotwood-switch-2", "reg": 88.99, "cur": 66.74, "pct": 25, "ends": "2026-12-03T07:59:59Z", "rank": 469, "meu": false, "img": "switch2/70010000099153/5413317e516cfbe19cb0e61ded9dc183eb497d8f23e742de16a9fd82b54c3966"}
+    {"n": "Rotwood", "id": "70010000099153", "p": "SW2", "s": "rotwood-switch-2", "reg": 88.99, "cur": 66.74, "pct": 25, "ends": "2026-12-03T07:59:59Z", "rank": 469, "meu": false, "img": "switch2/70010000099153/5413317e516cfbe19cb0e61ded9dc183eb497d8f23e742de16a9fd82b54c3966"},
+    {"n": "Quarantine Zone: Border Zombie Checkpoint", "id": "70010000104758", "p": "SW", "s": "quarantine-zone-border-zombie-checkpoint-switch", "reg": 52.99, "cur": 15.89, "pct": 70, "ends": "2026-11-24T07:59:59Z", "rank": 483, "meu": false, "img": "switch/70010000104758/94ca35c39e6b390bfe836b65b2b40d18c925e5d7cd4da2b3bd64884358eaaba7"}
   ]
 }
