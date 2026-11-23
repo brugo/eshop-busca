@@ -1,13 +1,7 @@
 {
-  "updated": "2026-11-23T00:20:51-03:00",
+  "updated": "2026-11-23T12:29:53-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "Amiibo – Tropa Koopa", "preco": 153.0, "loja": "Amazon", "d": "2026-11-22", "url": "https://t.me/nintendobarato/14897"},
-    {"t": "Mighty Morphin Power Rangers: Rita’s Rewind", "preco": 194.0, "loja": "Amazon", "d": "2026-11-22", "url": "https://t.me/nintendobarato/14898"},
-    {"t": "Super Monkey Ball Banana Rumble", "preco": 167.0, "loja": "Amazon", "d": "2026-11-22", "url": "https://t.me/nintendobarato/14899"},
-    {"t": "Dragons: Dawn of New Riders", "preco": 118.0, "loja": "Amazon", "d": "2026-11-22", "url": "https://t.me/nintendobarato/14900"},
-    {"t": "Wobbly Life Nintendo Switch", "preco": 139.0, "loja": "Amazon", "d": "2026-11-22", "url": "https://t.me/nintendobarato/14901"},
-    {"t": "Nintendo Switch Lite Turquesa", "preco": 1150.0, "loja": "Mercado Livre", "d": "2026-11-22", "url": "https://t.me/nintendobarato/14904"},
     {"t": "Assassins Creed Shadows", "preco": 149.0, "loja": "Mercado Livre", "d": "2026-11-22", "url": "https://t.me/nintendobarato/14905"},
     {"t": "EA Sports FC 27", "preco": 219.0, "loja": "Mercado Livre", "d": "2026-11-22", "url": "https://t.me/nintendobarato/14906"},
     {"t": "The Adventures Of Elliot The Millennium Tales", "preco": 199.0, "loja": "Mercado Livre", "meu": "The Adventures of Elliot: The Millennium Tales", "d": "2026-11-22", "url": "https://t.me/nintendobarato/14907"},
@@ -18,6 +12,11 @@
     {"t": "Pro Controller Nintendo Switch", "preco": 278.0, "loja": "Amazon", "d": "2026-11-23", "url": "https://t.me/nintendobarato/14913"},
     {"t": "Pro Controller Nintendo Switch 2", "preco": 464.0, "loja": "Amazon", "d": "2026-11-23", "url": "https://t.me/nintendobarato/14914"},
     {"t": "The Legend of Zelda: Breath of the Wild", "preco": 344.0, "loja": "Amazon", "d": "2026-11-23", "url": "https://t.me/nintendobarato/14915"},
-    {"t": "Super Mario Odyssey", "preco": 268.0, "loja": "Amazon", "d": "2026-11-23", "url": "https://t.me/nintendobarato/14916"}
+    {"t": "Super Mario Odyssey", "preco": 268.0, "loja": "Amazon", "d": "2026-11-23", "url": "https://t.me/nintendobarato/14916"},
+    {"t": "The Legend of Zelda: Breath of the Wild", "preco": 269.0, "loja": "Amazon", "d": "2026-11-23", "url": "https://t.me/nintendobarato/14918"},
+    {"t": "Pokémon Legends Z-A", "preco": 256.0, "loja": "Mercado Livre", "d": "2026-11-23", "url": "https://t.me/nintendobarato/14919"},
+    {"t": "Virtua Fighter 5 R.E.V.O. World Stage: 30th Anniversary Edition", "preco": 201.0, "loja": "Amazon", "d": "2026-11-23", "url": "https://t.me/nintendobarato/14920"},
+    {"t": "The Adventures Of Elliot The Millennium Tales", "preco": 206.0, "loja": "Mercado Livre", "meu": "The Adventures of Elliot: The Millennium Tales", "d": "2026-11-23", "url": "https://t.me/nintendobarato/14922"},
+    {"t": "Star Fox", "preco": 229.0, "loja": "Mercado Livre", "meu": "Star Fox", "d": "2026-11-23", "url": "https://t.me/nintendobarato/14923"}
   ]
 }
