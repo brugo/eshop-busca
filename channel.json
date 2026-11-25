@@ -1,13 +1,7 @@
 {
-  "updated": "2026-11-24T22:11:33-03:00",
+  "updated": "2026-11-25T12:06:47-03:00",
   "canal": "nintendobarato",
   "posts": [
-    {"t": "Elden Ring: Tarnished Edition", "preco": 334.0, "loja": "Mercado Livre", "d": "2026-11-24", "url": "https://t.me/nintendobarato/14977"},
-    {"t": "Zenith", "preco": 149.0, "loja": "Amazon", "d": "2026-11-24", "url": "https://t.me/nintendobarato/14979"},
-    {"t": "Disney Afternoon Collection", "preco": 173.0, "loja": "Amazon", "d": "2026-11-24", "url": "https://t.me/nintendobarato/14980"},
-    {"t": "SpongeBob SquarePants: Bundle", "preco": 186.0, "loja": "Amazon", "d": "2026-11-24", "url": "https://t.me/nintendobarato/14981"},
-    {"t": "Ninja Gaiden: Master Collection", "preco": 276.0, "loja": "Amazon", "d": "2026-11-24", "url": "https://t.me/nintendobarato/14982"},
-    {"t": "Hello Kitty Island Adventure", "preco": 128.0, "loja": "Amazon", "d": "2026-11-24", "url": "https://t.me/nintendobarato/14983"},
     {"t": "R-Type Delta HD Boosted", "preco": 275.0, "loja": "Amazon", "d": "2026-11-24", "url": "https://t.me/nintendobarato/14984"},
     {"t": "Assassin's Creed the Ezio Collection", "preco": 129.0, "loja": "Amazon", "d": "2026-11-25", "url": "https://t.me/nintendobarato/14987"},
     {"t": "amiibo - Octoling (Blue) - Splatoon Series", "preco": 166.0, "loja": "Amazon", "d": "2026-11-25", "url": "https://t.me/nintendobarato/14988"},
@@ -16,6 +10,14 @@
     {"t": "Dave the Diver Complete Edition", "preco": 265.0, "loja": "Amazon", "d": "2026-11-25", "url": "https://t.me/nintendobarato/14991"},
     {"t": "Crash Bandicoot - N-Sane Trilogy!", "preco": 154.0, "loja": "Amazon", "d": "2026-11-25", "url": "https://t.me/nintendobarato/14992"},
     {"t": "The House of the Dead 2: Remake Limited Edition", "preco": 145.0, "loja": "Amazon", "d": "2026-11-25", "url": "https://t.me/nintendobarato/14993"},
-    {"t": "Hades II Nintendo Switch 2 Edition", "preco": 263.0, "loja": "Amazon", "d": "2026-11-25", "url": "https://t.me/nintendobarato/14994"}
+    {"t": "Hades II Nintendo Switch 2 Edition", "preco": 263.0, "loja": "Amazon", "d": "2026-11-25", "url": "https://t.me/nintendobarato/14994"},
+    {"t": "The Phantom", "preco": 186.0, "loja": "Amazon", "d": "2026-11-25", "url": "https://t.me/nintendobarato/14995"},
+    {"t": "Pokemon Shield", "preco": 379.0, "loja": "Amazon", "d": "2026-11-25", "url": "https://t.me/nintendobarato/14996"},
+    {"t": "Disney Classic Games Collection", "preco": 136.0, "loja": "Amazon", "d": "2026-11-25", "url": "https://t.me/nintendobarato/14998"},
+    {"t": "Broken Sword Shadow of the Templars Reforged", "preco": 182.0, "loja": "Amazon", "d": "2026-11-25", "url": "https://t.me/nintendobarato/14999"},
+    {"t": "Monopoly: Super Mario Galaxy The Movie Board Game", "preco": 258.0, "loja": "Mercado Livre", "d": "2026-11-25", "url": "https://t.me/nintendobarato/15000"},
+    {"t": "Star Fox", "preco": 249.0, "loja": "Mercado Livre", "meu": "Star Fox", "d": "2026-11-25", "url": "https://t.me/nintendobarato/15001"},
+    {"t": "Micro SD Express 256GB (ideal ao Switch 2)", "preco": 342.0, "loja": "Magazine Luiza", "d": "2026-11-25", "url": "https://t.me/nintendobarato/15002"},
+    {"t": "Cyberpunk 2077 Ultimate Edition", "preco": 315.0, "loja": "Magazine Luiza", "d": "2026-11-25", "url": "https://t.me/nintendobarato/15003"}
   ]
 }
